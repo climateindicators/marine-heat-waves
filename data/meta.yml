@@ -1,0 +1,72 @@
+indicator:
+  name: Marine Heat Waves
+  slug: marine-heat-waves
+  publisher: U.S. Environmental Protection Agency
+  source_page: https://19january2025snapshot.epa.gov/climate-indicators/climate-change-indicators-marine-heat-waves/index.html
+  technical_documentation: https://19january2025snapshot.epa.gov/system/files/documents/2024-06/marine-heat-waves_documentation.pdf
+  rights: Public domain, work of the U.S. Government (17 U.S.C. 105)
+datasets:
+- file: marine_heat_waves_area_by_region.csv
+  figure: Figure 3
+  figure_title: Figure 3. Areas Affected by Marine Heat Waves by U.S. Coastal Region,
+    1982-2023
+  source_file: marine-heat-waves_fig-3.csv
+  source_sha256: a0c54a81ad95ab5936a8eb85b151a364d4c1deae21b9f50f3ef555f6984a59ac
+  source_encoding: UTF-8-BOM
+  data_source: NOAA, 2024
+  web_update: June 2024
+  unit: percent area (%)
+  rows: 1008
+  columns:
+  - name: year
+    type: integer
+    description: Calendar year.
+  - name: region
+    type: character
+    description: 'U.S. coastal region: West Coast, Gulf of Mexico, Southeast, Northeast,
+      Alaska, or Hawaii.'
+  - name: category
+    type: character
+    description: 'Marine heat wave category: Moderate, Strong, Severe, or Extreme.'
+  - name: value
+    type: number
+    description: Percent of the region's coastal ocean area affected by a marine heat
+      wave of this category during the year (%).
+- file: marine_heat_waves_events_by_protected_area.csv
+  figure: Figure 4
+  figure_title: Figure 4. Marine Heat Wave Intensity and Duration at Five Marine Protected
+    Areas, 1982-2023
+  source_file: marine-heat-waves_fig-4.csv
+  source_sha256: 8ae074fa28a871d10eb6d25a6bcb5c8e9e92579948bd4f4cc1a430541e8523c2
+  source_encoding: UTF-8-BOM
+  data_source: NOAA, 2024
+  web_update: June 2024
+  unit: duration (days), intensity (degrees F), severity
+  rows: 1136
+  columns:
+  - name: marine_protected_area
+    type: character
+    description: Name of the marine protected area, as EPA writes it.
+  - name: event_no
+    type: integer
+    description: EPA's event number, sequential within each marine protected area.
+  - name: date_start
+    type: date
+    description: First day of the marine heat wave event (ISO 8601).
+  - name: date_end
+    type: date
+    description: Last day of the marine heat wave event (ISO 8601).
+  - name: severity
+    type: character
+    description: 'Event category as EPA writes it: I Moderate, II Strong, III Severe,
+      or IV Extreme.'
+  - name: measure
+    type: character
+    description: 'Which event measure the row carries: duration or intensity_mean.'
+  - name: unit
+    type: character
+    description: 'Unit of value: days for duration, degrees F for intensity_mean.'
+  - name: value
+    type: number
+    description: Event duration in days, or mean intensity of the event in degrees
+      F.

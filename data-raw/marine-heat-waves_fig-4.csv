@@ -1,0 +1,575 @@
+﻿"Figure 4. Marine Heat Wave Intensity and Duration at Five Marine Protected Areas, 1982-2023",,,,,,
+Source: EPA's Climate Change Indicators in the United States: www.epa.gov/climate-indicators,,,,,,
+"Data source: NOAA, 2024",,,,,,
+Web update: June 2024,,,,,,
+"Units: duration (days), intensity (degrees F), severity",,,,,,
+,,,,,,
+event_no,duration,date_start,date_end,intensity_mean,severity,marine_protected_area
+1,7,12/20/1982,12/26/1982,2.8348,I Moderate,Olympic Coast National Marine Sanctuary
+2,5,1/23/1983,1/27/1983,2.77,I Moderate,Olympic Coast National Marine Sanctuary
+3,5,2/4/1983,2/8/1983,2.3124,I Moderate,Olympic Coast National Marine Sanctuary
+4,13,2/14/1983,2/26/1983,2.8834,I Moderate,Olympic Coast National Marine Sanctuary
+5,35,3/2/1983,4/5/1983,2.9915,I Moderate,Olympic Coast National Marine Sanctuary
+6,5,4/27/1983,5/1/1983,3.0569,I Moderate,Olympic Coast National Marine Sanctuary
+7,7,7/6/1983,7/12/1983,3.1109,I Moderate,Olympic Coast National Marine Sanctuary
+8,7,11/2/1983,11/8/1983,2.4248,I Moderate,Olympic Coast National Marine Sanctuary
+9,14,11/16/1983,11/29/1983,2.3233,I Moderate,Olympic Coast National Marine Sanctuary
+10,14,11/13/1987,11/26/1987,2.429,I Moderate,Olympic Coast National Marine Sanctuary
+11,11,4/29/1989,5/9/1989,3.63,II Strong,Olympic Coast National Marine Sanctuary
+12,8,7/4/1990,7/11/1990,2.9529,I Moderate,Olympic Coast National Marine Sanctuary
+13,29,9/1/1990,9/29/1990,4.3359,II Strong,Olympic Coast National Marine Sanctuary
+14,20,2/24/1992,3/14/1992,3.0976,I Moderate,Olympic Coast National Marine Sanctuary
+15,16,3/21/1992,4/5/1992,3.1456,II Strong,Olympic Coast National Marine Sanctuary
+16,13,4/11/1992,4/23/1992,2.5002,I Moderate,Olympic Coast National Marine Sanctuary
+17,6,5/2/1992,5/7/1992,2.6214,I Moderate,Olympic Coast National Marine Sanctuary
+18,11,6/28/1992,7/8/1992,3.5789,I Moderate,Olympic Coast National Marine Sanctuary
+19,28,5/23/1993,6/19/1993,4.2405,II Strong,Olympic Coast National Marine Sanctuary
+20,32,7/31/1994,8/31/1994,4.9692,II Strong,Olympic Coast National Marine Sanctuary
+21,5,9/26/1994,9/30/1994,3.1816,I Moderate,Olympic Coast National Marine Sanctuary
+22,6,3/17/1995,3/22/1995,2.7936,I Moderate,Olympic Coast National Marine Sanctuary
+23,12,7/17/1995,7/28/1995,3.9205,II Strong,Olympic Coast National Marine Sanctuary
+24,9,9/10/1995,9/18/1995,3.8959,I Moderate,Olympic Coast National Marine Sanctuary
+25,9,10/13/1995,10/21/1995,2.7883,I Moderate,Olympic Coast National Marine Sanctuary
+26,14,12/13/1995,12/26/1995,2.5679,I Moderate,Olympic Coast National Marine Sanctuary
+27,9,1/6/1996,1/14/1996,2.8852,I Moderate,Olympic Coast National Marine Sanctuary
+28,41,5/23/1997,7/2/1997,3.8776,II Strong,Olympic Coast National Marine Sanctuary
+29,11,7/6/1997,7/16/1997,3.3133,I Moderate,Olympic Coast National Marine Sanctuary
+30,9,7/29/1997,8/6/1997,3.3629,I Moderate,Olympic Coast National Marine Sanctuary
+31,119,8/28/1997,12/24/1997,3.9866,II Strong,Olympic Coast National Marine Sanctuary
+32,10,12/29/1997,1/7/1998,2.636,I Moderate,Olympic Coast National Marine Sanctuary
+33,78,1/14/1998,4/1/1998,3.6758,II Strong,Olympic Coast National Marine Sanctuary
+34,8,4/28/1998,5/5/1998,2.6828,I Moderate,Olympic Coast National Marine Sanctuary
+35,6,7/25/1998,7/30/1998,3.931,I Moderate,Olympic Coast National Marine Sanctuary
+36,22,8/7/1998,8/28/1998,3.8508,I Moderate,Olympic Coast National Marine Sanctuary
+37,16,11/26/1998,12/11/1998,2.2707,I Moderate,Olympic Coast National Marine Sanctuary
+38,53,12/15/2002,2/5/2003,2.7741,I Moderate,Olympic Coast National Marine Sanctuary
+39,6,7/9/2003,7/14/2003,3.0152,I Moderate,Olympic Coast National Marine Sanctuary
+40,15,5/12/2004,5/26/2004,3.2566,I Moderate,Olympic Coast National Marine Sanctuary
+41,6,5/31/2004,6/5/2004,3.3491,I Moderate,Olympic Coast National Marine Sanctuary
+42,7,6/22/2004,6/28/2004,2.9882,I Moderate,Olympic Coast National Marine Sanctuary
+43,6,7/18/2004,7/23/2004,3.1751,I Moderate,Olympic Coast National Marine Sanctuary
+44,13,5/5/2005,5/17/2005,2.7297,I Moderate,Olympic Coast National Marine Sanctuary
+45,11,10/13/2005,10/23/2005,2.8009,I Moderate,Olympic Coast National Marine Sanctuary
+46,8,10/27/2005,11/3/2005,2.3085,I Moderate,Olympic Coast National Marine Sanctuary
+47,21,1/2/2006,1/22/2006,2.8616,I Moderate,Olympic Coast National Marine Sanctuary
+48,5,4/7/2006,4/11/2006,2.263,I Moderate,Olympic Coast National Marine Sanctuary
+49,8,7/21/2007,7/28/2007,3.3062,I Moderate,Olympic Coast National Marine Sanctuary
+50,5,2/8/2010,2/12/2010,2.5474,I Moderate,Olympic Coast National Marine Sanctuary
+51,6,3/3/2010,3/8/2010,2.7048,I Moderate,Olympic Coast National Marine Sanctuary
+52,9,10/8/2011,10/16/2011,2.5459,I Moderate,Olympic Coast National Marine Sanctuary
+53,6,12/1/2012,12/6/2012,2.3427,I Moderate,Olympic Coast National Marine Sanctuary
+54,5,6/20/2013,6/24/2013,3.3402,I Moderate,Olympic Coast National Marine Sanctuary
+55,9,6/29/2013,7/7/2013,3.9923,II Strong,Olympic Coast National Marine Sanctuary
+56,30,8/31/2013,9/29/2013,4.8345,II Strong,Olympic Coast National Marine Sanctuary
+57,29,4/30/2014,5/28/2014,4.341,II Strong,Olympic Coast National Marine Sanctuary
+58,48,9/26/2014,11/12/2014,4.7789,II Strong,Olympic Coast National Marine Sanctuary
+59,43,11/21/2014,1/2/2015,3.7949,II Strong,Olympic Coast National Marine Sanctuary
+60,5,1/6/2015,1/10/2015,3.5956,I Moderate,Olympic Coast National Marine Sanctuary
+61,47,1/14/2015,3/1/2015,3.4507,II Strong,Olympic Coast National Marine Sanctuary
+62,44,3/9/2015,4/21/2015,2.8635,I Moderate,Olympic Coast National Marine Sanctuary
+63,26,7/4/2015,7/29/2015,3.0655,I Moderate,Olympic Coast National Marine Sanctuary
+64,7,8/10/2015,8/16/2015,3.0331,I Moderate,Olympic Coast National Marine Sanctuary
+65,65,9/20/2015,11/23/2015,3.7987,II Strong,Olympic Coast National Marine Sanctuary
+66,15,12/3/2015,12/17/2015,2.7188,I Moderate,Olympic Coast National Marine Sanctuary
+67,59,1/15/2016,3/13/2016,3.1005,I Moderate,Olympic Coast National Marine Sanctuary
+68,38,3/28/2016,5/4/2016,3.4795,III Severe,Olympic Coast National Marine Sanctuary
+69,8,7/18/2016,7/25/2016,3.4431,I Moderate,Olympic Coast National Marine Sanctuary
+70,38,10/28/2016,12/4/2016,3.7176,II Strong,Olympic Coast National Marine Sanctuary
+71,12,1/21/2018,2/1/2018,2.445,I Moderate,Olympic Coast National Marine Sanctuary
+72,6,6/17/2018,6/22/2018,3.62,I Moderate,Olympic Coast National Marine Sanctuary
+73,8,1/22/2019,1/29/2019,2.5666,I Moderate,Olympic Coast National Marine Sanctuary
+74,9,4/8/2019,4/16/2019,2.1262,I Moderate,Olympic Coast National Marine Sanctuary
+75,48,6/29/2019,8/15/2019,3.8825,II Strong,Olympic Coast National Marine Sanctuary
+76,6,8/24/2019,8/29/2019,3.1753,I Moderate,Olympic Coast National Marine Sanctuary
+77,26,9/2/2019,9/27/2019,4.6077,I Moderate,Olympic Coast National Marine Sanctuary
+78,13,5/8/2020,5/20/2020,3.4356,I Moderate,Olympic Coast National Marine Sanctuary
+79,15,9/29/2020,10/13/2020,3.5328,I Moderate,Olympic Coast National Marine Sanctuary
+80,11,6/24/2021,7/4/2021,4.0479,II Strong,Olympic Coast National Marine Sanctuary
+81,7,8/16/2022,8/22/2022,3.4997,I Moderate,Olympic Coast National Marine Sanctuary
+82,8,5/11/2023,5/18/2023,3.6549,I Moderate,Olympic Coast National Marine Sanctuary
+83,20,10/6/2023,10/25/2023,3.0718,I Moderate,Olympic Coast National Marine Sanctuary
+84,25,11/5/2023,11/29/2023,2.3144,I Moderate,Olympic Coast National Marine Sanctuary
+85,11,12/21/2023,12/31/2023,2.9093,I Moderate,Olympic Coast National Marine Sanctuary
+1,17,2/10/1982,2/26/1982,2.1209,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+2,10,10/31/1982,11/9/1982,3.0508,II Strong,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+3,9,11/28/1982,12/6/1982,2.6317,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+4,63,12/25/1982,2/25/1983,2.798,II Strong,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+5,6,3/3/1983,3/8/1983,2.1943,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+6,10,3/13/1983,3/22/1983,2.1736,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+7,8,9/6/1983,9/13/1983,3.4675,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+8,5,1/31/1984,2/4/1984,2.091,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+9,20,2/11/1984,3/1/1984,3.1424,II Strong,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+10,9,8/14/1984,8/22/1984,3.6475,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+11,6,11/10/1984,11/15/1984,1.8893,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+12,9,12/19/1984,12/27/1984,2.9634,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+13,5,1/5/1985,1/9/1985,2.8366,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+14,6,9/9/1989,9/14/1989,3.6152,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+15,5,8/3/1990,8/7/1990,3.0188,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+16,9,8/11/1990,8/19/1990,3.915,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+17,5,10/13/1990,10/17/1990,3.2746,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+18,5,3/5/1991,3/9/1991,2.2696,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+19,13,5/23/1991,6/4/1991,4.8862,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+20,6,7/21/1991,7/26/1991,2.903,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+21,8,6/11/1996,6/18/1996,4.2006,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+22,8,6/1/1999,6/8/1999,4.0404,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+23,9,7/26/1999,8/3/1999,3.036,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+24,13,9/3/1999,9/15/1999,4.2153,II Strong,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+25,14,6/16/2001,6/29/2001,4.6219,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+26,6,3/2/2002,3/7/2002,1.998,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+27,6,3/13/2002,3/18/2002,2.323,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+28,12,4/13/2002,4/24/2002,3.5861,II Strong,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+29,9,7/1/2002,7/9/2002,3.8478,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+30,10,8/11/2002,8/20/2002,3.2726,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+31,7,9/25/2003,10/1/2003,3.3287,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+32,5,7/19/2005,7/23/2005,3.528,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+33,46,12/23/2006,2/6/2007,3.1734,II Strong,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+34,7,7/29/2007,8/4/2007,3.6113,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+35,9,10/3/2007,10/11/2007,4.073,II Strong,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+36,9,10/20/2007,10/28/2007,2.7993,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+37,7,4/22/2008,4/28/2008,4.458,II Strong,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+38,9,7/28/2008,8/5/2008,3.3142,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+39,11,8/15/2008,8/25/2008,3.6482,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+40,8,9/4/2008,9/11/2008,3.3414,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+41,18,8/12/2009,8/29/2009,5.0045,II Strong,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+42,8,11/28/2009,12/5/2009,2.305,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+43,5,3/19/2010,3/23/2010,2.7749,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+44,37,4/2/2010,5/8/2010,3.7407,II Strong,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+45,15,5/23/2010,6/6/2010,5.2311,II Strong,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+46,36,6/20/2010,7/25/2010,5.2457,III Severe,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+47,11,8/30/2010,9/9/2010,3.99,II Strong,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+48,7,9/25/2010,10/1/2010,3.5248,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+49,6,5/27/2011,6/1/2011,3.9661,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+50,5,6/7/2011,6/11/2011,4.5211,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+51,16,6/28/2011,7/13/2011,4.7509,II Strong,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+52,6,7/20/2011,7/25/2011,3.74,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+53,6,7/31/2011,8/5/2011,3.3655,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+54,37,9/23/2011,10/29/2011,3.9757,II Strong,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+55,181,11/2/2011,4/30/2012,3.2196,IV Extreme,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+56,24,5/11/2012,6/3/2012,5.6044,II Strong,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+57,35,6/20/2012,7/24/2012,5.9637,II Strong,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+58,49,8/1/2012,9/18/2012,4.1943,II Strong,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+59,6,10/25/2012,10/30/2012,2.6694,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+60,92,11/21/2012,2/20/2013,2.9418,II Strong,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+61,23,2/24/2013,3/18/2013,2.4721,II Strong,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+62,10,3/23/2013,4/1/2013,2.1565,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+63,27,4/28/2013,5/24/2013,4.1814,II Strong,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+64,24,7/2/2013,7/25/2013,5.405,III Severe,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+65,7,7/29/2013,8/4/2013,3.7557,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+66,28,10/2/2013,10/29/2013,3.4874,II Strong,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+67,5,11/5/2013,11/9/2013,2.0988,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+68,5,5/10/2014,5/14/2014,3.6337,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+69,13,8/31/2014,9/12/2014,4.3811,II Strong,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+70,13,10/13/2014,10/25/2014,3.1664,II Strong,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+71,5,11/10/2014,11/14/2014,2.0672,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+72,5,1/2/2015,1/6/2015,2.1978,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+73,6,7/10/2015,7/15/2015,3.169,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+74,15,7/19/2015,8/2/2015,3.6683,II Strong,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+75,46,8/16/2015,9/30/2015,4.355,II Strong,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+76,153,11/2/2015,4/2/2016,2.7507,II Strong,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+77,16,5/23/2016,6/7/2016,4.3972,II Strong,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+78,37,7/16/2016,8/21/2016,4.6437,II Strong,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+79,71,8/26/2016,11/4/2016,4.0043,II Strong,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+80,41,11/9/2016,12/19/2016,2.6995,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+81,53,12/23/2016,2/13/2017,3.0482,II Strong,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+82,23,2/17/2017,3/11/2017,2.7379,II Strong,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+83,5,4/14/2017,4/18/2017,2.8042,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+84,9,8/14/2017,8/22/2017,2.908,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+85,48,9/24/2017,11/10/2017,4.4644,II Strong,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+86,7,2/27/2018,3/5/2018,2.1003,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+87,6,5/29/2018,6/3/2018,4.529,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+88,5,6/8/2018,6/12/2018,4.1973,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+89,7,6/17/2018,6/23/2018,3.8976,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+90,108,6/30/2018,10/15/2018,4.5119,III Severe,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+91,36,7/2/2019,8/6/2019,5.0122,II Strong,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+92,7,8/18/2019,8/24/2019,3.6212,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+93,9,8/29/2019,9/6/2019,3.3319,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+94,13,9/21/2019,10/3/2019,4.6193,II Strong,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+95,16,10/24/2019,11/8/2019,2.825,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+96,89,1/12/2020,4/9/2020,2.8607,II Strong,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+97,75,6/17/2020,8/30/2020,4.7911,III Severe,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+98,17,9/3/2020,9/19/2020,4.0374,II Strong,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+99,15,9/25/2020,10/9/2020,3.4253,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+100,50,10/19/2020,12/7/2020,2.9085,II Strong,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+101,6,3/10/2021,3/15/2021,2.0475,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+102,24,3/24/2021,4/16/2021,2.6615,II Strong,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+103,16,5/13/2021,5/28/2021,5.0602,II Strong,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+104,17,6/6/2021,6/22/2021,5.1471,II Strong,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+105,5,6/28/2021,7/2/2021,4.493,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+106,15,7/15/2021,7/29/2021,3.8342,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+107,26,8/7/2021,9/1/2021,4.996,II Strong,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+108,203,9/8/2021,3/29/2022,3.6733,III Severe,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+109,10,6/9/2022,6/18/2022,4.4547,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+110,13,6/26/2022,7/8/2022,3.9334,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+111,6,8/4/2022,8/9/2022,3.2932,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+112,32,8/22/2022,9/22/2022,4.3326,II Strong,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+113,61,10/20/2022,12/19/2022,3.7435,III Severe,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+114,19,1/13/2023,1/31/2023,2.5799,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+115,85,2/6/2023,5/1/2023,2.9866,II Strong,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+116,11,5/7/2023,5/17/2023,4.3666,II Strong,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+117,8,5/27/2023,6/3/2023,4.005,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+118,40,6/21/2023,7/30/2023,4.6601,II Strong,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+119,22,9/4/2023,9/25/2023,5.0763,III Severe,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+120,44,9/29/2023,11/11/2023,3.6121,II Strong,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+121,11,11/15/2023,11/25/2023,2.078,I Moderate,Gerry E. Studds/Stellwagen Bank National Marine Sanctuary
+1,9,2/9/1982,2/17/1982,2.5565,I Moderate,Florida Keys National Marine Sanctuary
+2,12,3/18/1982,3/29/1982,3.5664,II Strong,Florida Keys National Marine Sanctuary
+3,14,4/17/1982,4/30/1982,2.9489,I Moderate,Florida Keys National Marine Sanctuary
+4,18,11/17/1986,12/4/1986,2.3793,II Strong,Florida Keys National Marine Sanctuary
+5,6,12/12/1986,12/17/1986,1.9194,I Moderate,Florida Keys National Marine Sanctuary
+6,6,1/17/1987,1/22/1987,2.2186,I Moderate,Florida Keys National Marine Sanctuary
+7,6,2/1/1990,2/6/1990,2.1748,I Moderate,Florida Keys National Marine Sanctuary
+8,5,1/14/1991,1/18/1991,2.1794,I Moderate,Florida Keys National Marine Sanctuary
+9,12,1/28/1991,2/8/1991,3.0313,I Moderate,Florida Keys National Marine Sanctuary
+10,6,8/19/1991,8/24/1991,2.3001,I Moderate,Florida Keys National Marine Sanctuary
+11,16,1/4/1993,1/19/1993,3.0449,II Strong,Florida Keys National Marine Sanctuary
+12,11,7/22/1993,8/1/1993,2.0261,I Moderate,Florida Keys National Marine Sanctuary
+13,7,2/23/1994,3/1/1994,2.8911,I Moderate,Florida Keys National Marine Sanctuary
+14,7,3/22/1994,3/28/1994,2.4275,I Moderate,Florida Keys National Marine Sanctuary
+15,15,5/6/1994,5/20/1994,2.2965,I Moderate,Florida Keys National Marine Sanctuary
+16,21,11/29/1994,12/19/1994,2.381,II Strong,Florida Keys National Marine Sanctuary
+17,18,5/11/1995,5/28/1995,2.5287,II Strong,Florida Keys National Marine Sanctuary
+18,6,1/1/1997,1/6/1997,2.1609,I Moderate,Florida Keys National Marine Sanctuary
+19,15,2/20/1997,3/6/1997,2.9464,I Moderate,Florida Keys National Marine Sanctuary
+20,6,3/27/1997,4/1/1997,2.5905,I Moderate,Florida Keys National Marine Sanctuary
+21,8,7/14/1997,7/21/1997,1.611,I Moderate,Florida Keys National Marine Sanctuary
+22,28,7/30/1997,8/26/1997,1.951,I Moderate,Florida Keys National Marine Sanctuary
+23,17,6/4/1998,6/20/1998,2.1637,II Strong,Florida Keys National Marine Sanctuary
+24,12,7/1/1998,7/12/1998,2.6203,II Strong,Florida Keys National Marine Sanctuary
+25,6,7/31/1998,8/5/1998,1.6028,I Moderate,Florida Keys National Marine Sanctuary
+26,6,8/10/1998,8/15/1998,1.7734,I Moderate,Florida Keys National Marine Sanctuary
+27,20,8/23/1998,9/11/1998,1.7255,I Moderate,Florida Keys National Marine Sanctuary
+28,10,2/4/1999,2/13/1999,2.5067,I Moderate,Florida Keys National Marine Sanctuary
+29,7,4/12/1999,4/18/1999,2.3738,I Moderate,Florida Keys National Marine Sanctuary
+30,7,5/11/1999,5/17/1999,2.328,I Moderate,Florida Keys National Marine Sanctuary
+31,9,7/28/1999,8/5/1999,2.1891,I Moderate,Florida Keys National Marine Sanctuary
+32,5,8/12/1999,8/16/1999,1.8463,I Moderate,Florida Keys National Marine Sanctuary
+33,13,9/1/1999,9/13/1999,2.239,II Strong,Florida Keys National Marine Sanctuary
+34,9,7/18/2000,7/26/2000,1.8281,I Moderate,Florida Keys National Marine Sanctuary
+35,7,10/4/2000,10/10/2000,2.0279,I Moderate,Florida Keys National Marine Sanctuary
+36,5,6/13/2001,6/17/2001,1.5625,I Moderate,Florida Keys National Marine Sanctuary
+37,6,2/2/2002,2/7/2002,2.3008,I Moderate,Florida Keys National Marine Sanctuary
+38,7,3/21/2002,3/27/2002,2.6903,I Moderate,Florida Keys National Marine Sanctuary
+39,7,3/31/2002,4/6/2002,3.3619,II Strong,Florida Keys National Marine Sanctuary
+40,18,4/21/2002,5/8/2002,2.6249,I Moderate,Florida Keys National Marine Sanctuary
+41,20,10/28/2002,11/16/2002,2.202,I Moderate,Florida Keys National Marine Sanctuary
+42,25,3/2/2003,3/26/2003,3.4977,II Strong,Florida Keys National Marine Sanctuary
+43,9,5/12/2003,5/20/2003,2.1283,I Moderate,Florida Keys National Marine Sanctuary
+44,8,6/3/2003,6/10/2003,1.8467,I Moderate,Florida Keys National Marine Sanctuary
+45,15,10/1/2003,10/15/2003,1.9536,I Moderate,Florida Keys National Marine Sanctuary
+46,9,12/4/2004,12/12/2004,1.6912,I Moderate,Florida Keys National Marine Sanctuary
+47,16,9/16/2006,10/1/2006,2.3027,II Strong,Florida Keys National Marine Sanctuary
+48,5,10/21/2006,10/25/2006,1.8021,I Moderate,Florida Keys National Marine Sanctuary
+49,12,12/31/2006,1/11/2007,2.7766,I Moderate,Florida Keys National Marine Sanctuary
+50,12,1/16/2007,1/27/2007,2.6462,I Moderate,Florida Keys National Marine Sanctuary
+51,13,9/2/2007,9/14/2007,1.5853,I Moderate,Florida Keys National Marine Sanctuary
+52,5,12/13/2007,12/17/2007,2.1495,I Moderate,Florida Keys National Marine Sanctuary
+53,5,2/6/2008,2/10/2008,3.3922,II Strong,Florida Keys National Marine Sanctuary
+54,5,2/23/2008,2/27/2008,2.9302,I Moderate,Florida Keys National Marine Sanctuary
+55,7,6/16/2009,6/22/2009,1.68,I Moderate,Florida Keys National Marine Sanctuary
+56,5,8/31/2009,9/4/2009,1.6131,I Moderate,Florida Keys National Marine Sanctuary
+57,22,9/27/2009,10/18/2009,2.492,II Strong,Florida Keys National Marine Sanctuary
+58,10,10/28/2009,11/6/2009,2.013,I Moderate,Florida Keys National Marine Sanctuary
+59,8,12/13/2009,12/20/2009,2,I Moderate,Florida Keys National Marine Sanctuary
+60,5,5/7/2010,5/11/2010,2.3866,I Moderate,Florida Keys National Marine Sanctuary
+61,19,6/4/2010,6/22/2010,2.5225,II Strong,Florida Keys National Marine Sanctuary
+62,6,7/10/2010,7/15/2010,1.7902,I Moderate,Florida Keys National Marine Sanctuary
+63,11,4/9/2011,4/19/2011,2.5085,I Moderate,Florida Keys National Marine Sanctuary
+64,5,5/9/2011,5/13/2011,2.1221,I Moderate,Florida Keys National Marine Sanctuary
+65,5,7/18/2011,7/22/2011,1.9281,I Moderate,Florida Keys National Marine Sanctuary
+66,6,8/3/2011,8/8/2011,2.1007,I Moderate,Florida Keys National Marine Sanctuary
+67,14,8/12/2011,8/25/2011,2.2158,II Strong,Florida Keys National Marine Sanctuary
+68,5,9/7/2011,9/11/2011,1.5725,I Moderate,Florida Keys National Marine Sanctuary
+69,7,4/1/2012,4/7/2012,2.7927,I Moderate,Florida Keys National Marine Sanctuary
+70,5,5/28/2012,6/1/2012,2.1685,I Moderate,Florida Keys National Marine Sanctuary
+71,5,1/15/2013,1/19/2013,2.1609,I Moderate,Florida Keys National Marine Sanctuary
+72,8,4/16/2013,4/23/2013,2.6704,I Moderate,Florida Keys National Marine Sanctuary
+73,10,11/19/2013,11/28/2013,2.1108,I Moderate,Florida Keys National Marine Sanctuary
+74,8,12/10/2013,12/17/2013,2.1367,I Moderate,Florida Keys National Marine Sanctuary
+75,14,12/21/2013,1/3/2014,2.5345,I Moderate,Florida Keys National Marine Sanctuary
+76,8,1/9/2014,1/16/2014,2.5748,I Moderate,Florida Keys National Marine Sanctuary
+77,9,2/5/2014,2/13/2014,3.0724,I Moderate,Florida Keys National Marine Sanctuary
+78,7,2/22/2014,2/28/2014,3.2464,I Moderate,Florida Keys National Marine Sanctuary
+79,30,6/22/2014,7/21/2014,1.6583,I Moderate,Florida Keys National Marine Sanctuary
+80,6,7/28/2014,8/2/2014,1.9489,I Moderate,Florida Keys National Marine Sanctuary
+81,25,8/13/2014,9/6/2014,1.8098,I Moderate,Florida Keys National Marine Sanctuary
+82,9,10/2/2014,10/10/2014,1.7656,I Moderate,Florida Keys National Marine Sanctuary
+83,12,12/29/2014,1/9/2015,2.4728,I Moderate,Florida Keys National Marine Sanctuary
+84,5,1/21/2015,1/25/2015,2.3716,I Moderate,Florida Keys National Marine Sanctuary
+85,11,3/18/2015,3/28/2015,3.4692,II Strong,Florida Keys National Marine Sanctuary
+86,19,4/13/2015,5/1/2015,3.5122,II Strong,Florida Keys National Marine Sanctuary
+87,8,5/19/2015,5/26/2015,2.4707,I Moderate,Florida Keys National Marine Sanctuary
+88,13,6/25/2015,7/7/2015,2.1997,II Strong,Florida Keys National Marine Sanctuary
+89,9,7/18/2015,7/26/2015,1.8762,I Moderate,Florida Keys National Marine Sanctuary
+90,8,8/10/2015,8/17/2015,2.0197,I Moderate,Florida Keys National Marine Sanctuary
+91,24,8/21/2015,9/13/2015,2.2228,II Strong,Florida Keys National Marine Sanctuary
+92,5,9/19/2015,9/23/2015,2.0098,I Moderate,Florida Keys National Marine Sanctuary
+93,22,11/3/2015,11/24/2015,2.4427,II Strong,Florida Keys National Marine Sanctuary
+94,40,12/14/2015,1/22/2016,3.3228,II Strong,Florida Keys National Marine Sanctuary
+95,5,2/4/2016,2/8/2016,2.6218,I Moderate,Florida Keys National Marine Sanctuary
+96,6,3/15/2016,3/20/2016,3.1673,I Moderate,Florida Keys National Marine Sanctuary
+97,6,5/20/2016,5/25/2016,2.4333,I Moderate,Florida Keys National Marine Sanctuary
+98,7,5/29/2016,6/4/2016,2.0463,I Moderate,Florida Keys National Marine Sanctuary
+99,33,6/14/2016,7/16/2016,2.4222,II Strong,Florida Keys National Marine Sanctuary
+100,32,9/18/2016,10/19/2016,2.066,I Moderate,Florida Keys National Marine Sanctuary
+101,27,12/13/2016,1/8/2017,2.5375,II Strong,Florida Keys National Marine Sanctuary
+102,6,1/18/2017,1/23/2017,2.5325,I Moderate,Florida Keys National Marine Sanctuary
+103,5,2/28/2017,3/4/2017,2.7697,I Moderate,Florida Keys National Marine Sanctuary
+104,8,3/31/2017,4/7/2017,2.7085,I Moderate,Florida Keys National Marine Sanctuary
+105,13,5/26/2017,6/7/2017,2.151,I Moderate,Florida Keys National Marine Sanctuary
+106,16,6/28/2017,7/13/2017,1.8977,I Moderate,Florida Keys National Marine Sanctuary
+107,17,7/17/2017,8/2/2017,1.8564,I Moderate,Florida Keys National Marine Sanctuary
+108,6,8/14/2017,8/19/2017,1.8692,I Moderate,Florida Keys National Marine Sanctuary
+109,10,9/1/2017,9/10/2017,1.7856,I Moderate,Florida Keys National Marine Sanctuary
+110,5,9/14/2017,9/18/2017,1.5408,I Moderate,Florida Keys National Marine Sanctuary
+111,8,9/22/2017,9/29/2017,1.6184,I Moderate,Florida Keys National Marine Sanctuary
+112,8,12/2/2017,12/9/2017,1.8642,I Moderate,Florida Keys National Marine Sanctuary
+113,9,2/24/2018,3/4/2018,3.2118,I Moderate,Florida Keys National Marine Sanctuary
+114,40,6/21/2018,7/30/2018,1.8185,I Moderate,Florida Keys National Marine Sanctuary
+115,10,11/7/2018,11/16/2018,2.1007,I Moderate,Florida Keys National Marine Sanctuary
+116,8,11/20/2018,11/27/2018,1.7835,I Moderate,Florida Keys National Marine Sanctuary
+117,5,1/1/2019,1/5/2019,2.3546,I Moderate,Florida Keys National Marine Sanctuary
+118,36,2/12/2019,3/19/2019,3.3583,II Strong,Florida Keys National Marine Sanctuary
+119,7,4/12/2019,4/18/2019,2.2403,I Moderate,Florida Keys National Marine Sanctuary
+120,17,5/5/2019,5/21/2019,2.5315,I Moderate,Florida Keys National Marine Sanctuary
+121,41,6/2/2019,7/12/2019,2.1227,II Strong,Florida Keys National Marine Sanctuary
+122,14,8/8/2019,8/21/2019,2.3187,II Strong,Florida Keys National Marine Sanctuary
+123,33,10/16/2019,11/17/2019,2.665,II Strong,Florida Keys National Marine Sanctuary
+124,7,12/30/2019,1/5/2020,2.3826,I Moderate,Florida Keys National Marine Sanctuary
+125,10,1/12/2020,1/21/2020,2.5904,I Moderate,Florida Keys National Marine Sanctuary
+126,11,2/12/2020,2/22/2020,3.0631,I Moderate,Florida Keys National Marine Sanctuary
+127,32,3/30/2020,4/30/2020,3.5611,II Strong,Florida Keys National Marine Sanctuary
+128,5,5/31/2020,6/4/2020,1.8605,I Moderate,Florida Keys National Marine Sanctuary
+129,29,6/20/2020,7/18/2020,2.4569,II Strong,Florida Keys National Marine Sanctuary
+130,6,8/16/2020,8/21/2020,1.6929,I Moderate,Florida Keys National Marine Sanctuary
+131,17,8/29/2020,9/14/2020,1.5888,I Moderate,Florida Keys National Marine Sanctuary
+132,5,9/19/2020,9/23/2020,1.6252,I Moderate,Florida Keys National Marine Sanctuary
+133,22,9/30/2020,10/21/2020,1.8905,I Moderate,Florida Keys National Marine Sanctuary
+134,21,10/28/2020,11/17/2020,1.9842,I Moderate,Florida Keys National Marine Sanctuary
+135,8,2/13/2021,2/20/2021,2.9194,I Moderate,Florida Keys National Marine Sanctuary
+136,7,2/27/2021,3/5/2021,2.7584,I Moderate,Florida Keys National Marine Sanctuary
+137,15,5/1/2021,5/15/2021,2.7689,I Moderate,Florida Keys National Marine Sanctuary
+138,17,7/27/2021,8/12/2021,1.8162,I Moderate,Florida Keys National Marine Sanctuary
+139,43,9/24/2021,11/5/2021,2.0132,I Moderate,Florida Keys National Marine Sanctuary
+140,40,12/9/2021,1/17/2022,2.5077,II Strong,Florida Keys National Marine Sanctuary
+141,17,2/25/2022,3/13/2022,2.9649,I Moderate,Florida Keys National Marine Sanctuary
+142,8,3/18/2022,3/25/2022,2.8246000000000002,I Moderate,Florida Keys National Marine Sanctuary
+143,8,4/2/2022,4/9/2022,2.874,I Moderate,Florida Keys National Marine Sanctuary
+144,5,5/17/2022,5/21/2022,2.0666,I Moderate,Florida Keys National Marine Sanctuary
+145,43,6/13/2022,7/25/2022,2.0264,II Strong,Florida Keys National Marine Sanctuary
+146,43,8/16/2022,9/27/2022,2.1114,I Moderate,Florida Keys National Marine Sanctuary
+147,53,11/3/2022,12/25/2022,2.2614,II Strong,Florida Keys National Marine Sanctuary
+148,6,1/22/2023,1/27/2023,2.3698,I Moderate,Florida Keys National Marine Sanctuary
+149,12,2/2/2023,2/13/2023,2.687,I Moderate,Florida Keys National Marine Sanctuary
+150,27,2/17/2023,3/15/2023,3.1775,I Moderate,Florida Keys National Marine Sanctuary
+151,40,3/26/2023,5/4/2023,2.8232,I Moderate,Florida Keys National Marine Sanctuary
+152,18,5/16/2023,6/2/2023,2.3393,I Moderate,Florida Keys National Marine Sanctuary
+153,78,6/13/2023,8/29/2023,3.1285,III Severe,Florida Keys National Marine Sanctuary
+154,40,9/9/2023,10/18/2023,2.5734,II Strong,Florida Keys National Marine Sanctuary
+155,35,11/9/2023,12/13/2023,2.3608,II Strong,Florida Keys National Marine Sanctuary
+1,25,5/1/1984,5/25/1984,2.187,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+2,16,5/31/1984,6/15/1984,2.234,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+3,30,7/1/1984,7/30/1984,2.0883,II Strong,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+4,9,11/19/1984,11/27/1984,1.4762,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+5,12,8/20/1987,8/31/1987,1.6839,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+6,24,6/13/1988,7/6/1988,1.9017,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+7,17,9/27/1988,10/13/1988,1.2595,II Strong,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+8,23,12/28/1988,1/19/1989,1.8109,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+9,8,10/26/1990,11/2/1990,1.2435,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+10,5,9/30/1995,10/4/1995,1.0862,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+11,7,4/21/1996,4/27/1996,2.1045,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+12,8,6/26/1996,7/3/1996,1.6093,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+13,10,9/16/1996,9/25/1996,1.0947,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+14,18,8/2/1997,8/19/1997,1.7802,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+15,12,8/28/1997,9/8/1997,1.5864,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+16,13,10/9/1997,10/21/1997,1.1472,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+17,6,11/4/1998,11/9/1998,1.326,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+18,11,2/9/1999,2/19/1999,2.3984,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+19,5,12/14/1999,12/18/1999,1.4982,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+20,57,2/4/2000,3/31/2000,2.6058,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+21,15,4/25/2000,5/9/2000,2.4208,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+22,7,5/19/2000,5/25/2000,2.579,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+23,6,6/11/2000,6/16/2000,1.9912,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+24,10,11/29/2000,12/8/2000,1.252,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+25,22,1/13/2001,2/3/2001,2.1304,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+26,12,2/9/2001,2/20/2001,2.062,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+27,10,3/8/2001,3/17/2001,2.2177,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+28,8,4/2/2001,4/9/2001,1.9009,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+29,5,5/4/2001,5/8/2001,2.1668,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+30,6,9/18/2001,9/23/2001,1.0118,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+31,6,11/3/2001,11/8/2001,1.2497,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+32,6,12/10/2001,12/15/2001,1.3308,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+33,28,8/22/2004,9/18/2004,1.5516,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+34,17,10/29/2004,11/14/2004,1.3123,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+35,13,5/11/2005,5/23/2005,2.3278,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+36,5,6/26/2005,6/30/2005,1.631,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+37,5,7/4/2005,7/8/2005,1.5013,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+38,15,8/23/2005,9/6/2005,1.8592,II Strong,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+39,5,10/10/2005,10/14/2005,1.132,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+40,23,1/8/2006,1/30/2006,2.0874,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+41,5,2/4/2006,2/8/2006,2.0907,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+42,9,2/26/2006,3/6/2006,2.0139,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+43,18,4/5/2006,4/22/2006,1.714,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+44,5,6/4/2006,6/8/2006,2.1093,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+45,6,7/7/2007,7/12/2007,1.6846,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+46,23,7/30/2007,8/21/2007,1.6275,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+47,13,9/7/2007,9/19/2007,1.2722,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+48,8,11/11/2007,11/18/2007,1.2402,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+49,6,2/6/2008,2/11/2008,2.058,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+50,8,3/3/2008,3/10/2008,2.0665,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+51,13,3/23/2008,4/4/2008,2.4167,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+52,5,4/30/2008,5/4/2008,1.9208,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+53,6,5/8/2008,5/13/2008,2.2516,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+54,5,5/17/2008,5/21/2008,2.4187,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+55,7,6/1/2008,6/7/2008,2.229,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+56,18,9/12/2008,9/29/2008,1.113,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+57,12,10/4/2008,10/15/2008,1.5437,II Strong,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+58,5,4/15/2009,4/19/2009,1.9085,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+59,14,7/2/2009,7/15/2009,1.8659,II Strong,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+60,16,7/26/2009,8/10/2009,1.7484,II Strong,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+61,12,9/15/2009,9/26/2009,1.2292,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+62,12,10/18/2010,10/29/2010,1.1837,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+63,7,12/10/2010,12/16/2010,1.296,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+64,8,12/30/2010,1/6/2011,1.7693,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+65,8,3/28/2011,4/4/2011,2.0457,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+66,10,4/10/2011,4/19/2011,1.6437,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+67,17,6/4/2011,6/20/2011,1.9441,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+68,6,10/7/2011,10/12/2011,1.0314,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+69,8,12/26/2011,1/2/2012,1.5113,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+70,6,1/9/2012,1/14/2012,1.7523,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+71,6,2/17/2012,2/22/2012,2.0864,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+72,5,4/17/2012,4/21/2012,1.6997,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+73,12,12/20/2012,12/31/2012,1.6112,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+74,6,3/2/2013,3/7/2013,1.9787,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+75,6,7/15/2013,7/20/2013,1.2734,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+76,8,7/30/2013,8/6/2013,1.3409,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+77,18,9/12/2013,9/29/2013,1.2021,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+78,10,4/20/2014,4/29/2014,1.9446,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+79,5,7/7/2014,7/11/2014,1.3037,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+80,128,7/21/2014,11/25/2014,2.2807,III Severe,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+81,78,7/16/2015,10/1/2015,1.8027,II Strong,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+82,13,12/13/2015,12/25/2015,1.5597,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+83,150,9/13/2016,2/9/2017,1.7309,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+84,40,3/20/2017,4/28/2017,2.5152,II Strong,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+85,114,6/15/2017,10/6/2017,1.869,II Strong,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+86,8,11/10/2017,11/17/2017,1.3693,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+87,7,1/24/2018,1/30/2018,1.9456,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+88,24,1/8/2019,1/31/2019,1.9761,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+89,9,4/20/2019,4/28/2019,1.724,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+90,5,6/6/2019,6/10/2019,2.1108,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+91,31,7/3/2019,8/2/2019,1.8396,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+92,105,8/6/2019,11/18/2019,2.0926,III Severe,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+93,64,5/28/2020,7/30/2020,2.3973,II Strong,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+94,7,8/8/2020,8/14/2020,1.4162,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+95,55,9/2/2020,10/26/2020,1.7942,II Strong,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+96,88,11/18/2020,2/13/2021,2.1807,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+97,11,2/21/2021,3/3/2021,2.0397,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+98,5,3/10/2021,3/14/2021,1.8164,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+99,12,5/21/2021,6/1/2021,2.438,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+100,17,6/19/2021,7/5/2021,1.9353,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+101,6,9/20/2021,9/25/2021,1.0764,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+102,39,10/27/2021,12/4/2021,1.7779,II Strong,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+103,52,2/23/2022,4/15/2022,2.1957,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+104,27,4/21/2022,5/17/2022,2.2541,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+105,69,5/26/2022,8/2/2022,2.4666,II Strong,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+106,65,8/15/2022,10/18/2022,1.6153,II Strong,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+107,36,11/1/2022,12/6/2022,1.4026,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+108,11,1/4/2023,1/14/2023,1.7365,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+109,6,8/23/2023,8/28/2023,1.2643,I Moderate,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+110,66,9/30/2023,12/4/2023,1.7485,II Strong,Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area
+1,5,6/26/1984,6/30/1984,2.6669,I Moderate,Kachemak Bay National Estuarine Research Reserve
+2,5,8/20/1984,8/24/1984,2.408,I Moderate,Kachemak Bay National Estuarine Research Reserve
+3,14,9/24/1984,10/7/1984,2.5434,II Strong,Kachemak Bay National Estuarine Research Reserve
+4,5,2/3/1985,2/7/1985,2.7035,I Moderate,Kachemak Bay National Estuarine Research Reserve
+5,6,2/12/1986,2/17/1986,2.6407,I Moderate,Kachemak Bay National Estuarine Research Reserve
+6,5,11/14/1986,11/18/1986,1.8072,I Moderate,Kachemak Bay National Estuarine Research Reserve
+7,7,2/12/1987,2/18/1987,3.2496,I Moderate,Kachemak Bay National Estuarine Research Reserve
+8,7,4/23/1987,4/29/1987,2.7027,I Moderate,Kachemak Bay National Estuarine Research Reserve
+9,6,5/3/1987,5/8/1987,3.2314,I Moderate,Kachemak Bay National Estuarine Research Reserve
+10,33,12/10/1987,1/11/1988,2.6315,I Moderate,Kachemak Bay National Estuarine Research Reserve
+11,7,4/2/1988,4/8/1988,2.3078,I Moderate,Kachemak Bay National Estuarine Research Reserve
+12,5,1/18/1992,1/22/1992,2.2678,I Moderate,Kachemak Bay National Estuarine Research Reserve
+13,8,7/4/1995,7/11/1995,2.6249,I Moderate,Kachemak Bay National Estuarine Research Reserve
+14,6,7/2/1997,7/7/1997,3.6921,I Moderate,Kachemak Bay National Estuarine Research Reserve
+15,19,8/12/1997,8/30/1997,3.5767,II Strong,Kachemak Bay National Estuarine Research Reserve
+16,5,9/9/1997,9/13/1997,2.4427,I Moderate,Kachemak Bay National Estuarine Research Reserve
+17,12,9/23/1997,10/4/1997,1.8851,I Moderate,Kachemak Bay National Estuarine Research Reserve
+18,16,11/3/1997,11/18/1997,1.9542,I Moderate,Kachemak Bay National Estuarine Research Reserve
+19,6,11/24/1997,11/29/1997,2.2491,I Moderate,Kachemak Bay National Estuarine Research Reserve
+20,5,12/23/1997,12/27/1997,2.4728,I Moderate,Kachemak Bay National Estuarine Research Reserve
+21,10,2/7/1998,2/16/1998,3.1938,I Moderate,Kachemak Bay National Estuarine Research Reserve
+22,16,2/21/1998,3/8/1998,3.5037,II Strong,Kachemak Bay National Estuarine Research Reserve
+23,13,3/21/1998,4/2/1998,3.2157,II Strong,Kachemak Bay National Estuarine Research Reserve
+24,9,4/6/1998,4/14/1998,2.9883,II Strong,Kachemak Bay National Estuarine Research Reserve
+25,12,4/19/1998,4/30/1998,3.3006,II Strong,Kachemak Bay National Estuarine Research Reserve
+26,17,11/6/1998,11/22/1998,1.8471,I Moderate,Kachemak Bay National Estuarine Research Reserve
+27,5,1/14/1999,1/18/1999,2.4493,I Moderate,Kachemak Bay National Estuarine Research Reserve
+28,6,2/22/2001,2/27/2001,3.0271,I Moderate,Kachemak Bay National Estuarine Research Reserve
+29,7,6/17/2001,6/23/2001,3.0342,I Moderate,Kachemak Bay National Estuarine Research Reserve
+30,5,9/29/2001,10/3/2001,1.4492,I Moderate,Kachemak Bay National Estuarine Research Reserve
+31,5,8/3/2002,8/7/2002,2.5633,I Moderate,Kachemak Bay National Estuarine Research Reserve
+32,5,10/24/2002,10/28/2002,1.7405,I Moderate,Kachemak Bay National Estuarine Research Reserve
+33,8,11/8/2002,11/15/2002,1.9442,I Moderate,Kachemak Bay National Estuarine Research Reserve
+34,5,11/20/2002,11/24/2002,2.2679,I Moderate,Kachemak Bay National Estuarine Research Reserve
+35,53,2/15/2003,4/8/2003,2.872,II Strong,Kachemak Bay National Estuarine Research Reserve
+36,6,6/9/2003,6/14/2003,2.3058,I Moderate,Kachemak Bay National Estuarine Research Reserve
+37,5,7/6/2003,7/10/2003,4.2093,I Moderate,Kachemak Bay National Estuarine Research Reserve
+38,7,7/22/2003,7/28/2003,3.2733,I Moderate,Kachemak Bay National Estuarine Research Reserve
+39,8,9/6/2003,9/13/2003,1.8756,I Moderate,Kachemak Bay National Estuarine Research Reserve
+40,21,10/10/2003,10/30/2003,2.0879,I Moderate,Kachemak Bay National Estuarine Research Reserve
+41,11,11/5/2003,11/15/2003,2.3823,I Moderate,Kachemak Bay National Estuarine Research Reserve
+42,8,8/8/2004,8/15/2004,3.2349,I Moderate,Kachemak Bay National Estuarine Research Reserve
+43,6,9/7/2004,9/12/2004,2.0165,I Moderate,Kachemak Bay National Estuarine Research Reserve
+44,28,4/25/2005,5/22/2005,3.1186,I Moderate,Kachemak Bay National Estuarine Research Reserve
+45,9,5/30/2005,6/7/2005,2.6265,I Moderate,Kachemak Bay National Estuarine Research Reserve
+46,41,6/14/2005,7/24/2005,3.7611,II Strong,Kachemak Bay National Estuarine Research Reserve
+47,61,8/4/2005,10/3/2005,2.8964,II Strong,Kachemak Bay National Estuarine Research Reserve
+48,16,10/17/2005,11/1/2005,1.7755,I Moderate,Kachemak Bay National Estuarine Research Reserve
+49,8,12/18/2005,12/25/2005,2.5895,I Moderate,Kachemak Bay National Estuarine Research Reserve
+50,5,1/9/2006,1/13/2006,2.512,I Moderate,Kachemak Bay National Estuarine Research Reserve
+51,5,9/20/2006,9/24/2006,2.2262,I Moderate,Kachemak Bay National Estuarine Research Reserve
+52,7,7/16/2009,7/22/2009,2.7961,I Moderate,Kachemak Bay National Estuarine Research Reserve
+53,5,12/7/2009,12/11/2009,2.3869,I Moderate,Kachemak Bay National Estuarine Research Reserve
+54,8,1/9/2010,1/16/2010,2.5333,I Moderate,Kachemak Bay National Estuarine Research Reserve
+55,7,1/29/2010,2/4/2010,2.3522,I Moderate,Kachemak Bay National Estuarine Research Reserve
+56,10,10/31/2013,11/9/2013,1.7287,I Moderate,Kachemak Bay National Estuarine Research Reserve
+57,16,1/24/2014,2/8/2014,2.7952,I Moderate,Kachemak Bay National Estuarine Research Reserve
+58,7,3/25/2014,3/31/2014,2.0911,I Moderate,Kachemak Bay National Estuarine Research Reserve
+59,5,5/8/2014,5/12/2014,2.962,I Moderate,Kachemak Bay National Estuarine Research Reserve
+60,10,8/2/2014,8/11/2014,3.6206,I Moderate,Kachemak Bay National Estuarine Research Reserve
+61,72,8/17/2014,10/27/2014,2.5352,II Strong,Kachemak Bay National Estuarine Research Reserve
+62,218,11/2/2014,6/7/2015,3.5486,III Severe,Kachemak Bay National Estuarine Research Reserve
+63,13,6/23/2015,7/5/2015,4.4771,III Severe,Kachemak Bay National Estuarine Research Reserve
+64,6,7/10/2015,7/15/2015,2.616,I Moderate,Kachemak Bay National Estuarine Research Reserve
+65,5,7/31/2015,8/4/2015,2.8103,I Moderate,Kachemak Bay National Estuarine Research Reserve
+66,18,10/26/2015,11/12/2015,2.0734,I Moderate,Kachemak Bay National Estuarine Research Reserve
+67,217,12/3/2015,7/6/2016,4.0279,III Severe,Kachemak Bay National Estuarine Research Reserve
+68,8,7/11/2016,7/18/2016,4.9425,II Strong,Kachemak Bay National Estuarine Research Reserve
+69,172,7/27/2016,1/14/2017,2.8979,II Strong,Kachemak Bay National Estuarine Research Reserve
+70,5,2/2/2017,2/6/2017,2.7075,I Moderate,Kachemak Bay National Estuarine Research Reserve
+71,13,4/13/2017,4/25/2017,2.249,I Moderate,Kachemak Bay National Estuarine Research Reserve
+72,7,5/15/2017,5/21/2017,3.0744,I Moderate,Kachemak Bay National Estuarine Research Reserve
+73,35,9/12/2017,10/16/2017,1.7965,I Moderate,Kachemak Bay National Estuarine Research Reserve
+74,15,10/26/2017,11/9/2017,2.011,I Moderate,Kachemak Bay National Estuarine Research Reserve
+75,49,12/6/2017,1/23/2018,2.5157,I Moderate,Kachemak Bay National Estuarine Research Reserve
+76,5,2/21/2018,2/25/2018,2.9962,I Moderate,Kachemak Bay National Estuarine Research Reserve
+77,16,10/17/2018,11/1/2018,1.9244,I Moderate,Kachemak Bay National Estuarine Research Reserve
+78,216,11/15/2018,6/18/2019,3.372,II Strong,Kachemak Bay National Estuarine Research Reserve
+79,28,7/5/2019,8/1/2019,3.6161,II Strong,Kachemak Bay National Estuarine Research Reserve
+80,12,8/18/2019,8/29/2019,2.8606,I Moderate,Kachemak Bay National Estuarine Research Reserve
+81,13,9/8/2019,9/20/2019,2.0262,I Moderate,Kachemak Bay National Estuarine Research Reserve
+82,51,11/10/2019,12/30/2019,2.8997,II Strong,Kachemak Bay National Estuarine Research Reserve
+83,8,6/13/2020,6/20/2020,2.4439,I Moderate,Kachemak Bay National Estuarine Research Reserve
+84,9,7/13/2020,7/21/2020,3.4056,I Moderate,Kachemak Bay National Estuarine Research Reserve
+85,24,8/12/2020,9/4/2020,3.1388,II Strong,Kachemak Bay National Estuarine Research Reserve
+86,52,9/8/2020,10/29/2020,2.2235,II Strong,Kachemak Bay National Estuarine Research Reserve
+87,6,11/24/2020,11/29/2020,2.0641,I Moderate,Kachemak Bay National Estuarine Research Reserve
+88,12,12/7/2020,12/18/2020,2.1664,I Moderate,Kachemak Bay National Estuarine Research Reserve
+89,35,12/31/2020,2/3/2021,2.5485,I Moderate,Kachemak Bay National Estuarine Research Reserve
+90,27,5/22/2022,6/17/2022,3.117,II Strong,Kachemak Bay National Estuarine Research Reserve
+91,20,8/28/2022,9/16/2022,1.9351,I Moderate,Kachemak Bay National Estuarine Research Reserve
+92,5,11/23/2022,11/27/2022,1.9134,I Moderate,Kachemak Bay National Estuarine Research Reserve
+93,5,1/6/2023,1/10/2023,2.2275,I Moderate,Kachemak Bay National Estuarine Research Reserve
+94,7,1/21/2023,1/27/2023,2.248,I Moderate,Kachemak Bay National Estuarine Research Reserve
+95,9,2/2/2023,2/10/2023,2.3696,I Moderate,Kachemak Bay National Estuarine Research Reserve
+96,5,9/24/2023,9/28/2023,1.5735,I Moderate,Kachemak Bay National Estuarine Research Reserve
+97,25,11/24/2023,12/18/2023,2.5339,I Moderate,Kachemak Bay National Estuarine Research Reserve

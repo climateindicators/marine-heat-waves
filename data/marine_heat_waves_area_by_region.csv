@@ -1,0 +1,1009 @@
+year,region,category,value
+1982,West Coast,Moderate,47.84514244
+1982,West Coast,Strong,8.619430241
+1982,West Coast,Severe,0
+1982,West Coast,Extreme,0
+1982,Gulf of Mexico,Moderate,21.53539382
+1982,Gulf of Mexico,Strong,64.80558325
+1982,Gulf of Mexico,Severe,10.46859422
+1982,Gulf of Mexico,Extreme,0.498504487
+1982,Southeast,Moderate,30
+1982,Southeast,Strong,63.1884058
+1982,Southeast,Severe,2.028985507
+1982,Southeast,Extreme,0.579710145
+1982,Northeast,Moderate,48.89753567
+1982,Northeast,Strong,14.39688716
+1982,Northeast,Severe,0
+1982,Northeast,Extreme,0
+1982,Alaska,Moderate,26.82234832
+1982,Alaska,Strong,23.30859887
+1982,Alaska,Severe,5.93627237
+1982,Alaska,Extreme,7.802269751
+1982,Hawaii,Moderate,15.35836177
+1982,Hawaii,Strong,14.81797497
+1982,Hawaii,Severe,2.929465301
+1982,Hawaii,Extreme,0.767918089
+1983,West Coast,Moderate,27.75748722
+1983,West Coast,Strong,61.28560993
+1983,West Coast,Severe,2.19138057
+1983,West Coast,Extreme,0
+1983,Gulf of Mexico,Moderate,37.28813559
+1983,Gulf of Mexico,Strong,14.25722832
+1983,Gulf of Mexico,Severe,0.299102692
+1983,Gulf of Mexico,Extreme,0
+1983,Southeast,Moderate,24.92753623
+1983,Southeast,Strong,58.4057971
+1983,Southeast,Severe,11.15942029
+1983,Southeast,Extreme,2.028985507
+1983,Northeast,Moderate,43.83916991
+1983,Northeast,Strong,30.22049287
+1983,Northeast,Severe,3.761348898
+1983,Northeast,Extreme,0
+1983,Alaska,Moderate,40.61545177
+1983,Alaska,Strong,33.39153208
+1983,Alaska,Severe,5.172413793
+1983,Alaska,Extreme,1.320384112
+1983,Hawaii,Moderate,35.83617747
+1983,Hawaii,Strong,9.044368601
+1983,Hawaii,Severe,2.929465301
+1983,Hawaii,Extreme,0
+1984,West Coast,Moderate,49.2330168
+1984,West Coast,Strong,29.29145362
+1984,West Coast,Severe,2.045288532
+1984,West Coast,Extreme,0
+1984,Gulf of Mexico,Moderate,41.97407777
+1984,Gulf of Mexico,Strong,10.36889332
+1984,Gulf of Mexico,Severe,0.099700897
+1984,Gulf of Mexico,Extreme,0
+1984,Southeast,Moderate,40.57971014
+1984,Southeast,Strong,47.39130435
+1984,Southeast,Severe,0.869565217
+1984,Southeast,Extreme,0
+1984,Northeast,Moderate,60.57068742
+1984,Northeast,Strong,30.47989624
+1984,Northeast,Severe,2.853437095
+1984,Northeast,Extreme,0.129701686
+1984,Alaska,Moderate,42.74334352
+1984,Alaska,Strong,33.86075949
+1984,Alaska,Severe,8.729812309
+1984,Alaska,Extreme,0.250982104
+1984,Hawaii,Moderate,34.86916951
+1984,Hawaii,Strong,57.79294653
+1984,Hawaii,Severe,5.972696246
+1984,Hawaii,Extreme,0.056882821
+1985,West Coast,Moderate,24.17823229
+1985,West Coast,Strong,3.433162893
+1985,West Coast,Severe,0
+1985,West Coast,Extreme,0
+1985,Gulf of Mexico,Moderate,67.49750748
+1985,Gulf of Mexico,Strong,1.49551346
+1985,Gulf of Mexico,Severe,0
+1985,Gulf of Mexico,Extreme,0
+1985,Southeast,Moderate,41.15942029
+1985,Southeast,Strong,22.17391304
+1985,Southeast,Severe,3.623188406
+1985,Southeast,Extreme,0.434782609
+1985,Northeast,Moderate,55.1232166
+1985,Northeast,Strong,32.6848249
+1985,Northeast,Severe,1.815823606
+1985,Northeast,Extreme,0
+1985,Alaska,Moderate,43.90004365
+1985,Alaska,Strong,20.4604976
+1985,Alaska,Severe,3.601047577
+1985,Alaska,Extreme,0.218245308
+1985,Hawaii,Moderate,27.04778157
+1985,Hawaii,Strong,1.962457338
+1985,Hawaii,Severe,0
+1985,Hawaii,Extreme,0
+1986,West Coast,Moderate,71.95032871
+1986,West Coast,Strong,11.541271
+1986,West Coast,Severe,0
+1986,West Coast,Extreme,0
+1986,Gulf of Mexico,Moderate,66.20139581
+1986,Gulf of Mexico,Strong,18.14556331
+1986,Gulf of Mexico,Severe,0
+1986,Gulf of Mexico,Extreme,0
+1986,Southeast,Moderate,57.53623188
+1986,Southeast,Strong,33.91304348
+1986,Southeast,Severe,0.724637681
+1986,Southeast,Extreme,0
+1986,Northeast,Moderate,52.78858625
+1986,Northeast,Strong,23.86511025
+1986,Northeast,Severe,2.723735409
+1986,Northeast,Extreme,0
+1986,Alaska,Moderate,59.01353121
+1986,Alaska,Strong,19.42383239
+1986,Alaska,Severe,1.505892623
+1986,Alaska,Extreme,0.130947185
+1986,Hawaii,Moderate,26.39362912
+1986,Hawaii,Strong,21.35949943
+1986,Hawaii,Severe,0.82480091
+1986,Hawaii,Extreme,0
+1987,West Coast,Moderate,65.66837107
+1987,West Coast,Strong,12.92914536
+1987,West Coast,Severe,0.219138057
+1987,West Coast,Extreme,0
+1987,Gulf of Mexico,Moderate,43.66899302
+1987,Gulf of Mexico,Strong,3.090727817
+1987,Gulf of Mexico,Severe,0
+1987,Gulf of Mexico,Extreme,0
+1987,Southeast,Moderate,50.86956522
+1987,Southeast,Strong,45.07246377
+1987,Southeast,Severe,0
+1987,Southeast,Extreme,0
+1987,Northeast,Moderate,38.52140078
+1987,Northeast,Strong,6.744487678
+1987,Northeast,Severe,0
+1987,Northeast,Extreme,0
+1987,Alaska,Moderate,52.38978612
+1987,Alaska,Strong,11.71977302
+1987,Alaska,Severe,0.872981231
+1987,Alaska,Extreme,0
+1987,Hawaii,Moderate,48.00910125
+1987,Hawaii,Strong,23.06598407
+1987,Hawaii,Severe,3.185437998
+1987,Hawaii,Extreme,0.056882821
+1988,West Coast,Moderate,29.65668371
+1988,West Coast,Strong,11.02994887
+1988,West Coast,Severe,0
+1988,West Coast,Extreme,0
+1988,Gulf of Mexico,Moderate,17.34795613
+1988,Gulf of Mexico,Strong,0.598205384
+1988,Gulf of Mexico,Severe,0
+1988,Gulf of Mexico,Extreme,0
+1988,Southeast,Moderate,18.4057971
+1988,Southeast,Strong,0
+1988,Southeast,Severe,0
+1988,Southeast,Extreme,0
+1988,Northeast,Moderate,32.55512322
+1988,Northeast,Strong,4.798962387
+1988,Northeast,Severe,0.129701686
+1988,Northeast,Extreme,0
+1988,Alaska,Moderate,33.95896988
+1988,Alaska,Strong,5.750763859
+1988,Alaska,Severe,0.70929725
+1988,Alaska,Extreme,0.883893496
+1988,Hawaii,Moderate,60.72241183
+1988,Hawaii,Strong,36.83162685
+1988,Hawaii,Severe,0.853242321
+1988,Hawaii,Extreme,0
+1989,West Coast,Moderate,63.33089847
+1989,West Coast,Strong,13.51351351
+1989,West Coast,Severe,0.365230095
+1989,West Coast,Extreme,0
+1989,Gulf of Mexico,Moderate,67.29810568
+1989,Gulf of Mexico,Strong,12.66201396
+1989,Gulf of Mexico,Severe,0
+1989,Gulf of Mexico,Extreme,0
+1989,Southeast,Moderate,54.92753623
+1989,Southeast,Strong,6.811594203
+1989,Southeast,Severe,0
+1989,Southeast,Extreme,0
+1989,Northeast,Moderate,57.32814527
+1989,Northeast,Strong,17.12062257
+1989,Northeast,Severe,0.648508431
+1989,Northeast,Extreme,0
+1989,Alaska,Moderate,41.7394151
+1989,Alaska,Strong,17.16499345
+1989,Alaska,Severe,6.132693147
+1989,Alaska,Extreme,2.69532955
+1989,Hawaii,Moderate,62.7701934
+1989,Hawaii,Strong,14.44823663
+1989,Hawaii,Severe,0.255972696
+1989,Hawaii,Extreme,0
+1990,West Coast,Moderate,68.59021183
+1990,West Coast,Strong,22.64426589
+1990,West Coast,Severe,1.168736304
+1990,West Coast,Extreme,0
+1990,Gulf of Mexico,Moderate,63.21036889
+1990,Gulf of Mexico,Strong,21.93419741
+1990,Gulf of Mexico,Severe,0
+1990,Gulf of Mexico,Extreme,0
+1990,Southeast,Moderate,68.55072464
+1990,Southeast,Strong,9.420289855
+1990,Southeast,Severe,0
+1990,Southeast,Extreme,0
+1990,Northeast,Moderate,63.81322957
+1990,Northeast,Strong,20.23346304
+1990,Northeast,Severe,2.853437095
+1990,Northeast,Extreme,0.259403372
+1990,Alaska,Moderate,40.26625928
+1990,Alaska,Strong,13.47664775
+1990,Alaska,Severe,1.571366216
+1990,Alaska,Extreme,0.752946312
+1990,Hawaii,Moderate,27.3890785
+1990,Hawaii,Strong,1.535836177
+1990,Hawaii,Severe,0
+1990,Hawaii,Extreme,0
+1991,West Coast,Moderate,23.37472608
+1991,West Coast,Strong,0.803506209
+1991,West Coast,Severe,0
+1991,West Coast,Extreme,0
+1991,Gulf of Mexico,Moderate,56.92921236
+1991,Gulf of Mexico,Strong,15.45363908
+1991,Gulf of Mexico,Severe,0.299102692
+1991,Gulf of Mexico,Extreme,0
+1991,Southeast,Moderate,50
+1991,Southeast,Strong,30.43478261
+1991,Southeast,Severe,2.898550725
+1991,Southeast,Extreme,0
+1991,Northeast,Moderate,54.47470817
+1991,Northeast,Strong,20.36316472
+1991,Northeast,Severe,2.464332036
+1991,Northeast,Extreme,0.778210117
+1991,Alaska,Moderate,43.97642951
+1991,Alaska,Strong,16.84853776
+1991,Alaska,Severe,3.208206024
+1991,Alaska,Extreme,0.218245308
+1991,Hawaii,Moderate,36.51877133
+1991,Hawaii,Strong,20.59158134
+1991,Hawaii,Severe,0.682593857
+1991,Hawaii,Extreme,0
+1992,West Coast,Moderate,8.984660336
+1992,West Coast,Strong,87.72826881
+1992,West Coast,Severe,3.067932798
+1992,West Coast,Extreme,0.219138057
+1992,Gulf of Mexico,Moderate,46.75972084
+1992,Gulf of Mexico,Strong,1.196410768
+1992,Gulf of Mexico,Severe,0
+1992,Gulf of Mexico,Extreme,0
+1992,Southeast,Moderate,37.10144928
+1992,Southeast,Strong,5.072463768
+1992,Southeast,Severe,0.869565217
+1992,Southeast,Extreme,0
+1992,Northeast,Moderate,11.80285344
+1992,Northeast,Strong,2.464332036
+1992,Northeast,Severe,0
+1992,Northeast,Extreme,0
+1992,Alaska,Moderate,25.14185945
+1992,Alaska,Strong,6.885639459
+1992,Alaska,Severe,0.8511567
+1992,Alaska,Extreme,0.130947185
+1992,Hawaii,Moderate,25.71103527
+1992,Hawaii,Strong,17.32081911
+1992,Hawaii,Severe,1.422070535
+1992,Hawaii,Extreme,0
+1993,West Coast,Moderate,61.72388605
+1993,West Coast,Strong,26.1504748
+1993,West Coast,Severe,0.292184076
+1993,West Coast,Extreme,0
+1993,Gulf of Mexico,Moderate,66.5004985
+1993,Gulf of Mexico,Strong,10.36889332
+1993,Gulf of Mexico,Severe,0
+1993,Gulf of Mexico,Extreme,0
+1993,Southeast,Moderate,55.65217391
+1993,Southeast,Strong,10
+1993,Southeast,Severe,0
+1993,Southeast,Extreme,0
+1993,Northeast,Moderate,40.33722438
+1993,Northeast,Strong,3.242542153
+1993,Northeast,Severe,0
+1993,Northeast,Extreme,0
+1993,Alaska,Moderate,58.78437364
+1993,Alaska,Strong,25.08729812
+1993,Alaska,Severe,2.007856831
+1993,Alaska,Extreme,1.222173723
+1993,Hawaii,Moderate,36.23435722
+1993,Hawaii,Strong,2.246871445
+1993,Hawaii,Severe,0
+1993,Hawaii,Extreme,0
+1994,West Coast,Moderate,43.68151936
+1994,West Coast,Strong,43.75456538
+1994,West Coast,Severe,3.287070855
+1994,West Coast,Extreme,0
+1994,Gulf of Mexico,Moderate,63.40977069
+1994,Gulf of Mexico,Strong,9.172482552
+1994,Gulf of Mexico,Severe,0
+1994,Gulf of Mexico,Extreme,0
+1994,Southeast,Moderate,61.01449275
+1994,Southeast,Strong,22.02898551
+1994,Southeast,Severe,0.289855072
+1994,Southeast,Extreme,0
+1994,Northeast,Moderate,62.6459144
+1994,Northeast,Strong,19.45525292
+1994,Northeast,Severe,2.075226978
+1994,Northeast,Extreme,0.259403372
+1994,Alaska,Moderate,50.57835007
+1994,Alaska,Strong,15.0371017
+1994,Alaska,Severe,2.826276735
+1994,Alaska,Extreme,3.426451331
+1994,Hawaii,Moderate,53.44141069
+1994,Hawaii,Strong,4.180887372
+1994,Hawaii,Severe,0
+1994,Hawaii,Extreme,0
+1995,West Coast,Moderate,39.37180424
+1995,West Coast,Strong,44.85025566
+1995,West Coast,Severe,13.22132944
+1995,West Coast,Extreme,0.657414171
+1995,Gulf of Mexico,Moderate,70.08973081
+1995,Gulf of Mexico,Strong,23.82851446
+1995,Gulf of Mexico,Severe,3.190428714
+1995,Gulf of Mexico,Extreme,0
+1995,Southeast,Moderate,61.5942029
+1995,Southeast,Strong,13.04347826
+1995,Southeast,Severe,0
+1995,Southeast,Extreme,0
+1995,Northeast,Moderate,68.09338521
+1995,Northeast,Strong,16.73151751
+1995,Northeast,Severe,1.945525292
+1995,Northeast,Extreme,0.129701686
+1995,Alaska,Moderate,56.07813182
+1995,Alaska,Strong,15.50632911
+1995,Alaska,Severe,2.81536447
+1995,Alaska,Extreme,1.647752073
+1995,Hawaii,Moderate,52.75881684
+1995,Hawaii,Strong,26.64960182
+1995,Hawaii,Severe,2.645051195
+1995,Hawaii,Extreme,0
+1996,West Coast,Moderate,60.99342586
+1996,West Coast,Strong,30.89846603
+1996,West Coast,Severe,0.292184076
+1996,West Coast,Extreme,0
+1996,Gulf of Mexico,Moderate,51.9441675
+1996,Gulf of Mexico,Strong,4.486540379
+1996,Gulf of Mexico,Severe,0
+1996,Gulf of Mexico,Extreme,0
+1996,Southeast,Moderate,27.97101449
+1996,Southeast,Strong,4.057971014
+1996,Southeast,Severe,0
+1996,Southeast,Extreme,0
+1996,Northeast,Moderate,19.06614786
+1996,Northeast,Strong,0
+1996,Northeast,Severe,0
+1996,Northeast,Extreme,0
+1996,Alaska,Moderate,33.17328677
+1996,Alaska,Strong,37.15626364
+1996,Alaska,Severe,3.655608904
+1996,Alaska,Extreme,0.872981231
+1996,Hawaii,Moderate,22.35494881
+1996,Hawaii,Strong,45.7337884
+1996,Hawaii,Severe,18.77133106
+1996,Hawaii,Extreme,0.767918089
+1997,West Coast,Moderate,12.19868517
+1997,West Coast,Strong,73.19211103
+1997,West Coast,Severe,14.53615778
+1997,West Coast,Extreme,0
+1997,Gulf of Mexico,Moderate,73.47956132
+1997,Gulf of Mexico,Strong,14.55633101
+1997,Gulf of Mexico,Severe,0
+1997,Gulf of Mexico,Extreme,0
+1997,Southeast,Moderate,68.84057971
+1997,Southeast,Strong,22.17391304
+1997,Southeast,Severe,0.144927536
+1997,Southeast,Extreme,0
+1997,Northeast,Moderate,15.04539559
+1997,Northeast,Strong,1.556420233
+1997,Northeast,Severe,0
+1997,Northeast,Extreme,0
+1997,Alaska,Moderate,39.69882148
+1997,Alaska,Strong,48.0467045
+1997,Alaska,Severe,7.998690528
+1997,Alaska,Extreme,1.833260585
+1997,Hawaii,Moderate,48.407281
+1997,Hawaii,Strong,36.31968146
+1997,Hawaii,Severe,0.711035267
+1997,Hawaii,Extreme,0
+1998,West Coast,Moderate,65.59532505
+1998,West Coast,Strong,29.94886779
+1998,West Coast,Severe,0.73046019
+1998,West Coast,Extreme,0
+1998,Gulf of Mexico,Moderate,45.56331007
+1998,Gulf of Mexico,Strong,51.04685942
+1998,Gulf of Mexico,Severe,0.199401795
+1998,Gulf of Mexico,Extreme,0
+1998,Southeast,Moderate,44.05797101
+1998,Southeast,Strong,53.47826087
+1998,Southeast,Severe,0
+1998,Southeast,Extreme,0
+1998,Northeast,Moderate,30.09079118
+1998,Northeast,Strong,4.02075227
+1998,Northeast,Severe,0
+1998,Northeast,Extreme,0
+1998,Alaska,Moderate,38.53120908
+1998,Alaska,Strong,28.26276735
+1998,Alaska,Severe,5.827149716
+1998,Alaska,Extreme,5.816237451
+1998,Hawaii,Moderate,55.17633675
+1998,Hawaii,Strong,12.7701934
+1998,Hawaii,Severe,0
+1998,Hawaii,Extreme,0
+1999,West Coast,Moderate,5.113221329
+1999,West Coast,Strong,0
+1999,West Coast,Severe,0
+1999,West Coast,Extreme,0
+1999,Gulf of Mexico,Moderate,56.92921236
+1999,Gulf of Mexico,Strong,41.87437687
+1999,Gulf of Mexico,Severe,0
+1999,Gulf of Mexico,Extreme,0
+1999,Southeast,Moderate,62.02898551
+1999,Southeast,Strong,28.69565217
+1999,Southeast,Severe,0
+1999,Southeast,Extreme,0
+1999,Northeast,Moderate,56.93904021
+1999,Northeast,Strong,31.7769131
+1999,Northeast,Severe,3.631647211
+1999,Northeast,Extreme,0.129701686
+1999,Alaska,Moderate,17.84155391
+1999,Alaska,Strong,1.353120908
+1999,Alaska,Severe,0.054561327
+1999,Alaska,Extreme,0
+1999,Hawaii,Moderate,38.11149033
+1999,Hawaii,Strong,12.42889647
+1999,Hawaii,Severe,2.417519909
+1999,Hawaii,Extreme,0.341296928
+2000,West Coast,Moderate,30.89846603
+2000,West Coast,Strong,3.140978817
+2000,West Coast,Severe,0
+2000,West Coast,Extreme,0
+2000,Gulf of Mexico,Moderate,70.3888335
+2000,Gulf of Mexico,Strong,12.56231306
+2000,Gulf of Mexico,Severe,4.685942173
+2000,Gulf of Mexico,Extreme,2.991026919
+2000,Southeast,Moderate,44.34782609
+2000,Southeast,Strong,4.492753623
+2000,Southeast,Severe,4.492753623
+2000,Southeast,Extreme,3.913043478
+2000,Northeast,Moderate,60.70038911
+2000,Northeast,Strong,26.45914397
+2000,Northeast,Severe,1.297016861
+2000,Northeast,Extreme,0
+2000,Alaska,Moderate,42.79790485
+2000,Alaska,Strong,21.62811
+2000,Alaska,Severe,1.56045395
+2000,Alaska,Extreme,0.316455696
+2000,Hawaii,Moderate,22.6109215
+2000,Hawaii,Strong,35.83617747
+2000,Hawaii,Severe,2.730375427
+2000,Hawaii,Extreme,0.455062571
+2001,West Coast,Moderate,20.67202337
+2001,West Coast,Strong,1.607012418
+2001,West Coast,Severe,0
+2001,West Coast,Extreme,0
+2001,Gulf of Mexico,Moderate,70.08973081
+2001,Gulf of Mexico,Strong,18.5443669
+2001,Gulf of Mexico,Severe,0
+2001,Gulf of Mexico,Extreme,0
+2001,Southeast,Moderate,49.13043478
+2001,Southeast,Strong,2.028985507
+2001,Southeast,Severe,0
+2001,Southeast,Extreme,0
+2001,Northeast,Moderate,60.70038911
+2001,Northeast,Strong,26.07003891
+2001,Northeast,Severe,0.648508431
+2001,Northeast,Extreme,0
+2001,Alaska,Moderate,41.75032737
+2001,Alaska,Strong,16.31383675
+2001,Alaska,Severe,3.557398516
+2001,Alaska,Extreme,1.058489742
+2001,Hawaii,Moderate,49.60182025
+2001,Hawaii,Strong,19.96587031
+2001,Hawaii,Severe,0
+2001,Hawaii,Extreme,0
+2002,West Coast,Moderate,34.33162893
+2002,West Coast,Strong,10.81081081
+2002,West Coast,Severe,0.438276114
+2002,West Coast,Extreme,0
+2002,Gulf of Mexico,Moderate,43.07078764
+2002,Gulf of Mexico,Strong,53.33998006
+2002,Gulf of Mexico,Severe,1.894317049
+2002,Gulf of Mexico,Extreme,0
+2002,Southeast,Moderate,43.91304348
+2002,Southeast,Strong,52.02898551
+2002,Southeast,Severe,0.579710145
+2002,Southeast,Extreme,0
+2002,Northeast,Moderate,46.95201038
+2002,Northeast,Strong,46.56290532
+2002,Northeast,Severe,3.501945525
+2002,Northeast,Extreme,0
+2002,Alaska,Moderate,47.87210825
+2002,Alaska,Strong,24.00698385
+2002,Alaska,Severe,4.452204278
+2002,Alaska,Extreme,1.898734177
+2002,Hawaii,Moderate,57.76450512
+2002,Hawaii,Strong,22.52559727
+2002,Hawaii,Severe,2.531285552
+2002,Hawaii,Extreme,0
+2003,West Coast,Moderate,75.0182615
+2003,West Coast,Strong,14.68224982
+2003,West Coast,Severe,0.511322133
+2003,West Coast,Extreme,0
+2003,Gulf of Mexico,Moderate,65.40378863
+2003,Gulf of Mexico,Strong,17.14855434
+2003,Gulf of Mexico,Severe,0
+2003,Gulf of Mexico,Extreme,0
+2003,Southeast,Moderate,59.13043478
+2003,Southeast,Strong,34.7826087
+2003,Southeast,Severe,0.724637681
+2003,Southeast,Extreme,0
+2003,Northeast,Moderate,50.58365759
+2003,Northeast,Strong,11.93255512
+2003,Northeast,Severe,0
+2003,Northeast,Extreme,0
+2003,Alaska,Moderate,40.54997818
+2003,Alaska,Strong,48.85421213
+2003,Alaska,Severe,7.158446093
+2003,Alaska,Extreme,2.618943693
+2003,Hawaii,Moderate,60.01137656
+2003,Hawaii,Strong,12.51422071
+2003,Hawaii,Severe,0.028441411
+2003,Hawaii,Extreme,0
+2004,West Coast,Moderate,37.10737765
+2004,West Coast,Strong,42.51278305
+2004,West Coast,Severe,1.095690285
+2004,West Coast,Extreme,0
+2004,Gulf of Mexico,Moderate,57.42771685
+2004,Gulf of Mexico,Strong,35.39381854
+2004,Gulf of Mexico,Severe,0.797607178
+2004,Gulf of Mexico,Extreme,0
+2004,Southeast,Moderate,49.71014493
+2004,Southeast,Strong,17.97101449
+2004,Southeast,Severe,0
+2004,Southeast,Extreme,0
+2004,Northeast,Moderate,30.22049287
+2004,Northeast,Strong,6.744487678
+2004,Northeast,Severe,0
+2004,Northeast,Extreme,0
+2004,Alaska,Moderate,26.88782191
+2004,Alaska,Strong,58.21693584
+2004,Alaska,Severe,8.369707551
+2004,Alaska,Extreme,0.818419904
+2004,Hawaii,Moderate,57.22411832
+2004,Hawaii,Strong,39.33447099
+2004,Hawaii,Severe,1.365187713
+2004,Hawaii,Extreme,0.142207053
+2005,West Coast,Moderate,73.92257122
+2005,West Coast,Strong,21.69466764
+2005,West Coast,Severe,0.365230095
+2005,West Coast,Extreme,0
+2005,Gulf of Mexico,Moderate,61.71485543
+2005,Gulf of Mexico,Strong,25.52342971
+2005,Gulf of Mexico,Severe,0.099700897
+2005,Gulf of Mexico,Extreme,0
+2005,Southeast,Moderate,12.75362319
+2005,Southeast,Strong,72.60869565
+2005,Southeast,Severe,12.75362319
+2005,Southeast,Extreme,0
+2005,Northeast,Moderate,52.01037613
+2005,Northeast,Strong,44.09857328
+2005,Northeast,Severe,0.518806744
+2005,Northeast,Extreme,0
+2005,Alaska,Moderate,29.48494107
+2005,Alaska,Strong,56.38367525
+2005,Alaska,Severe,10.71584461
+2005,Alaska,Extreme,2.575294631
+2005,Hawaii,Moderate,63.70875995
+2005,Hawaii,Strong,31.62684869
+2005,Hawaii,Severe,0.255972696
+2005,Hawaii,Extreme,0
+2006,West Coast,Moderate,46.38422206
+2006,West Coast,Strong,8.400292184
+2006,West Coast,Severe,1.314828342
+2006,West Coast,Extreme,0
+2006,Gulf of Mexico,Moderate,64.60618146
+2006,Gulf of Mexico,Strong,34.79561316
+2006,Gulf of Mexico,Severe,0.299102692
+2006,Gulf of Mexico,Extreme,0
+2006,Southeast,Moderate,50.43478261
+2006,Southeast,Strong,23.1884058
+2006,Southeast,Severe,0
+2006,Southeast,Extreme,0
+2006,Northeast,Moderate,69.26070039
+2006,Northeast,Strong,17.50972763
+2006,Northeast,Severe,1.426718547
+2006,Northeast,Extreme,0
+2006,Alaska,Moderate,38.32387604
+2006,Alaska,Strong,37.33085989
+2006,Alaska,Severe,6.656481886
+2006,Alaska,Extreme,2.116979485
+2006,Hawaii,Moderate,59.15813424
+2006,Hawaii,Strong,33.07736064
+2006,Hawaii,Severe,0.540386803
+2006,Hawaii,Extreme,0
+2007,West Coast,Moderate,44.77720964
+2007,West Coast,Strong,9.349890431
+2007,West Coast,Severe,0.219138057
+2007,West Coast,Extreme,0.365230095
+2007,Gulf of Mexico,Moderate,75.77268195
+2007,Gulf of Mexico,Strong,21.13659023
+2007,Gulf of Mexico,Severe,0.398803589
+2007,Gulf of Mexico,Extreme,0
+2007,Southeast,Moderate,55.79710145
+2007,Southeast,Strong,39.13043478
+2007,Southeast,Severe,3.913043478
+2007,Southeast,Extreme,0
+2007,Northeast,Moderate,26.71854734
+2007,Northeast,Strong,59.40337224
+2007,Northeast,Severe,7.652399481
+2007,Northeast,Extreme,1.037613489
+2007,Alaska,Moderate,26.76778699
+2007,Alaska,Strong,21.44260148
+2007,Alaska,Severe,11.0977739
+2007,Alaska,Extreme,8.020515059
+2007,Hawaii,Moderate,53.78270762
+2007,Hawaii,Strong,22.69624573
+2007,Hawaii,Severe,0.085324232
+2007,Hawaii,Extreme,0
+2008,West Coast,Moderate,12.12563915
+2008,West Coast,Strong,3.287070855
+2008,West Coast,Severe,0
+2008,West Coast,Extreme,0
+2008,Gulf of Mexico,Moderate,71.58524427
+2008,Gulf of Mexico,Strong,11.76470588
+2008,Gulf of Mexico,Severe,0
+2008,Gulf of Mexico,Extreme,0
+2008,Southeast,Moderate,57.10144928
+2008,Southeast,Strong,32.31884058
+2008,Southeast,Severe,2.028985507
+2008,Southeast,Extreme,0
+2008,Northeast,Moderate,26.1997406
+2008,Northeast,Strong,51.10246433
+2008,Northeast,Severe,10.63553826
+2008,Northeast,Extreme,4.6692607
+2008,Alaska,Moderate,22.7629856
+2008,Alaska,Strong,19.3583588
+2008,Alaska,Severe,3.731994762
+2008,Alaska,Extreme,5.347010039
+2008,Hawaii,Moderate,44.82366325
+2008,Hawaii,Strong,39.3629124
+2008,Hawaii,Severe,1.109215017
+2008,Hawaii,Extreme,0
+2009,West Coast,Moderate,49.67129291
+2009,West Coast,Strong,13.36742148
+2009,West Coast,Severe,0
+2009,West Coast,Extreme,0
+2009,Gulf of Mexico,Moderate,41.87437687
+2009,Gulf of Mexico,Strong,56.92921236
+2009,Gulf of Mexico,Severe,0.398803589
+2009,Gulf of Mexico,Extreme,0.697906281
+2009,Southeast,Moderate,63.33333333
+2009,Southeast,Strong,32.46376812
+2009,Southeast,Severe,0.289855072
+2009,Southeast,Extreme,0
+2009,Northeast,Moderate,25.81063554
+2009,Northeast,Strong,57.19844358
+2009,Northeast,Severe,11.41374838
+2009,Northeast,Extreme,4.409857328
+2009,Alaska,Moderate,22.03186381
+2009,Alaska,Strong,9.46093409
+2009,Alaska,Severe,2.215189873
+2009,Alaska,Extreme,11.10868616
+2009,Hawaii,Moderate,45.79067122
+2009,Hawaii,Strong,50.11376564
+2009,Hawaii,Severe,0.82480091
+2009,Hawaii,Extreme,0
+2010,West Coast,Moderate,16.65449233
+2010,West Coast,Strong,0.584368152
+2010,West Coast,Severe,0
+2010,West Coast,Extreme,0
+2010,Gulf of Mexico,Moderate,18.84346959
+2010,Gulf of Mexico,Strong,78.96311067
+2010,Gulf of Mexico,Severe,2.193419741
+2010,Gulf of Mexico,Extreme,0
+2010,Southeast,Moderate,14.34782609
+2010,Southeast,Strong,81.15942029
+2010,Southeast,Severe,4.492753623
+2010,Southeast,Extreme,0
+2010,Northeast,Moderate,19.84435798
+2010,Northeast,Strong,58.75486381
+2010,Northeast,Severe,20.49286641
+2010,Northeast,Extreme,0
+2010,Alaska,Moderate,42.68878219
+2010,Alaska,Strong,14.57878656
+2010,Alaska,Severe,0.403753819
+2010,Alaska,Extreme,0.043649062
+2010,Hawaii,Moderate,54.72127418
+2010,Hawaii,Strong,16.80887372
+2010,Hawaii,Severe,0.170648464
+2010,Hawaii,Extreme,0
+2011,West Coast,Moderate,29.51059167
+2011,West Coast,Strong,2.556610665
+2011,West Coast,Severe,0
+2011,West Coast,Extreme,0
+2011,Gulf of Mexico,Moderate,52.04386839
+2011,Gulf of Mexico,Strong,47.05882353
+2011,Gulf of Mexico,Severe,0.199401795
+2011,Gulf of Mexico,Extreme,0
+2011,Southeast,Moderate,45.94202899
+2011,Southeast,Strong,46.52173913
+2011,Southeast,Severe,0
+2011,Southeast,Extreme,0
+2011,Northeast,Moderate,13.22957198
+2011,Northeast,Strong,67.57457847
+2011,Northeast,Severe,18.41763943
+2011,Northeast,Extreme,0.778210117
+2011,Alaska,Moderate,42.08860759
+2011,Alaska,Strong,20.28590135
+2011,Alaska,Severe,0.436490615
+2011,Alaska,Extreme,0
+2011,Hawaii,Moderate,59.15813424
+2011,Hawaii,Strong,30.11945392
+2011,Hawaii,Severe,1.564277588
+2011,Hawaii,Extreme,0.142207053
+2012,West Coast,Moderate,27.39225712
+2012,West Coast,Strong,6.135865595
+2012,West Coast,Severe,0.365230095
+2012,West Coast,Extreme,0
+2012,Gulf of Mexico,Moderate,26.62013958
+2012,Gulf of Mexico,Strong,70.68793619
+2012,Gulf of Mexico,Severe,2.59222333
+2012,Gulf of Mexico,Extreme,0
+2012,Southeast,Moderate,58.11594203
+2012,Southeast,Strong,32.31884058
+2012,Southeast,Severe,1.304347826
+2012,Southeast,Extreme,0
+2012,Northeast,Moderate,5.836575875
+2012,Northeast,Strong,38.65110246
+2012,Northeast,Severe,33.72243839
+2012,Northeast,Extreme,21.78988327
+2012,Alaska,Moderate,17.89611523
+2012,Alaska,Strong,7.704059363
+2012,Alaska,Severe,5.183326058
+2012,Alaska,Extreme,2.597119162
+2012,Hawaii,Moderate,42.03640501
+2012,Hawaii,Strong,17.60523322
+2012,Hawaii,Severe,0.312855518
+2012,Hawaii,Extreme,0
+2013,West Coast,Moderate,50.84002922
+2013,West Coast,Strong,10.73776479
+2013,West Coast,Severe,0.146092038
+2013,West Coast,Extreme,0
+2013,Gulf of Mexico,Moderate,60.61814556
+2013,Gulf of Mexico,Strong,18.6440678
+2013,Gulf of Mexico,Severe,2.093718843
+2013,Gulf of Mexico,Extreme,0
+2013,Southeast,Moderate,38.55072464
+2013,Southeast,Strong,43.47826087
+2013,Southeast,Severe,1.449275362
+2013,Southeast,Extreme,0
+2013,Northeast,Moderate,15.95330739
+2013,Northeast,Strong,49.80544747
+2013,Northeast,Severe,24.2542153
+2013,Northeast,Extreme,2.723735409
+2013,Alaska,Moderate,31.42732431
+2013,Alaska,Strong,35.48668704
+2013,Alaska,Severe,8.260584897
+2013,Alaska,Extreme,2.335224793
+2013,Hawaii,Moderate,60.43799772
+2013,Hawaii,Strong,32.65073948
+2013,Hawaii,Severe,0.597269625
+2013,Hawaii,Extreme,0
+2014,West Coast,Moderate,4.967129291
+2014,West Coast,Strong,71.21986852
+2014,West Coast,Severe,22.93644996
+2014,West Coast,Extreme,0.803506209
+2014,Gulf of Mexico,Moderate,57.42771685
+2014,Gulf of Mexico,Strong,33.89830508
+2014,Gulf of Mexico,Severe,3.290129611
+2014,Gulf of Mexico,Extreme,0
+2014,Southeast,Moderate,37.53623188
+2014,Southeast,Strong,59.42028986
+2014,Southeast,Severe,1.594202899
+2014,Southeast,Extreme,0
+2014,Northeast,Moderate,14.39688716
+2014,Northeast,Strong,58.10635538
+2014,Northeast,Severe,19.32555123
+2014,Northeast,Extreme,6.874189364
+2014,Alaska,Moderate,12.07987778
+2014,Alaska,Strong,47.18463553
+2014,Alaska,Severe,29.38673069
+2014,Alaska,Extreme,5.772588389
+2014,Hawaii,Moderate,1.678043231
+2014,Hawaii,Strong,57.53697383
+2014,Hawaii,Severe,39.27758817
+2014,Hawaii,Extreme,1.507394767
+2015,West Coast,Moderate,2.848794741
+2015,West Coast,Strong,45.50766983
+2015,West Coast,Severe,44.6311176
+2015,West Coast,Extreme,7.012417823
+2015,Gulf of Mexico,Moderate,9.072781655
+2015,Gulf of Mexico,Strong,79.06281157
+2015,Gulf of Mexico,Severe,10.36889332
+2015,Gulf of Mexico,Extreme,1.49551346
+2015,Southeast,Moderate,11.01449275
+2015,Southeast,Strong,78.26086957
+2015,Southeast,Severe,10.28985507
+2015,Southeast,Extreme,0.434782609
+2015,Northeast,Moderate,1.167315175
+2015,Northeast,Strong,53.04798962
+2015,Northeast,Severe,37.74319066
+2015,Northeast,Extreme,8.04150454
+2015,Alaska,Moderate,11.05412484
+2015,Alaska,Strong,68.20165866
+2015,Alaska,Severe,16.1719773
+2015,Alaska,Extreme,1.4185945
+2015,Hawaii,Moderate,24.88623436
+2015,Hawaii,Strong,26.10921502
+2015,Hawaii,Severe,35.97838453
+2015,Hawaii,Extreme,9.243458476
+2016,West Coast,Moderate,5.624543462
+2016,West Coast,Strong,85.7560263
+2016,West Coast,Severe,8.619430241
+2016,West Coast,Extreme,0
+2016,Gulf of Mexico,Moderate,0.498504487
+2016,Gulf of Mexico,Strong,85.64307079
+2016,Gulf of Mexico,Severe,13.65902293
+2016,Gulf of Mexico,Extreme,0.199401795
+2016,Southeast,Moderate,6.811594203
+2016,Southeast,Strong,76.08695652
+2016,Southeast,Severe,16.08695652
+2016,Southeast,Extreme,1.014492754
+2016,Northeast,Moderate,3.242542153
+2016,Northeast,Strong,55.38261997
+2016,Northeast,Severe,32.94422827
+2016,Northeast,Extreme,8.430609598
+2016,Alaska,Moderate,2.564382366
+2016,Alaska,Strong,33.90440856
+2016,Alaska,Severe,40.12439983
+2016,Alaska,Extreme,23.15582715
+2016,Hawaii,Moderate,35.58020478
+2016,Hawaii,Strong,55.71672355
+2016,Hawaii,Severe,5.290102389
+2016,Hawaii,Extreme,0
+2017,West Coast,Moderate,54.78451424
+2017,West Coast,Strong,32.28634039
+2017,West Coast,Severe,0.438276114
+2017,West Coast,Extreme,0
+2017,Gulf of Mexico,Moderate,19.14257228
+2017,Gulf of Mexico,Strong,70.2891326
+2017,Gulf of Mexico,Severe,9.471585244
+2017,Gulf of Mexico,Extreme,1.09670987
+2017,Southeast,Moderate,19.85507246
+2017,Southeast,Strong,62.17391304
+2017,Southeast,Severe,16.37681159
+2017,Southeast,Extreme,1.304347826
+2017,Northeast,Moderate,14.65629053
+2017,Northeast,Strong,58.75486381
+2017,Northeast,Severe,22.56809339
+2017,Northeast,Extreme,1.297016861
+2017,Alaska,Moderate,32.86774334
+2017,Alaska,Strong,37.12352684
+2017,Alaska,Severe,9.930161502
+2017,Alaska,Extreme,17.52509821
+2017,Hawaii,Moderate,16.41069397
+2017,Hawaii,Strong,71.75767918
+2017,Hawaii,Severe,11.80318544
+2017,Hawaii,Extreme,0
+2018,West Coast,Moderate,62.01607012
+2018,West Coast,Strong,32.87070855
+2018,West Coast,Severe,1.607012418
+2018,West Coast,Extreme,0
+2018,Gulf of Mexico,Moderate,14.6560319
+2018,Gulf of Mexico,Strong,72.18344965
+2018,Gulf of Mexico,Severe,12.36291127
+2018,Gulf of Mexico,Extreme,0.797607178
+2018,Southeast,Moderate,24.20289855
+2018,Southeast,Strong,72.17391304
+2018,Southeast,Severe,3.623188406
+2018,Southeast,Extreme,0
+2018,Northeast,Moderate,4.150453956
+2018,Northeast,Strong,58.62516213
+2018,Northeast,Severe,35.27885863
+2018,Northeast,Extreme,1.945525292
+2018,Alaska,Moderate,3.622872108
+2018,Alaska,Strong,62.7673505
+2018,Alaska,Severe,18.84548232
+2018,Alaska,Extreme,12.39633348
+2018,Hawaii,Moderate,46.04664391
+2018,Hawaii,Strong,29.15244596
+2018,Hawaii,Severe,5.489192264
+2018,Hawaii,Extreme,0.028441411
+2019,West Coast,Moderate,26.00438276
+2019,West Coast,Strong,62.45434624
+2019,West Coast,Severe,10.0073046
+2019,West Coast,Extreme,0
+2019,Gulf of Mexico,Moderate,5.782652044
+2019,Gulf of Mexico,Strong,91.92422732
+2019,Gulf of Mexico,Severe,2.193419741
+2019,Gulf of Mexico,Extreme,0.099700897
+2019,Southeast,Moderate,8.115942029
+2019,Southeast,Strong,79.85507246
+2019,Southeast,Severe,11.73913043
+2019,Southeast,Extreme,0.289855072
+2019,Northeast,Moderate,9.857328145
+2019,Northeast,Strong,65.62905318
+2019,Northeast,Severe,20.75226978
+2019,Northeast,Extreme,1.945525292
+2019,Alaska,Moderate,4.37581842
+2019,Alaska,Strong,45.27498909
+2019,Alaska,Severe,31.35093845
+2019,Alaska,Extreme,18.85639459
+2019,Hawaii,Moderate,2.303754266
+2019,Hawaii,Strong,47.95221843
+2019,Hawaii,Severe,46.07508532
+2019,Hawaii,Extreme,3.66894198
+2020,West Coast,Moderate,33.52812272
+2020,West Coast,Strong,61.06647188
+2020,West Coast,Severe,4.090577064
+2020,West Coast,Extreme,0
+2020,Gulf of Mexico,Moderate,11.36590229
+2020,Gulf of Mexico,Strong,79.26221336
+2020,Gulf of Mexico,Severe,8.973080758
+2020,Gulf of Mexico,Extreme,0.398803589
+2020,Southeast,Moderate,3.47826087
+2020,Southeast,Strong,71.88405797
+2020,Southeast,Severe,23.33333333
+2020,Southeast,Extreme,1.304347826
+2020,Northeast,Moderate,9.857328145
+2020,Northeast,Strong,62.51621271
+2020,Northeast,Severe,25.29182879
+2020,Northeast,Extreme,2.33463035
+2020,Alaska,Moderate,21.13705805
+2020,Alaska,Strong,54.17939764
+2020,Alaska,Severe,11.54517678
+2020,Alaska,Extreme,10.25752946
+2020,Hawaii,Moderate,5.176336746
+2020,Hawaii,Strong,80.48919226
+2020,Hawaii,Severe,14.33447099
+2020,Hawaii,Extreme,0
+2021,West Coast,Moderate,53.32359386
+2021,West Coast,Strong,17.82322863
+2021,West Coast,Severe,0.146092038
+2021,West Coast,Extreme,0
+2021,Gulf of Mexico,Moderate,57.52741775
+2021,Gulf of Mexico,Strong,35.89232303
+2021,Gulf of Mexico,Severe,3.389830508
+2021,Gulf of Mexico,Extreme,0
+2021,Southeast,Moderate,39.42028986
+2021,Southeast,Strong,54.92753623
+2021,Southeast,Severe,1.449275362
+2021,Southeast,Extreme,0
+2021,Northeast,Moderate,5.447470817
+2021,Northeast,Strong,66.01815824
+2021,Northeast,Severe,23.99481193
+2021,Northeast,Extreme,3.631647211
+2021,Alaska,Moderate,26.86599738
+2021,Alaska,Strong,39.96071584
+2021,Alaska,Severe,7.311217809
+2021,Alaska,Extreme,13.35661283
+2021,Hawaii,Moderate,38.96473265
+2021,Hawaii,Strong,51.27986348
+2021,Hawaii,Severe,3.612059158
+2021,Hawaii,Extreme,0
+2022,West Coast,Moderate,26.73484295
+2022,West Coast,Strong,62.96566837
+2022,West Coast,Severe,4.017531045
+2022,West Coast,Extreme,0
+2022,Gulf of Mexico,Moderate,23.33000997
+2022,Gulf of Mexico,Strong,70.08973081
+2022,Gulf of Mexico,Severe,6.580259222
+2022,Gulf of Mexico,Extreme,0
+2022,Southeast,Moderate,34.49275362
+2022,Southeast,Strong,63.47826087
+2022,Southeast,Severe,2.028985507
+2022,Southeast,Extreme,0
+2022,Northeast,Moderate,11.67315175
+2022,Northeast,Strong,43.19066148
+2022,Northeast,Severe,33.59273671
+2022,Northeast,Extreme,11.41374838
+2022,Alaska,Moderate,34.0790048
+2022,Alaska,Strong,31.67830642
+2022,Alaska,Severe,11.90528154
+2022,Alaska,Extreme,14.53513749
+2022,Hawaii,Moderate,29.72127418
+2022,Hawaii,Strong,69.08418658
+2022,Hawaii,Severe,0.938566553
+2022,Hawaii,Extreme,0
+2023,West Coast,Moderate,38.13002191
+2023,West Coast,Strong,50.18261505
+2023,West Coast,Severe,9.642074507
+2023,West Coast,Extreme,1.680058437
+2023,Gulf of Mexico,Moderate,0
+2023,Gulf of Mexico,Strong,75.87238285
+2023,Gulf of Mexico,Severe,23.72881356
+2023,Gulf of Mexico,Extreme,0.398803589
+2023,Southeast,Moderate,19.27536232
+2023,Southeast,Strong,69.42028986
+2023,Southeast,Severe,11.30434783
+2023,Southeast,Extreme,0
+2023,Northeast,Moderate,4.539559014
+2023,Northeast,Strong,51.75097276
+2023,Northeast,Severe,35.92736706
+2023,Northeast,Extreme,7.652399481
+2023,Alaska,Moderate,40.08075076
+2023,Alaska,Strong,35.26844173
+2023,Alaska,Severe,7.027498909
+2023,Alaska,Extreme,11.83980794
+2023,Hawaii,Moderate,47.32650739
+2023,Hawaii,Strong,51.93401593
+2023,Hawaii,Severe,0.170648464
+2023,Hawaii,Extreme,0

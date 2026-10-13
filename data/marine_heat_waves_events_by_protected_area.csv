@@ -1,0 +1,1137 @@
+marine_protected_area,event_no,date_start,date_end,severity,measure,unit,value
+Olympic Coast National Marine Sanctuary,1,1982-12-20,1982-12-26,I Moderate,duration,days,7
+Olympic Coast National Marine Sanctuary,1,1982-12-20,1982-12-26,I Moderate,intensity_mean,degrees F,2.8348
+Olympic Coast National Marine Sanctuary,2,1983-01-23,1983-01-27,I Moderate,duration,days,5
+Olympic Coast National Marine Sanctuary,2,1983-01-23,1983-01-27,I Moderate,intensity_mean,degrees F,2.77
+Olympic Coast National Marine Sanctuary,3,1983-02-04,1983-02-08,I Moderate,duration,days,5
+Olympic Coast National Marine Sanctuary,3,1983-02-04,1983-02-08,I Moderate,intensity_mean,degrees F,2.3124
+Olympic Coast National Marine Sanctuary,4,1983-02-14,1983-02-26,I Moderate,duration,days,13
+Olympic Coast National Marine Sanctuary,4,1983-02-14,1983-02-26,I Moderate,intensity_mean,degrees F,2.8834
+Olympic Coast National Marine Sanctuary,5,1983-03-02,1983-04-05,I Moderate,duration,days,35
+Olympic Coast National Marine Sanctuary,5,1983-03-02,1983-04-05,I Moderate,intensity_mean,degrees F,2.9915
+Olympic Coast National Marine Sanctuary,6,1983-04-27,1983-05-01,I Moderate,duration,days,5
+Olympic Coast National Marine Sanctuary,6,1983-04-27,1983-05-01,I Moderate,intensity_mean,degrees F,3.0569
+Olympic Coast National Marine Sanctuary,7,1983-07-06,1983-07-12,I Moderate,duration,days,7
+Olympic Coast National Marine Sanctuary,7,1983-07-06,1983-07-12,I Moderate,intensity_mean,degrees F,3.1109
+Olympic Coast National Marine Sanctuary,8,1983-11-02,1983-11-08,I Moderate,duration,days,7
+Olympic Coast National Marine Sanctuary,8,1983-11-02,1983-11-08,I Moderate,intensity_mean,degrees F,2.4248
+Olympic Coast National Marine Sanctuary,9,1983-11-16,1983-11-29,I Moderate,duration,days,14
+Olympic Coast National Marine Sanctuary,9,1983-11-16,1983-11-29,I Moderate,intensity_mean,degrees F,2.3233
+Olympic Coast National Marine Sanctuary,10,1987-11-13,1987-11-26,I Moderate,duration,days,14
+Olympic Coast National Marine Sanctuary,10,1987-11-13,1987-11-26,I Moderate,intensity_mean,degrees F,2.429
+Olympic Coast National Marine Sanctuary,11,1989-04-29,1989-05-09,II Strong,duration,days,11
+Olympic Coast National Marine Sanctuary,11,1989-04-29,1989-05-09,II Strong,intensity_mean,degrees F,3.63
+Olympic Coast National Marine Sanctuary,12,1990-07-04,1990-07-11,I Moderate,duration,days,8
+Olympic Coast National Marine Sanctuary,12,1990-07-04,1990-07-11,I Moderate,intensity_mean,degrees F,2.9529
+Olympic Coast National Marine Sanctuary,13,1990-09-01,1990-09-29,II Strong,duration,days,29
+Olympic Coast National Marine Sanctuary,13,1990-09-01,1990-09-29,II Strong,intensity_mean,degrees F,4.3359
+Olympic Coast National Marine Sanctuary,14,1992-02-24,1992-03-14,I Moderate,duration,days,20
+Olympic Coast National Marine Sanctuary,14,1992-02-24,1992-03-14,I Moderate,intensity_mean,degrees F,3.0976
+Olympic Coast National Marine Sanctuary,15,1992-03-21,1992-04-05,II Strong,duration,days,16
+Olympic Coast National Marine Sanctuary,15,1992-03-21,1992-04-05,II Strong,intensity_mean,degrees F,3.1456
+Olympic Coast National Marine Sanctuary,16,1992-04-11,1992-04-23,I Moderate,duration,days,13
+Olympic Coast National Marine Sanctuary,16,1992-04-11,1992-04-23,I Moderate,intensity_mean,degrees F,2.5002
+Olympic Coast National Marine Sanctuary,17,1992-05-02,1992-05-07,I Moderate,duration,days,6
+Olympic Coast National Marine Sanctuary,17,1992-05-02,1992-05-07,I Moderate,intensity_mean,degrees F,2.6214
+Olympic Coast National Marine Sanctuary,18,1992-06-28,1992-07-08,I Moderate,duration,days,11
+Olympic Coast National Marine Sanctuary,18,1992-06-28,1992-07-08,I Moderate,intensity_mean,degrees F,3.5789
+Olympic Coast National Marine Sanctuary,19,1993-05-23,1993-06-19,II Strong,duration,days,28
+Olympic Coast National Marine Sanctuary,19,1993-05-23,1993-06-19,II Strong,intensity_mean,degrees F,4.2405
+Olympic Coast National Marine Sanctuary,20,1994-07-31,1994-08-31,II Strong,duration,days,32
+Olympic Coast National Marine Sanctuary,20,1994-07-31,1994-08-31,II Strong,intensity_mean,degrees F,4.9692
+Olympic Coast National Marine Sanctuary,21,1994-09-26,1994-09-30,I Moderate,duration,days,5
+Olympic Coast National Marine Sanctuary,21,1994-09-26,1994-09-30,I Moderate,intensity_mean,degrees F,3.1816
+Olympic Coast National Marine Sanctuary,22,1995-03-17,1995-03-22,I Moderate,duration,days,6
+Olympic Coast National Marine Sanctuary,22,1995-03-17,1995-03-22,I Moderate,intensity_mean,degrees F,2.7936
+Olympic Coast National Marine Sanctuary,23,1995-07-17,1995-07-28,II Strong,duration,days,12
+Olympic Coast National Marine Sanctuary,23,1995-07-17,1995-07-28,II Strong,intensity_mean,degrees F,3.9205
+Olympic Coast National Marine Sanctuary,24,1995-09-10,1995-09-18,I Moderate,duration,days,9
+Olympic Coast National Marine Sanctuary,24,1995-09-10,1995-09-18,I Moderate,intensity_mean,degrees F,3.8959
+Olympic Coast National Marine Sanctuary,25,1995-10-13,1995-10-21,I Moderate,duration,days,9
+Olympic Coast National Marine Sanctuary,25,1995-10-13,1995-10-21,I Moderate,intensity_mean,degrees F,2.7883
+Olympic Coast National Marine Sanctuary,26,1995-12-13,1995-12-26,I Moderate,duration,days,14
+Olympic Coast National Marine Sanctuary,26,1995-12-13,1995-12-26,I Moderate,intensity_mean,degrees F,2.5679
+Olympic Coast National Marine Sanctuary,27,1996-01-06,1996-01-14,I Moderate,duration,days,9
+Olympic Coast National Marine Sanctuary,27,1996-01-06,1996-01-14,I Moderate,intensity_mean,degrees F,2.8852
+Olympic Coast National Marine Sanctuary,28,1997-05-23,1997-07-02,II Strong,duration,days,41
+Olympic Coast National Marine Sanctuary,28,1997-05-23,1997-07-02,II Strong,intensity_mean,degrees F,3.8776
+Olympic Coast National Marine Sanctuary,29,1997-07-06,1997-07-16,I Moderate,duration,days,11
+Olympic Coast National Marine Sanctuary,29,1997-07-06,1997-07-16,I Moderate,intensity_mean,degrees F,3.3133
+Olympic Coast National Marine Sanctuary,30,1997-07-29,1997-08-06,I Moderate,duration,days,9
+Olympic Coast National Marine Sanctuary,30,1997-07-29,1997-08-06,I Moderate,intensity_mean,degrees F,3.3629
+Olympic Coast National Marine Sanctuary,31,1997-08-28,1997-12-24,II Strong,duration,days,119
+Olympic Coast National Marine Sanctuary,31,1997-08-28,1997-12-24,II Strong,intensity_mean,degrees F,3.9866
+Olympic Coast National Marine Sanctuary,32,1997-12-29,1998-01-07,I Moderate,duration,days,10
+Olympic Coast National Marine Sanctuary,32,1997-12-29,1998-01-07,I Moderate,intensity_mean,degrees F,2.636
+Olympic Coast National Marine Sanctuary,33,1998-01-14,1998-04-01,II Strong,duration,days,78
+Olympic Coast National Marine Sanctuary,33,1998-01-14,1998-04-01,II Strong,intensity_mean,degrees F,3.6758
+Olympic Coast National Marine Sanctuary,34,1998-04-28,1998-05-05,I Moderate,duration,days,8
+Olympic Coast National Marine Sanctuary,34,1998-04-28,1998-05-05,I Moderate,intensity_mean,degrees F,2.6828
+Olympic Coast National Marine Sanctuary,35,1998-07-25,1998-07-30,I Moderate,duration,days,6
+Olympic Coast National Marine Sanctuary,35,1998-07-25,1998-07-30,I Moderate,intensity_mean,degrees F,3.931
+Olympic Coast National Marine Sanctuary,36,1998-08-07,1998-08-28,I Moderate,duration,days,22
+Olympic Coast National Marine Sanctuary,36,1998-08-07,1998-08-28,I Moderate,intensity_mean,degrees F,3.8508
+Olympic Coast National Marine Sanctuary,37,1998-11-26,1998-12-11,I Moderate,duration,days,16
+Olympic Coast National Marine Sanctuary,37,1998-11-26,1998-12-11,I Moderate,intensity_mean,degrees F,2.2707
+Olympic Coast National Marine Sanctuary,38,2002-12-15,2003-02-05,I Moderate,duration,days,53
+Olympic Coast National Marine Sanctuary,38,2002-12-15,2003-02-05,I Moderate,intensity_mean,degrees F,2.7741
+Olympic Coast National Marine Sanctuary,39,2003-07-09,2003-07-14,I Moderate,duration,days,6
+Olympic Coast National Marine Sanctuary,39,2003-07-09,2003-07-14,I Moderate,intensity_mean,degrees F,3.0152
+Olympic Coast National Marine Sanctuary,40,2004-05-12,2004-05-26,I Moderate,duration,days,15
+Olympic Coast National Marine Sanctuary,40,2004-05-12,2004-05-26,I Moderate,intensity_mean,degrees F,3.2566
+Olympic Coast National Marine Sanctuary,41,2004-05-31,2004-06-05,I Moderate,duration,days,6
+Olympic Coast National Marine Sanctuary,41,2004-05-31,2004-06-05,I Moderate,intensity_mean,degrees F,3.3491
+Olympic Coast National Marine Sanctuary,42,2004-06-22,2004-06-28,I Moderate,duration,days,7
+Olympic Coast National Marine Sanctuary,42,2004-06-22,2004-06-28,I Moderate,intensity_mean,degrees F,2.9882
+Olympic Coast National Marine Sanctuary,43,2004-07-18,2004-07-23,I Moderate,duration,days,6
+Olympic Coast National Marine Sanctuary,43,2004-07-18,2004-07-23,I Moderate,intensity_mean,degrees F,3.1751
+Olympic Coast National Marine Sanctuary,44,2005-05-05,2005-05-17,I Moderate,duration,days,13
+Olympic Coast National Marine Sanctuary,44,2005-05-05,2005-05-17,I Moderate,intensity_mean,degrees F,2.7297
+Olympic Coast National Marine Sanctuary,45,2005-10-13,2005-10-23,I Moderate,duration,days,11
+Olympic Coast National Marine Sanctuary,45,2005-10-13,2005-10-23,I Moderate,intensity_mean,degrees F,2.8009
+Olympic Coast National Marine Sanctuary,46,2005-10-27,2005-11-03,I Moderate,duration,days,8
+Olympic Coast National Marine Sanctuary,46,2005-10-27,2005-11-03,I Moderate,intensity_mean,degrees F,2.3085
+Olympic Coast National Marine Sanctuary,47,2006-01-02,2006-01-22,I Moderate,duration,days,21
+Olympic Coast National Marine Sanctuary,47,2006-01-02,2006-01-22,I Moderate,intensity_mean,degrees F,2.8616
+Olympic Coast National Marine Sanctuary,48,2006-04-07,2006-04-11,I Moderate,duration,days,5
+Olympic Coast National Marine Sanctuary,48,2006-04-07,2006-04-11,I Moderate,intensity_mean,degrees F,2.263
+Olympic Coast National Marine Sanctuary,49,2007-07-21,2007-07-28,I Moderate,duration,days,8
+Olympic Coast National Marine Sanctuary,49,2007-07-21,2007-07-28,I Moderate,intensity_mean,degrees F,3.3062
+Olympic Coast National Marine Sanctuary,50,2010-02-08,2010-02-12,I Moderate,duration,days,5
+Olympic Coast National Marine Sanctuary,50,2010-02-08,2010-02-12,I Moderate,intensity_mean,degrees F,2.5474
+Olympic Coast National Marine Sanctuary,51,2010-03-03,2010-03-08,I Moderate,duration,days,6
+Olympic Coast National Marine Sanctuary,51,2010-03-03,2010-03-08,I Moderate,intensity_mean,degrees F,2.7048
+Olympic Coast National Marine Sanctuary,52,2011-10-08,2011-10-16,I Moderate,duration,days,9
+Olympic Coast National Marine Sanctuary,52,2011-10-08,2011-10-16,I Moderate,intensity_mean,degrees F,2.5459
+Olympic Coast National Marine Sanctuary,53,2012-12-01,2012-12-06,I Moderate,duration,days,6
+Olympic Coast National Marine Sanctuary,53,2012-12-01,2012-12-06,I Moderate,intensity_mean,degrees F,2.3427
+Olympic Coast National Marine Sanctuary,54,2013-06-20,2013-06-24,I Moderate,duration,days,5
+Olympic Coast National Marine Sanctuary,54,2013-06-20,2013-06-24,I Moderate,intensity_mean,degrees F,3.3402
+Olympic Coast National Marine Sanctuary,55,2013-06-29,2013-07-07,II Strong,duration,days,9
+Olympic Coast National Marine Sanctuary,55,2013-06-29,2013-07-07,II Strong,intensity_mean,degrees F,3.9923
+Olympic Coast National Marine Sanctuary,56,2013-08-31,2013-09-29,II Strong,duration,days,30
+Olympic Coast National Marine Sanctuary,56,2013-08-31,2013-09-29,II Strong,intensity_mean,degrees F,4.8345
+Olympic Coast National Marine Sanctuary,57,2014-04-30,2014-05-28,II Strong,duration,days,29
+Olympic Coast National Marine Sanctuary,57,2014-04-30,2014-05-28,II Strong,intensity_mean,degrees F,4.341
+Olympic Coast National Marine Sanctuary,58,2014-09-26,2014-11-12,II Strong,duration,days,48
+Olympic Coast National Marine Sanctuary,58,2014-09-26,2014-11-12,II Strong,intensity_mean,degrees F,4.7789
+Olympic Coast National Marine Sanctuary,59,2014-11-21,2015-01-02,II Strong,duration,days,43
+Olympic Coast National Marine Sanctuary,59,2014-11-21,2015-01-02,II Strong,intensity_mean,degrees F,3.7949
+Olympic Coast National Marine Sanctuary,60,2015-01-06,2015-01-10,I Moderate,duration,days,5
+Olympic Coast National Marine Sanctuary,60,2015-01-06,2015-01-10,I Moderate,intensity_mean,degrees F,3.5956
+Olympic Coast National Marine Sanctuary,61,2015-01-14,2015-03-01,II Strong,duration,days,47
+Olympic Coast National Marine Sanctuary,61,2015-01-14,2015-03-01,II Strong,intensity_mean,degrees F,3.4507
+Olympic Coast National Marine Sanctuary,62,2015-03-09,2015-04-21,I Moderate,duration,days,44
+Olympic Coast National Marine Sanctuary,62,2015-03-09,2015-04-21,I Moderate,intensity_mean,degrees F,2.8635
+Olympic Coast National Marine Sanctuary,63,2015-07-04,2015-07-29,I Moderate,duration,days,26
+Olympic Coast National Marine Sanctuary,63,2015-07-04,2015-07-29,I Moderate,intensity_mean,degrees F,3.0655
+Olympic Coast National Marine Sanctuary,64,2015-08-10,2015-08-16,I Moderate,duration,days,7
+Olympic Coast National Marine Sanctuary,64,2015-08-10,2015-08-16,I Moderate,intensity_mean,degrees F,3.0331
+Olympic Coast National Marine Sanctuary,65,2015-09-20,2015-11-23,II Strong,duration,days,65
+Olympic Coast National Marine Sanctuary,65,2015-09-20,2015-11-23,II Strong,intensity_mean,degrees F,3.7987
+Olympic Coast National Marine Sanctuary,66,2015-12-03,2015-12-17,I Moderate,duration,days,15
+Olympic Coast National Marine Sanctuary,66,2015-12-03,2015-12-17,I Moderate,intensity_mean,degrees F,2.7188
+Olympic Coast National Marine Sanctuary,67,2016-01-15,2016-03-13,I Moderate,duration,days,59
+Olympic Coast National Marine Sanctuary,67,2016-01-15,2016-03-13,I Moderate,intensity_mean,degrees F,3.1005
+Olympic Coast National Marine Sanctuary,68,2016-03-28,2016-05-04,III Severe,duration,days,38
+Olympic Coast National Marine Sanctuary,68,2016-03-28,2016-05-04,III Severe,intensity_mean,degrees F,3.4795
+Olympic Coast National Marine Sanctuary,69,2016-07-18,2016-07-25,I Moderate,duration,days,8
+Olympic Coast National Marine Sanctuary,69,2016-07-18,2016-07-25,I Moderate,intensity_mean,degrees F,3.4431
+Olympic Coast National Marine Sanctuary,70,2016-10-28,2016-12-04,II Strong,duration,days,38
+Olympic Coast National Marine Sanctuary,70,2016-10-28,2016-12-04,II Strong,intensity_mean,degrees F,3.7176
+Olympic Coast National Marine Sanctuary,71,2018-01-21,2018-02-01,I Moderate,duration,days,12
+Olympic Coast National Marine Sanctuary,71,2018-01-21,2018-02-01,I Moderate,intensity_mean,degrees F,2.445
+Olympic Coast National Marine Sanctuary,72,2018-06-17,2018-06-22,I Moderate,duration,days,6
+Olympic Coast National Marine Sanctuary,72,2018-06-17,2018-06-22,I Moderate,intensity_mean,degrees F,3.62
+Olympic Coast National Marine Sanctuary,73,2019-01-22,2019-01-29,I Moderate,duration,days,8
+Olympic Coast National Marine Sanctuary,73,2019-01-22,2019-01-29,I Moderate,intensity_mean,degrees F,2.5666
+Olympic Coast National Marine Sanctuary,74,2019-04-08,2019-04-16,I Moderate,duration,days,9
+Olympic Coast National Marine Sanctuary,74,2019-04-08,2019-04-16,I Moderate,intensity_mean,degrees F,2.1262
+Olympic Coast National Marine Sanctuary,75,2019-06-29,2019-08-15,II Strong,duration,days,48
+Olympic Coast National Marine Sanctuary,75,2019-06-29,2019-08-15,II Strong,intensity_mean,degrees F,3.8825
+Olympic Coast National Marine Sanctuary,76,2019-08-24,2019-08-29,I Moderate,duration,days,6
+Olympic Coast National Marine Sanctuary,76,2019-08-24,2019-08-29,I Moderate,intensity_mean,degrees F,3.1753
+Olympic Coast National Marine Sanctuary,77,2019-09-02,2019-09-27,I Moderate,duration,days,26
+Olympic Coast National Marine Sanctuary,77,2019-09-02,2019-09-27,I Moderate,intensity_mean,degrees F,4.6077
+Olympic Coast National Marine Sanctuary,78,2020-05-08,2020-05-20,I Moderate,duration,days,13
+Olympic Coast National Marine Sanctuary,78,2020-05-08,2020-05-20,I Moderate,intensity_mean,degrees F,3.4356
+Olympic Coast National Marine Sanctuary,79,2020-09-29,2020-10-13,I Moderate,duration,days,15
+Olympic Coast National Marine Sanctuary,79,2020-09-29,2020-10-13,I Moderate,intensity_mean,degrees F,3.5328
+Olympic Coast National Marine Sanctuary,80,2021-06-24,2021-07-04,II Strong,duration,days,11
+Olympic Coast National Marine Sanctuary,80,2021-06-24,2021-07-04,II Strong,intensity_mean,degrees F,4.0479
+Olympic Coast National Marine Sanctuary,81,2022-08-16,2022-08-22,I Moderate,duration,days,7
+Olympic Coast National Marine Sanctuary,81,2022-08-16,2022-08-22,I Moderate,intensity_mean,degrees F,3.4997
+Olympic Coast National Marine Sanctuary,82,2023-05-11,2023-05-18,I Moderate,duration,days,8
+Olympic Coast National Marine Sanctuary,82,2023-05-11,2023-05-18,I Moderate,intensity_mean,degrees F,3.6549
+Olympic Coast National Marine Sanctuary,83,2023-10-06,2023-10-25,I Moderate,duration,days,20
+Olympic Coast National Marine Sanctuary,83,2023-10-06,2023-10-25,I Moderate,intensity_mean,degrees F,3.0718
+Olympic Coast National Marine Sanctuary,84,2023-11-05,2023-11-29,I Moderate,duration,days,25
+Olympic Coast National Marine Sanctuary,84,2023-11-05,2023-11-29,I Moderate,intensity_mean,degrees F,2.3144
+Olympic Coast National Marine Sanctuary,85,2023-12-21,2023-12-31,I Moderate,duration,days,11
+Olympic Coast National Marine Sanctuary,85,2023-12-21,2023-12-31,I Moderate,intensity_mean,degrees F,2.9093
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,1,1982-02-10,1982-02-26,I Moderate,duration,days,17
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,1,1982-02-10,1982-02-26,I Moderate,intensity_mean,degrees F,2.1209
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,2,1982-10-31,1982-11-09,II Strong,duration,days,10
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,2,1982-10-31,1982-11-09,II Strong,intensity_mean,degrees F,3.0508
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,3,1982-11-28,1982-12-06,I Moderate,duration,days,9
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,3,1982-11-28,1982-12-06,I Moderate,intensity_mean,degrees F,2.6317
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,4,1982-12-25,1983-02-25,II Strong,duration,days,63
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,4,1982-12-25,1983-02-25,II Strong,intensity_mean,degrees F,2.798
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,5,1983-03-03,1983-03-08,I Moderate,duration,days,6
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,5,1983-03-03,1983-03-08,I Moderate,intensity_mean,degrees F,2.1943
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,6,1983-03-13,1983-03-22,I Moderate,duration,days,10
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,6,1983-03-13,1983-03-22,I Moderate,intensity_mean,degrees F,2.1736
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,7,1983-09-06,1983-09-13,I Moderate,duration,days,8
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,7,1983-09-06,1983-09-13,I Moderate,intensity_mean,degrees F,3.4675
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,8,1984-01-31,1984-02-04,I Moderate,duration,days,5
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,8,1984-01-31,1984-02-04,I Moderate,intensity_mean,degrees F,2.091
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,9,1984-02-11,1984-03-01,II Strong,duration,days,20
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,9,1984-02-11,1984-03-01,II Strong,intensity_mean,degrees F,3.1424
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,10,1984-08-14,1984-08-22,I Moderate,duration,days,9
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,10,1984-08-14,1984-08-22,I Moderate,intensity_mean,degrees F,3.6475
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,11,1984-11-10,1984-11-15,I Moderate,duration,days,6
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,11,1984-11-10,1984-11-15,I Moderate,intensity_mean,degrees F,1.8893
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,12,1984-12-19,1984-12-27,I Moderate,duration,days,9
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,12,1984-12-19,1984-12-27,I Moderate,intensity_mean,degrees F,2.9634
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,13,1985-01-05,1985-01-09,I Moderate,duration,days,5
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,13,1985-01-05,1985-01-09,I Moderate,intensity_mean,degrees F,2.8366
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,14,1989-09-09,1989-09-14,I Moderate,duration,days,6
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,14,1989-09-09,1989-09-14,I Moderate,intensity_mean,degrees F,3.6152
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,15,1990-08-03,1990-08-07,I Moderate,duration,days,5
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,15,1990-08-03,1990-08-07,I Moderate,intensity_mean,degrees F,3.0188
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,16,1990-08-11,1990-08-19,I Moderate,duration,days,9
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,16,1990-08-11,1990-08-19,I Moderate,intensity_mean,degrees F,3.915
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,17,1990-10-13,1990-10-17,I Moderate,duration,days,5
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,17,1990-10-13,1990-10-17,I Moderate,intensity_mean,degrees F,3.2746
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,18,1991-03-05,1991-03-09,I Moderate,duration,days,5
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,18,1991-03-05,1991-03-09,I Moderate,intensity_mean,degrees F,2.2696
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,19,1991-05-23,1991-06-04,I Moderate,duration,days,13
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,19,1991-05-23,1991-06-04,I Moderate,intensity_mean,degrees F,4.8862
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,20,1991-07-21,1991-07-26,I Moderate,duration,days,6
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,20,1991-07-21,1991-07-26,I Moderate,intensity_mean,degrees F,2.903
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,21,1996-06-11,1996-06-18,I Moderate,duration,days,8
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,21,1996-06-11,1996-06-18,I Moderate,intensity_mean,degrees F,4.2006
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,22,1999-06-01,1999-06-08,I Moderate,duration,days,8
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,22,1999-06-01,1999-06-08,I Moderate,intensity_mean,degrees F,4.0404
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,23,1999-07-26,1999-08-03,I Moderate,duration,days,9
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,23,1999-07-26,1999-08-03,I Moderate,intensity_mean,degrees F,3.036
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,24,1999-09-03,1999-09-15,II Strong,duration,days,13
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,24,1999-09-03,1999-09-15,II Strong,intensity_mean,degrees F,4.2153
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,25,2001-06-16,2001-06-29,I Moderate,duration,days,14
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,25,2001-06-16,2001-06-29,I Moderate,intensity_mean,degrees F,4.6219
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,26,2002-03-02,2002-03-07,I Moderate,duration,days,6
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,26,2002-03-02,2002-03-07,I Moderate,intensity_mean,degrees F,1.998
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,27,2002-03-13,2002-03-18,I Moderate,duration,days,6
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,27,2002-03-13,2002-03-18,I Moderate,intensity_mean,degrees F,2.323
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,28,2002-04-13,2002-04-24,II Strong,duration,days,12
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,28,2002-04-13,2002-04-24,II Strong,intensity_mean,degrees F,3.5861
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,29,2002-07-01,2002-07-09,I Moderate,duration,days,9
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,29,2002-07-01,2002-07-09,I Moderate,intensity_mean,degrees F,3.8478
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,30,2002-08-11,2002-08-20,I Moderate,duration,days,10
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,30,2002-08-11,2002-08-20,I Moderate,intensity_mean,degrees F,3.2726
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,31,2003-09-25,2003-10-01,I Moderate,duration,days,7
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,31,2003-09-25,2003-10-01,I Moderate,intensity_mean,degrees F,3.3287
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,32,2005-07-19,2005-07-23,I Moderate,duration,days,5
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,32,2005-07-19,2005-07-23,I Moderate,intensity_mean,degrees F,3.528
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,33,2006-12-23,2007-02-06,II Strong,duration,days,46
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,33,2006-12-23,2007-02-06,II Strong,intensity_mean,degrees F,3.1734
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,34,2007-07-29,2007-08-04,I Moderate,duration,days,7
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,34,2007-07-29,2007-08-04,I Moderate,intensity_mean,degrees F,3.6113
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,35,2007-10-03,2007-10-11,II Strong,duration,days,9
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,35,2007-10-03,2007-10-11,II Strong,intensity_mean,degrees F,4.073
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,36,2007-10-20,2007-10-28,I Moderate,duration,days,9
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,36,2007-10-20,2007-10-28,I Moderate,intensity_mean,degrees F,2.7993
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,37,2008-04-22,2008-04-28,II Strong,duration,days,7
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,37,2008-04-22,2008-04-28,II Strong,intensity_mean,degrees F,4.458
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,38,2008-07-28,2008-08-05,I Moderate,duration,days,9
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,38,2008-07-28,2008-08-05,I Moderate,intensity_mean,degrees F,3.3142
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,39,2008-08-15,2008-08-25,I Moderate,duration,days,11
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,39,2008-08-15,2008-08-25,I Moderate,intensity_mean,degrees F,3.6482
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,40,2008-09-04,2008-09-11,I Moderate,duration,days,8
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,40,2008-09-04,2008-09-11,I Moderate,intensity_mean,degrees F,3.3414
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,41,2009-08-12,2009-08-29,II Strong,duration,days,18
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,41,2009-08-12,2009-08-29,II Strong,intensity_mean,degrees F,5.0045
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,42,2009-11-28,2009-12-05,I Moderate,duration,days,8
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,42,2009-11-28,2009-12-05,I Moderate,intensity_mean,degrees F,2.305
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,43,2010-03-19,2010-03-23,I Moderate,duration,days,5
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,43,2010-03-19,2010-03-23,I Moderate,intensity_mean,degrees F,2.7749
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,44,2010-04-02,2010-05-08,II Strong,duration,days,37
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,44,2010-04-02,2010-05-08,II Strong,intensity_mean,degrees F,3.7407
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,45,2010-05-23,2010-06-06,II Strong,duration,days,15
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,45,2010-05-23,2010-06-06,II Strong,intensity_mean,degrees F,5.2311
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,46,2010-06-20,2010-07-25,III Severe,duration,days,36
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,46,2010-06-20,2010-07-25,III Severe,intensity_mean,degrees F,5.2457
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,47,2010-08-30,2010-09-09,II Strong,duration,days,11
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,47,2010-08-30,2010-09-09,II Strong,intensity_mean,degrees F,3.99
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,48,2010-09-25,2010-10-01,I Moderate,duration,days,7
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,48,2010-09-25,2010-10-01,I Moderate,intensity_mean,degrees F,3.5248
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,49,2011-05-27,2011-06-01,I Moderate,duration,days,6
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,49,2011-05-27,2011-06-01,I Moderate,intensity_mean,degrees F,3.9661
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,50,2011-06-07,2011-06-11,I Moderate,duration,days,5
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,50,2011-06-07,2011-06-11,I Moderate,intensity_mean,degrees F,4.5211
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,51,2011-06-28,2011-07-13,II Strong,duration,days,16
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,51,2011-06-28,2011-07-13,II Strong,intensity_mean,degrees F,4.7509
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,52,2011-07-20,2011-07-25,I Moderate,duration,days,6
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,52,2011-07-20,2011-07-25,I Moderate,intensity_mean,degrees F,3.74
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,53,2011-07-31,2011-08-05,I Moderate,duration,days,6
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,53,2011-07-31,2011-08-05,I Moderate,intensity_mean,degrees F,3.3655
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,54,2011-09-23,2011-10-29,II Strong,duration,days,37
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,54,2011-09-23,2011-10-29,II Strong,intensity_mean,degrees F,3.9757
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,55,2011-11-02,2012-04-30,IV Extreme,duration,days,181
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,55,2011-11-02,2012-04-30,IV Extreme,intensity_mean,degrees F,3.2196
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,56,2012-05-11,2012-06-03,II Strong,duration,days,24
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,56,2012-05-11,2012-06-03,II Strong,intensity_mean,degrees F,5.6044
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,57,2012-06-20,2012-07-24,II Strong,duration,days,35
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,57,2012-06-20,2012-07-24,II Strong,intensity_mean,degrees F,5.9637
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,58,2012-08-01,2012-09-18,II Strong,duration,days,49
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,58,2012-08-01,2012-09-18,II Strong,intensity_mean,degrees F,4.1943
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,59,2012-10-25,2012-10-30,I Moderate,duration,days,6
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,59,2012-10-25,2012-10-30,I Moderate,intensity_mean,degrees F,2.6694
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,60,2012-11-21,2013-02-20,II Strong,duration,days,92
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,60,2012-11-21,2013-02-20,II Strong,intensity_mean,degrees F,2.9418
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,61,2013-02-24,2013-03-18,II Strong,duration,days,23
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,61,2013-02-24,2013-03-18,II Strong,intensity_mean,degrees F,2.4721
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,62,2013-03-23,2013-04-01,I Moderate,duration,days,10
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,62,2013-03-23,2013-04-01,I Moderate,intensity_mean,degrees F,2.1565
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,63,2013-04-28,2013-05-24,II Strong,duration,days,27
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,63,2013-04-28,2013-05-24,II Strong,intensity_mean,degrees F,4.1814
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,64,2013-07-02,2013-07-25,III Severe,duration,days,24
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,64,2013-07-02,2013-07-25,III Severe,intensity_mean,degrees F,5.405
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,65,2013-07-29,2013-08-04,I Moderate,duration,days,7
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,65,2013-07-29,2013-08-04,I Moderate,intensity_mean,degrees F,3.7557
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,66,2013-10-02,2013-10-29,II Strong,duration,days,28
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,66,2013-10-02,2013-10-29,II Strong,intensity_mean,degrees F,3.4874
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,67,2013-11-05,2013-11-09,I Moderate,duration,days,5
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,67,2013-11-05,2013-11-09,I Moderate,intensity_mean,degrees F,2.0988
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,68,2014-05-10,2014-05-14,I Moderate,duration,days,5
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,68,2014-05-10,2014-05-14,I Moderate,intensity_mean,degrees F,3.6337
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,69,2014-08-31,2014-09-12,II Strong,duration,days,13
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,69,2014-08-31,2014-09-12,II Strong,intensity_mean,degrees F,4.3811
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,70,2014-10-13,2014-10-25,II Strong,duration,days,13
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,70,2014-10-13,2014-10-25,II Strong,intensity_mean,degrees F,3.1664
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,71,2014-11-10,2014-11-14,I Moderate,duration,days,5
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,71,2014-11-10,2014-11-14,I Moderate,intensity_mean,degrees F,2.0672
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,72,2015-01-02,2015-01-06,I Moderate,duration,days,5
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,72,2015-01-02,2015-01-06,I Moderate,intensity_mean,degrees F,2.1978
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,73,2015-07-10,2015-07-15,I Moderate,duration,days,6
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,73,2015-07-10,2015-07-15,I Moderate,intensity_mean,degrees F,3.169
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,74,2015-07-19,2015-08-02,II Strong,duration,days,15
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,74,2015-07-19,2015-08-02,II Strong,intensity_mean,degrees F,3.6683
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,75,2015-08-16,2015-09-30,II Strong,duration,days,46
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,75,2015-08-16,2015-09-30,II Strong,intensity_mean,degrees F,4.355
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,76,2015-11-02,2016-04-02,II Strong,duration,days,153
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,76,2015-11-02,2016-04-02,II Strong,intensity_mean,degrees F,2.7507
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,77,2016-05-23,2016-06-07,II Strong,duration,days,16
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,77,2016-05-23,2016-06-07,II Strong,intensity_mean,degrees F,4.3972
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,78,2016-07-16,2016-08-21,II Strong,duration,days,37
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,78,2016-07-16,2016-08-21,II Strong,intensity_mean,degrees F,4.6437
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,79,2016-08-26,2016-11-04,II Strong,duration,days,71
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,79,2016-08-26,2016-11-04,II Strong,intensity_mean,degrees F,4.0043
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,80,2016-11-09,2016-12-19,I Moderate,duration,days,41
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,80,2016-11-09,2016-12-19,I Moderate,intensity_mean,degrees F,2.6995
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,81,2016-12-23,2017-02-13,II Strong,duration,days,53
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,81,2016-12-23,2017-02-13,II Strong,intensity_mean,degrees F,3.0482
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,82,2017-02-17,2017-03-11,II Strong,duration,days,23
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,82,2017-02-17,2017-03-11,II Strong,intensity_mean,degrees F,2.7379
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,83,2017-04-14,2017-04-18,I Moderate,duration,days,5
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,83,2017-04-14,2017-04-18,I Moderate,intensity_mean,degrees F,2.8042
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,84,2017-08-14,2017-08-22,I Moderate,duration,days,9
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,84,2017-08-14,2017-08-22,I Moderate,intensity_mean,degrees F,2.908
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,85,2017-09-24,2017-11-10,II Strong,duration,days,48
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,85,2017-09-24,2017-11-10,II Strong,intensity_mean,degrees F,4.4644
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,86,2018-02-27,2018-03-05,I Moderate,duration,days,7
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,86,2018-02-27,2018-03-05,I Moderate,intensity_mean,degrees F,2.1003
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,87,2018-05-29,2018-06-03,I Moderate,duration,days,6
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,87,2018-05-29,2018-06-03,I Moderate,intensity_mean,degrees F,4.529
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,88,2018-06-08,2018-06-12,I Moderate,duration,days,5
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,88,2018-06-08,2018-06-12,I Moderate,intensity_mean,degrees F,4.1973
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,89,2018-06-17,2018-06-23,I Moderate,duration,days,7
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,89,2018-06-17,2018-06-23,I Moderate,intensity_mean,degrees F,3.8976
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,90,2018-06-30,2018-10-15,III Severe,duration,days,108
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,90,2018-06-30,2018-10-15,III Severe,intensity_mean,degrees F,4.5119
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,91,2019-07-02,2019-08-06,II Strong,duration,days,36
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,91,2019-07-02,2019-08-06,II Strong,intensity_mean,degrees F,5.0122
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,92,2019-08-18,2019-08-24,I Moderate,duration,days,7
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,92,2019-08-18,2019-08-24,I Moderate,intensity_mean,degrees F,3.6212
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,93,2019-08-29,2019-09-06,I Moderate,duration,days,9
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,93,2019-08-29,2019-09-06,I Moderate,intensity_mean,degrees F,3.3319
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,94,2019-09-21,2019-10-03,II Strong,duration,days,13
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,94,2019-09-21,2019-10-03,II Strong,intensity_mean,degrees F,4.6193
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,95,2019-10-24,2019-11-08,I Moderate,duration,days,16
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,95,2019-10-24,2019-11-08,I Moderate,intensity_mean,degrees F,2.825
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,96,2020-01-12,2020-04-09,II Strong,duration,days,89
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,96,2020-01-12,2020-04-09,II Strong,intensity_mean,degrees F,2.8607
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,97,2020-06-17,2020-08-30,III Severe,duration,days,75
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,97,2020-06-17,2020-08-30,III Severe,intensity_mean,degrees F,4.7911
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,98,2020-09-03,2020-09-19,II Strong,duration,days,17
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,98,2020-09-03,2020-09-19,II Strong,intensity_mean,degrees F,4.0374
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,99,2020-09-25,2020-10-09,I Moderate,duration,days,15
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,99,2020-09-25,2020-10-09,I Moderate,intensity_mean,degrees F,3.4253
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,100,2020-10-19,2020-12-07,II Strong,duration,days,50
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,100,2020-10-19,2020-12-07,II Strong,intensity_mean,degrees F,2.9085
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,101,2021-03-10,2021-03-15,I Moderate,duration,days,6
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,101,2021-03-10,2021-03-15,I Moderate,intensity_mean,degrees F,2.0475
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,102,2021-03-24,2021-04-16,II Strong,duration,days,24
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,102,2021-03-24,2021-04-16,II Strong,intensity_mean,degrees F,2.6615
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,103,2021-05-13,2021-05-28,II Strong,duration,days,16
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,103,2021-05-13,2021-05-28,II Strong,intensity_mean,degrees F,5.0602
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,104,2021-06-06,2021-06-22,II Strong,duration,days,17
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,104,2021-06-06,2021-06-22,II Strong,intensity_mean,degrees F,5.1471
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,105,2021-06-28,2021-07-02,I Moderate,duration,days,5
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,105,2021-06-28,2021-07-02,I Moderate,intensity_mean,degrees F,4.493
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,106,2021-07-15,2021-07-29,I Moderate,duration,days,15
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,106,2021-07-15,2021-07-29,I Moderate,intensity_mean,degrees F,3.8342
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,107,2021-08-07,2021-09-01,II Strong,duration,days,26
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,107,2021-08-07,2021-09-01,II Strong,intensity_mean,degrees F,4.996
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,108,2021-09-08,2022-03-29,III Severe,duration,days,203
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,108,2021-09-08,2022-03-29,III Severe,intensity_mean,degrees F,3.6733
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,109,2022-06-09,2022-06-18,I Moderate,duration,days,10
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,109,2022-06-09,2022-06-18,I Moderate,intensity_mean,degrees F,4.4547
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,110,2022-06-26,2022-07-08,I Moderate,duration,days,13
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,110,2022-06-26,2022-07-08,I Moderate,intensity_mean,degrees F,3.9334
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,111,2022-08-04,2022-08-09,I Moderate,duration,days,6
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,111,2022-08-04,2022-08-09,I Moderate,intensity_mean,degrees F,3.2932
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,112,2022-08-22,2022-09-22,II Strong,duration,days,32
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,112,2022-08-22,2022-09-22,II Strong,intensity_mean,degrees F,4.3326
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,113,2022-10-20,2022-12-19,III Severe,duration,days,61
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,113,2022-10-20,2022-12-19,III Severe,intensity_mean,degrees F,3.7435
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,114,2023-01-13,2023-01-31,I Moderate,duration,days,19
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,114,2023-01-13,2023-01-31,I Moderate,intensity_mean,degrees F,2.5799
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,115,2023-02-06,2023-05-01,II Strong,duration,days,85
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,115,2023-02-06,2023-05-01,II Strong,intensity_mean,degrees F,2.9866
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,116,2023-05-07,2023-05-17,II Strong,duration,days,11
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,116,2023-05-07,2023-05-17,II Strong,intensity_mean,degrees F,4.3666
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,117,2023-05-27,2023-06-03,I Moderate,duration,days,8
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,117,2023-05-27,2023-06-03,I Moderate,intensity_mean,degrees F,4.005
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,118,2023-06-21,2023-07-30,II Strong,duration,days,40
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,118,2023-06-21,2023-07-30,II Strong,intensity_mean,degrees F,4.6601
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,119,2023-09-04,2023-09-25,III Severe,duration,days,22
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,119,2023-09-04,2023-09-25,III Severe,intensity_mean,degrees F,5.0763
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,120,2023-09-29,2023-11-11,II Strong,duration,days,44
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,120,2023-09-29,2023-11-11,II Strong,intensity_mean,degrees F,3.6121
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,121,2023-11-15,2023-11-25,I Moderate,duration,days,11
+Gerry E. Studds/Stellwagen Bank National Marine Sanctuary,121,2023-11-15,2023-11-25,I Moderate,intensity_mean,degrees F,2.078
+Florida Keys National Marine Sanctuary,1,1982-02-09,1982-02-17,I Moderate,duration,days,9
+Florida Keys National Marine Sanctuary,1,1982-02-09,1982-02-17,I Moderate,intensity_mean,degrees F,2.5565
+Florida Keys National Marine Sanctuary,2,1982-03-18,1982-03-29,II Strong,duration,days,12
+Florida Keys National Marine Sanctuary,2,1982-03-18,1982-03-29,II Strong,intensity_mean,degrees F,3.5664
+Florida Keys National Marine Sanctuary,3,1982-04-17,1982-04-30,I Moderate,duration,days,14
+Florida Keys National Marine Sanctuary,3,1982-04-17,1982-04-30,I Moderate,intensity_mean,degrees F,2.9489
+Florida Keys National Marine Sanctuary,4,1986-11-17,1986-12-04,II Strong,duration,days,18
+Florida Keys National Marine Sanctuary,4,1986-11-17,1986-12-04,II Strong,intensity_mean,degrees F,2.3793
+Florida Keys National Marine Sanctuary,5,1986-12-12,1986-12-17,I Moderate,duration,days,6
+Florida Keys National Marine Sanctuary,5,1986-12-12,1986-12-17,I Moderate,intensity_mean,degrees F,1.9194
+Florida Keys National Marine Sanctuary,6,1987-01-17,1987-01-22,I Moderate,duration,days,6
+Florida Keys National Marine Sanctuary,6,1987-01-17,1987-01-22,I Moderate,intensity_mean,degrees F,2.2186
+Florida Keys National Marine Sanctuary,7,1990-02-01,1990-02-06,I Moderate,duration,days,6
+Florida Keys National Marine Sanctuary,7,1990-02-01,1990-02-06,I Moderate,intensity_mean,degrees F,2.1748
+Florida Keys National Marine Sanctuary,8,1991-01-14,1991-01-18,I Moderate,duration,days,5
+Florida Keys National Marine Sanctuary,8,1991-01-14,1991-01-18,I Moderate,intensity_mean,degrees F,2.1794
+Florida Keys National Marine Sanctuary,9,1991-01-28,1991-02-08,I Moderate,duration,days,12
+Florida Keys National Marine Sanctuary,9,1991-01-28,1991-02-08,I Moderate,intensity_mean,degrees F,3.0313
+Florida Keys National Marine Sanctuary,10,1991-08-19,1991-08-24,I Moderate,duration,days,6
+Florida Keys National Marine Sanctuary,10,1991-08-19,1991-08-24,I Moderate,intensity_mean,degrees F,2.3001
+Florida Keys National Marine Sanctuary,11,1993-01-04,1993-01-19,II Strong,duration,days,16
+Florida Keys National Marine Sanctuary,11,1993-01-04,1993-01-19,II Strong,intensity_mean,degrees F,3.0449
+Florida Keys National Marine Sanctuary,12,1993-07-22,1993-08-01,I Moderate,duration,days,11
+Florida Keys National Marine Sanctuary,12,1993-07-22,1993-08-01,I Moderate,intensity_mean,degrees F,2.0261
+Florida Keys National Marine Sanctuary,13,1994-02-23,1994-03-01,I Moderate,duration,days,7
+Florida Keys National Marine Sanctuary,13,1994-02-23,1994-03-01,I Moderate,intensity_mean,degrees F,2.8911
+Florida Keys National Marine Sanctuary,14,1994-03-22,1994-03-28,I Moderate,duration,days,7
+Florida Keys National Marine Sanctuary,14,1994-03-22,1994-03-28,I Moderate,intensity_mean,degrees F,2.4275
+Florida Keys National Marine Sanctuary,15,1994-05-06,1994-05-20,I Moderate,duration,days,15
+Florida Keys National Marine Sanctuary,15,1994-05-06,1994-05-20,I Moderate,intensity_mean,degrees F,2.2965
+Florida Keys National Marine Sanctuary,16,1994-11-29,1994-12-19,II Strong,duration,days,21
+Florida Keys National Marine Sanctuary,16,1994-11-29,1994-12-19,II Strong,intensity_mean,degrees F,2.381
+Florida Keys National Marine Sanctuary,17,1995-05-11,1995-05-28,II Strong,duration,days,18
+Florida Keys National Marine Sanctuary,17,1995-05-11,1995-05-28,II Strong,intensity_mean,degrees F,2.5287
+Florida Keys National Marine Sanctuary,18,1997-01-01,1997-01-06,I Moderate,duration,days,6
+Florida Keys National Marine Sanctuary,18,1997-01-01,1997-01-06,I Moderate,intensity_mean,degrees F,2.1609
+Florida Keys National Marine Sanctuary,19,1997-02-20,1997-03-06,I Moderate,duration,days,15
+Florida Keys National Marine Sanctuary,19,1997-02-20,1997-03-06,I Moderate,intensity_mean,degrees F,2.9464
+Florida Keys National Marine Sanctuary,20,1997-03-27,1997-04-01,I Moderate,duration,days,6
+Florida Keys National Marine Sanctuary,20,1997-03-27,1997-04-01,I Moderate,intensity_mean,degrees F,2.5905
+Florida Keys National Marine Sanctuary,21,1997-07-14,1997-07-21,I Moderate,duration,days,8
+Florida Keys National Marine Sanctuary,21,1997-07-14,1997-07-21,I Moderate,intensity_mean,degrees F,1.611
+Florida Keys National Marine Sanctuary,22,1997-07-30,1997-08-26,I Moderate,duration,days,28
+Florida Keys National Marine Sanctuary,22,1997-07-30,1997-08-26,I Moderate,intensity_mean,degrees F,1.951
+Florida Keys National Marine Sanctuary,23,1998-06-04,1998-06-20,II Strong,duration,days,17
+Florida Keys National Marine Sanctuary,23,1998-06-04,1998-06-20,II Strong,intensity_mean,degrees F,2.1637
+Florida Keys National Marine Sanctuary,24,1998-07-01,1998-07-12,II Strong,duration,days,12
+Florida Keys National Marine Sanctuary,24,1998-07-01,1998-07-12,II Strong,intensity_mean,degrees F,2.6203
+Florida Keys National Marine Sanctuary,25,1998-07-31,1998-08-05,I Moderate,duration,days,6
+Florida Keys National Marine Sanctuary,25,1998-07-31,1998-08-05,I Moderate,intensity_mean,degrees F,1.6028
+Florida Keys National Marine Sanctuary,26,1998-08-10,1998-08-15,I Moderate,duration,days,6
+Florida Keys National Marine Sanctuary,26,1998-08-10,1998-08-15,I Moderate,intensity_mean,degrees F,1.7734
+Florida Keys National Marine Sanctuary,27,1998-08-23,1998-09-11,I Moderate,duration,days,20
+Florida Keys National Marine Sanctuary,27,1998-08-23,1998-09-11,I Moderate,intensity_mean,degrees F,1.7255
+Florida Keys National Marine Sanctuary,28,1999-02-04,1999-02-13,I Moderate,duration,days,10
+Florida Keys National Marine Sanctuary,28,1999-02-04,1999-02-13,I Moderate,intensity_mean,degrees F,2.5067
+Florida Keys National Marine Sanctuary,29,1999-04-12,1999-04-18,I Moderate,duration,days,7
+Florida Keys National Marine Sanctuary,29,1999-04-12,1999-04-18,I Moderate,intensity_mean,degrees F,2.3738
+Florida Keys National Marine Sanctuary,30,1999-05-11,1999-05-17,I Moderate,duration,days,7
+Florida Keys National Marine Sanctuary,30,1999-05-11,1999-05-17,I Moderate,intensity_mean,degrees F,2.328
+Florida Keys National Marine Sanctuary,31,1999-07-28,1999-08-05,I Moderate,duration,days,9
+Florida Keys National Marine Sanctuary,31,1999-07-28,1999-08-05,I Moderate,intensity_mean,degrees F,2.1891
+Florida Keys National Marine Sanctuary,32,1999-08-12,1999-08-16,I Moderate,duration,days,5
+Florida Keys National Marine Sanctuary,32,1999-08-12,1999-08-16,I Moderate,intensity_mean,degrees F,1.8463
+Florida Keys National Marine Sanctuary,33,1999-09-01,1999-09-13,II Strong,duration,days,13
+Florida Keys National Marine Sanctuary,33,1999-09-01,1999-09-13,II Strong,intensity_mean,degrees F,2.239
+Florida Keys National Marine Sanctuary,34,2000-07-18,2000-07-26,I Moderate,duration,days,9
+Florida Keys National Marine Sanctuary,34,2000-07-18,2000-07-26,I Moderate,intensity_mean,degrees F,1.8281
+Florida Keys National Marine Sanctuary,35,2000-10-04,2000-10-10,I Moderate,duration,days,7
+Florida Keys National Marine Sanctuary,35,2000-10-04,2000-10-10,I Moderate,intensity_mean,degrees F,2.0279
+Florida Keys National Marine Sanctuary,36,2001-06-13,2001-06-17,I Moderate,duration,days,5
+Florida Keys National Marine Sanctuary,36,2001-06-13,2001-06-17,I Moderate,intensity_mean,degrees F,1.5625
+Florida Keys National Marine Sanctuary,37,2002-02-02,2002-02-07,I Moderate,duration,days,6
+Florida Keys National Marine Sanctuary,37,2002-02-02,2002-02-07,I Moderate,intensity_mean,degrees F,2.3008
+Florida Keys National Marine Sanctuary,38,2002-03-21,2002-03-27,I Moderate,duration,days,7
+Florida Keys National Marine Sanctuary,38,2002-03-21,2002-03-27,I Moderate,intensity_mean,degrees F,2.6903
+Florida Keys National Marine Sanctuary,39,2002-03-31,2002-04-06,II Strong,duration,days,7
+Florida Keys National Marine Sanctuary,39,2002-03-31,2002-04-06,II Strong,intensity_mean,degrees F,3.3619
+Florida Keys National Marine Sanctuary,40,2002-04-21,2002-05-08,I Moderate,duration,days,18
+Florida Keys National Marine Sanctuary,40,2002-04-21,2002-05-08,I Moderate,intensity_mean,degrees F,2.6249
+Florida Keys National Marine Sanctuary,41,2002-10-28,2002-11-16,I Moderate,duration,days,20
+Florida Keys National Marine Sanctuary,41,2002-10-28,2002-11-16,I Moderate,intensity_mean,degrees F,2.202
+Florida Keys National Marine Sanctuary,42,2003-03-02,2003-03-26,II Strong,duration,days,25
+Florida Keys National Marine Sanctuary,42,2003-03-02,2003-03-26,II Strong,intensity_mean,degrees F,3.4977
+Florida Keys National Marine Sanctuary,43,2003-05-12,2003-05-20,I Moderate,duration,days,9
+Florida Keys National Marine Sanctuary,43,2003-05-12,2003-05-20,I Moderate,intensity_mean,degrees F,2.1283
+Florida Keys National Marine Sanctuary,44,2003-06-03,2003-06-10,I Moderate,duration,days,8
+Florida Keys National Marine Sanctuary,44,2003-06-03,2003-06-10,I Moderate,intensity_mean,degrees F,1.8467
+Florida Keys National Marine Sanctuary,45,2003-10-01,2003-10-15,I Moderate,duration,days,15
+Florida Keys National Marine Sanctuary,45,2003-10-01,2003-10-15,I Moderate,intensity_mean,degrees F,1.9536
+Florida Keys National Marine Sanctuary,46,2004-12-04,2004-12-12,I Moderate,duration,days,9
+Florida Keys National Marine Sanctuary,46,2004-12-04,2004-12-12,I Moderate,intensity_mean,degrees F,1.6912
+Florida Keys National Marine Sanctuary,47,2006-09-16,2006-10-01,II Strong,duration,days,16
+Florida Keys National Marine Sanctuary,47,2006-09-16,2006-10-01,II Strong,intensity_mean,degrees F,2.3027
+Florida Keys National Marine Sanctuary,48,2006-10-21,2006-10-25,I Moderate,duration,days,5
+Florida Keys National Marine Sanctuary,48,2006-10-21,2006-10-25,I Moderate,intensity_mean,degrees F,1.8021
+Florida Keys National Marine Sanctuary,49,2006-12-31,2007-01-11,I Moderate,duration,days,12
+Florida Keys National Marine Sanctuary,49,2006-12-31,2007-01-11,I Moderate,intensity_mean,degrees F,2.7766
+Florida Keys National Marine Sanctuary,50,2007-01-16,2007-01-27,I Moderate,duration,days,12
+Florida Keys National Marine Sanctuary,50,2007-01-16,2007-01-27,I Moderate,intensity_mean,degrees F,2.6462
+Florida Keys National Marine Sanctuary,51,2007-09-02,2007-09-14,I Moderate,duration,days,13
+Florida Keys National Marine Sanctuary,51,2007-09-02,2007-09-14,I Moderate,intensity_mean,degrees F,1.5853
+Florida Keys National Marine Sanctuary,52,2007-12-13,2007-12-17,I Moderate,duration,days,5
+Florida Keys National Marine Sanctuary,52,2007-12-13,2007-12-17,I Moderate,intensity_mean,degrees F,2.1495
+Florida Keys National Marine Sanctuary,53,2008-02-06,2008-02-10,II Strong,duration,days,5
+Florida Keys National Marine Sanctuary,53,2008-02-06,2008-02-10,II Strong,intensity_mean,degrees F,3.3922
+Florida Keys National Marine Sanctuary,54,2008-02-23,2008-02-27,I Moderate,duration,days,5
+Florida Keys National Marine Sanctuary,54,2008-02-23,2008-02-27,I Moderate,intensity_mean,degrees F,2.9302
+Florida Keys National Marine Sanctuary,55,2009-06-16,2009-06-22,I Moderate,duration,days,7
+Florida Keys National Marine Sanctuary,55,2009-06-16,2009-06-22,I Moderate,intensity_mean,degrees F,1.68
+Florida Keys National Marine Sanctuary,56,2009-08-31,2009-09-04,I Moderate,duration,days,5
+Florida Keys National Marine Sanctuary,56,2009-08-31,2009-09-04,I Moderate,intensity_mean,degrees F,1.6131
+Florida Keys National Marine Sanctuary,57,2009-09-27,2009-10-18,II Strong,duration,days,22
+Florida Keys National Marine Sanctuary,57,2009-09-27,2009-10-18,II Strong,intensity_mean,degrees F,2.492
+Florida Keys National Marine Sanctuary,58,2009-10-28,2009-11-06,I Moderate,duration,days,10
+Florida Keys National Marine Sanctuary,58,2009-10-28,2009-11-06,I Moderate,intensity_mean,degrees F,2.013
+Florida Keys National Marine Sanctuary,59,2009-12-13,2009-12-20,I Moderate,duration,days,8
+Florida Keys National Marine Sanctuary,59,2009-12-13,2009-12-20,I Moderate,intensity_mean,degrees F,2
+Florida Keys National Marine Sanctuary,60,2010-05-07,2010-05-11,I Moderate,duration,days,5
+Florida Keys National Marine Sanctuary,60,2010-05-07,2010-05-11,I Moderate,intensity_mean,degrees F,2.3866
+Florida Keys National Marine Sanctuary,61,2010-06-04,2010-06-22,II Strong,duration,days,19
+Florida Keys National Marine Sanctuary,61,2010-06-04,2010-06-22,II Strong,intensity_mean,degrees F,2.5225
+Florida Keys National Marine Sanctuary,62,2010-07-10,2010-07-15,I Moderate,duration,days,6
+Florida Keys National Marine Sanctuary,62,2010-07-10,2010-07-15,I Moderate,intensity_mean,degrees F,1.7902
+Florida Keys National Marine Sanctuary,63,2011-04-09,2011-04-19,I Moderate,duration,days,11
+Florida Keys National Marine Sanctuary,63,2011-04-09,2011-04-19,I Moderate,intensity_mean,degrees F,2.5085
+Florida Keys National Marine Sanctuary,64,2011-05-09,2011-05-13,I Moderate,duration,days,5
+Florida Keys National Marine Sanctuary,64,2011-05-09,2011-05-13,I Moderate,intensity_mean,degrees F,2.1221
+Florida Keys National Marine Sanctuary,65,2011-07-18,2011-07-22,I Moderate,duration,days,5
+Florida Keys National Marine Sanctuary,65,2011-07-18,2011-07-22,I Moderate,intensity_mean,degrees F,1.9281
+Florida Keys National Marine Sanctuary,66,2011-08-03,2011-08-08,I Moderate,duration,days,6
+Florida Keys National Marine Sanctuary,66,2011-08-03,2011-08-08,I Moderate,intensity_mean,degrees F,2.1007
+Florida Keys National Marine Sanctuary,67,2011-08-12,2011-08-25,II Strong,duration,days,14
+Florida Keys National Marine Sanctuary,67,2011-08-12,2011-08-25,II Strong,intensity_mean,degrees F,2.2158
+Florida Keys National Marine Sanctuary,68,2011-09-07,2011-09-11,I Moderate,duration,days,5
+Florida Keys National Marine Sanctuary,68,2011-09-07,2011-09-11,I Moderate,intensity_mean,degrees F,1.5725
+Florida Keys National Marine Sanctuary,69,2012-04-01,2012-04-07,I Moderate,duration,days,7
+Florida Keys National Marine Sanctuary,69,2012-04-01,2012-04-07,I Moderate,intensity_mean,degrees F,2.7927
+Florida Keys National Marine Sanctuary,70,2012-05-28,2012-06-01,I Moderate,duration,days,5
+Florida Keys National Marine Sanctuary,70,2012-05-28,2012-06-01,I Moderate,intensity_mean,degrees F,2.1685
+Florida Keys National Marine Sanctuary,71,2013-01-15,2013-01-19,I Moderate,duration,days,5
+Florida Keys National Marine Sanctuary,71,2013-01-15,2013-01-19,I Moderate,intensity_mean,degrees F,2.1609
+Florida Keys National Marine Sanctuary,72,2013-04-16,2013-04-23,I Moderate,duration,days,8
+Florida Keys National Marine Sanctuary,72,2013-04-16,2013-04-23,I Moderate,intensity_mean,degrees F,2.6704
+Florida Keys National Marine Sanctuary,73,2013-11-19,2013-11-28,I Moderate,duration,days,10
+Florida Keys National Marine Sanctuary,73,2013-11-19,2013-11-28,I Moderate,intensity_mean,degrees F,2.1108
+Florida Keys National Marine Sanctuary,74,2013-12-10,2013-12-17,I Moderate,duration,days,8
+Florida Keys National Marine Sanctuary,74,2013-12-10,2013-12-17,I Moderate,intensity_mean,degrees F,2.1367
+Florida Keys National Marine Sanctuary,75,2013-12-21,2014-01-03,I Moderate,duration,days,14
+Florida Keys National Marine Sanctuary,75,2013-12-21,2014-01-03,I Moderate,intensity_mean,degrees F,2.5345
+Florida Keys National Marine Sanctuary,76,2014-01-09,2014-01-16,I Moderate,duration,days,8
+Florida Keys National Marine Sanctuary,76,2014-01-09,2014-01-16,I Moderate,intensity_mean,degrees F,2.5748
+Florida Keys National Marine Sanctuary,77,2014-02-05,2014-02-13,I Moderate,duration,days,9
+Florida Keys National Marine Sanctuary,77,2014-02-05,2014-02-13,I Moderate,intensity_mean,degrees F,3.0724
+Florida Keys National Marine Sanctuary,78,2014-02-22,2014-02-28,I Moderate,duration,days,7
+Florida Keys National Marine Sanctuary,78,2014-02-22,2014-02-28,I Moderate,intensity_mean,degrees F,3.2464
+Florida Keys National Marine Sanctuary,79,2014-06-22,2014-07-21,I Moderate,duration,days,30
+Florida Keys National Marine Sanctuary,79,2014-06-22,2014-07-21,I Moderate,intensity_mean,degrees F,1.6583
+Florida Keys National Marine Sanctuary,80,2014-07-28,2014-08-02,I Moderate,duration,days,6
+Florida Keys National Marine Sanctuary,80,2014-07-28,2014-08-02,I Moderate,intensity_mean,degrees F,1.9489
+Florida Keys National Marine Sanctuary,81,2014-08-13,2014-09-06,I Moderate,duration,days,25
+Florida Keys National Marine Sanctuary,81,2014-08-13,2014-09-06,I Moderate,intensity_mean,degrees F,1.8098
+Florida Keys National Marine Sanctuary,82,2014-10-02,2014-10-10,I Moderate,duration,days,9
+Florida Keys National Marine Sanctuary,82,2014-10-02,2014-10-10,I Moderate,intensity_mean,degrees F,1.7656
+Florida Keys National Marine Sanctuary,83,2014-12-29,2015-01-09,I Moderate,duration,days,12
+Florida Keys National Marine Sanctuary,83,2014-12-29,2015-01-09,I Moderate,intensity_mean,degrees F,2.4728
+Florida Keys National Marine Sanctuary,84,2015-01-21,2015-01-25,I Moderate,duration,days,5
+Florida Keys National Marine Sanctuary,84,2015-01-21,2015-01-25,I Moderate,intensity_mean,degrees F,2.3716
+Florida Keys National Marine Sanctuary,85,2015-03-18,2015-03-28,II Strong,duration,days,11
+Florida Keys National Marine Sanctuary,85,2015-03-18,2015-03-28,II Strong,intensity_mean,degrees F,3.4692
+Florida Keys National Marine Sanctuary,86,2015-04-13,2015-05-01,II Strong,duration,days,19
+Florida Keys National Marine Sanctuary,86,2015-04-13,2015-05-01,II Strong,intensity_mean,degrees F,3.5122
+Florida Keys National Marine Sanctuary,87,2015-05-19,2015-05-26,I Moderate,duration,days,8
+Florida Keys National Marine Sanctuary,87,2015-05-19,2015-05-26,I Moderate,intensity_mean,degrees F,2.4707
+Florida Keys National Marine Sanctuary,88,2015-06-25,2015-07-07,II Strong,duration,days,13
+Florida Keys National Marine Sanctuary,88,2015-06-25,2015-07-07,II Strong,intensity_mean,degrees F,2.1997
+Florida Keys National Marine Sanctuary,89,2015-07-18,2015-07-26,I Moderate,duration,days,9
+Florida Keys National Marine Sanctuary,89,2015-07-18,2015-07-26,I Moderate,intensity_mean,degrees F,1.8762
+Florida Keys National Marine Sanctuary,90,2015-08-10,2015-08-17,I Moderate,duration,days,8
+Florida Keys National Marine Sanctuary,90,2015-08-10,2015-08-17,I Moderate,intensity_mean,degrees F,2.0197
+Florida Keys National Marine Sanctuary,91,2015-08-21,2015-09-13,II Strong,duration,days,24
+Florida Keys National Marine Sanctuary,91,2015-08-21,2015-09-13,II Strong,intensity_mean,degrees F,2.2228
+Florida Keys National Marine Sanctuary,92,2015-09-19,2015-09-23,I Moderate,duration,days,5
+Florida Keys National Marine Sanctuary,92,2015-09-19,2015-09-23,I Moderate,intensity_mean,degrees F,2.0098
+Florida Keys National Marine Sanctuary,93,2015-11-03,2015-11-24,II Strong,duration,days,22
+Florida Keys National Marine Sanctuary,93,2015-11-03,2015-11-24,II Strong,intensity_mean,degrees F,2.4427
+Florida Keys National Marine Sanctuary,94,2015-12-14,2016-01-22,II Strong,duration,days,40
+Florida Keys National Marine Sanctuary,94,2015-12-14,2016-01-22,II Strong,intensity_mean,degrees F,3.3228
+Florida Keys National Marine Sanctuary,95,2016-02-04,2016-02-08,I Moderate,duration,days,5
+Florida Keys National Marine Sanctuary,95,2016-02-04,2016-02-08,I Moderate,intensity_mean,degrees F,2.6218
+Florida Keys National Marine Sanctuary,96,2016-03-15,2016-03-20,I Moderate,duration,days,6
+Florida Keys National Marine Sanctuary,96,2016-03-15,2016-03-20,I Moderate,intensity_mean,degrees F,3.1673
+Florida Keys National Marine Sanctuary,97,2016-05-20,2016-05-25,I Moderate,duration,days,6
+Florida Keys National Marine Sanctuary,97,2016-05-20,2016-05-25,I Moderate,intensity_mean,degrees F,2.4333
+Florida Keys National Marine Sanctuary,98,2016-05-29,2016-06-04,I Moderate,duration,days,7
+Florida Keys National Marine Sanctuary,98,2016-05-29,2016-06-04,I Moderate,intensity_mean,degrees F,2.0463
+Florida Keys National Marine Sanctuary,99,2016-06-14,2016-07-16,II Strong,duration,days,33
+Florida Keys National Marine Sanctuary,99,2016-06-14,2016-07-16,II Strong,intensity_mean,degrees F,2.4222
+Florida Keys National Marine Sanctuary,100,2016-09-18,2016-10-19,I Moderate,duration,days,32
+Florida Keys National Marine Sanctuary,100,2016-09-18,2016-10-19,I Moderate,intensity_mean,degrees F,2.066
+Florida Keys National Marine Sanctuary,101,2016-12-13,2017-01-08,II Strong,duration,days,27
+Florida Keys National Marine Sanctuary,101,2016-12-13,2017-01-08,II Strong,intensity_mean,degrees F,2.5375
+Florida Keys National Marine Sanctuary,102,2017-01-18,2017-01-23,I Moderate,duration,days,6
+Florida Keys National Marine Sanctuary,102,2017-01-18,2017-01-23,I Moderate,intensity_mean,degrees F,2.5325
+Florida Keys National Marine Sanctuary,103,2017-02-28,2017-03-04,I Moderate,duration,days,5
+Florida Keys National Marine Sanctuary,103,2017-02-28,2017-03-04,I Moderate,intensity_mean,degrees F,2.7697
+Florida Keys National Marine Sanctuary,104,2017-03-31,2017-04-07,I Moderate,duration,days,8
+Florida Keys National Marine Sanctuary,104,2017-03-31,2017-04-07,I Moderate,intensity_mean,degrees F,2.7085
+Florida Keys National Marine Sanctuary,105,2017-05-26,2017-06-07,I Moderate,duration,days,13
+Florida Keys National Marine Sanctuary,105,2017-05-26,2017-06-07,I Moderate,intensity_mean,degrees F,2.151
+Florida Keys National Marine Sanctuary,106,2017-06-28,2017-07-13,I Moderate,duration,days,16
+Florida Keys National Marine Sanctuary,106,2017-06-28,2017-07-13,I Moderate,intensity_mean,degrees F,1.8977
+Florida Keys National Marine Sanctuary,107,2017-07-17,2017-08-02,I Moderate,duration,days,17
+Florida Keys National Marine Sanctuary,107,2017-07-17,2017-08-02,I Moderate,intensity_mean,degrees F,1.8564
+Florida Keys National Marine Sanctuary,108,2017-08-14,2017-08-19,I Moderate,duration,days,6
+Florida Keys National Marine Sanctuary,108,2017-08-14,2017-08-19,I Moderate,intensity_mean,degrees F,1.8692
+Florida Keys National Marine Sanctuary,109,2017-09-01,2017-09-10,I Moderate,duration,days,10
+Florida Keys National Marine Sanctuary,109,2017-09-01,2017-09-10,I Moderate,intensity_mean,degrees F,1.7856
+Florida Keys National Marine Sanctuary,110,2017-09-14,2017-09-18,I Moderate,duration,days,5
+Florida Keys National Marine Sanctuary,110,2017-09-14,2017-09-18,I Moderate,intensity_mean,degrees F,1.5408
+Florida Keys National Marine Sanctuary,111,2017-09-22,2017-09-29,I Moderate,duration,days,8
+Florida Keys National Marine Sanctuary,111,2017-09-22,2017-09-29,I Moderate,intensity_mean,degrees F,1.6184
+Florida Keys National Marine Sanctuary,112,2017-12-02,2017-12-09,I Moderate,duration,days,8
+Florida Keys National Marine Sanctuary,112,2017-12-02,2017-12-09,I Moderate,intensity_mean,degrees F,1.8642
+Florida Keys National Marine Sanctuary,113,2018-02-24,2018-03-04,I Moderate,duration,days,9
+Florida Keys National Marine Sanctuary,113,2018-02-24,2018-03-04,I Moderate,intensity_mean,degrees F,3.2118
+Florida Keys National Marine Sanctuary,114,2018-06-21,2018-07-30,I Moderate,duration,days,40
+Florida Keys National Marine Sanctuary,114,2018-06-21,2018-07-30,I Moderate,intensity_mean,degrees F,1.8185
+Florida Keys National Marine Sanctuary,115,2018-11-07,2018-11-16,I Moderate,duration,days,10
+Florida Keys National Marine Sanctuary,115,2018-11-07,2018-11-16,I Moderate,intensity_mean,degrees F,2.1007
+Florida Keys National Marine Sanctuary,116,2018-11-20,2018-11-27,I Moderate,duration,days,8
+Florida Keys National Marine Sanctuary,116,2018-11-20,2018-11-27,I Moderate,intensity_mean,degrees F,1.7835
+Florida Keys National Marine Sanctuary,117,2019-01-01,2019-01-05,I Moderate,duration,days,5
+Florida Keys National Marine Sanctuary,117,2019-01-01,2019-01-05,I Moderate,intensity_mean,degrees F,2.3546
+Florida Keys National Marine Sanctuary,118,2019-02-12,2019-03-19,II Strong,duration,days,36
+Florida Keys National Marine Sanctuary,118,2019-02-12,2019-03-19,II Strong,intensity_mean,degrees F,3.3583
+Florida Keys National Marine Sanctuary,119,2019-04-12,2019-04-18,I Moderate,duration,days,7
+Florida Keys National Marine Sanctuary,119,2019-04-12,2019-04-18,I Moderate,intensity_mean,degrees F,2.2403
+Florida Keys National Marine Sanctuary,120,2019-05-05,2019-05-21,I Moderate,duration,days,17
+Florida Keys National Marine Sanctuary,120,2019-05-05,2019-05-21,I Moderate,intensity_mean,degrees F,2.5315
+Florida Keys National Marine Sanctuary,121,2019-06-02,2019-07-12,II Strong,duration,days,41
+Florida Keys National Marine Sanctuary,121,2019-06-02,2019-07-12,II Strong,intensity_mean,degrees F,2.1227
+Florida Keys National Marine Sanctuary,122,2019-08-08,2019-08-21,II Strong,duration,days,14
+Florida Keys National Marine Sanctuary,122,2019-08-08,2019-08-21,II Strong,intensity_mean,degrees F,2.3187
+Florida Keys National Marine Sanctuary,123,2019-10-16,2019-11-17,II Strong,duration,days,33
+Florida Keys National Marine Sanctuary,123,2019-10-16,2019-11-17,II Strong,intensity_mean,degrees F,2.665
+Florida Keys National Marine Sanctuary,124,2019-12-30,2020-01-05,I Moderate,duration,days,7
+Florida Keys National Marine Sanctuary,124,2019-12-30,2020-01-05,I Moderate,intensity_mean,degrees F,2.3826
+Florida Keys National Marine Sanctuary,125,2020-01-12,2020-01-21,I Moderate,duration,days,10
+Florida Keys National Marine Sanctuary,125,2020-01-12,2020-01-21,I Moderate,intensity_mean,degrees F,2.5904
+Florida Keys National Marine Sanctuary,126,2020-02-12,2020-02-22,I Moderate,duration,days,11
+Florida Keys National Marine Sanctuary,126,2020-02-12,2020-02-22,I Moderate,intensity_mean,degrees F,3.0631
+Florida Keys National Marine Sanctuary,127,2020-03-30,2020-04-30,II Strong,duration,days,32
+Florida Keys National Marine Sanctuary,127,2020-03-30,2020-04-30,II Strong,intensity_mean,degrees F,3.5611
+Florida Keys National Marine Sanctuary,128,2020-05-31,2020-06-04,I Moderate,duration,days,5
+Florida Keys National Marine Sanctuary,128,2020-05-31,2020-06-04,I Moderate,intensity_mean,degrees F,1.8605
+Florida Keys National Marine Sanctuary,129,2020-06-20,2020-07-18,II Strong,duration,days,29
+Florida Keys National Marine Sanctuary,129,2020-06-20,2020-07-18,II Strong,intensity_mean,degrees F,2.4569
+Florida Keys National Marine Sanctuary,130,2020-08-16,2020-08-21,I Moderate,duration,days,6
+Florida Keys National Marine Sanctuary,130,2020-08-16,2020-08-21,I Moderate,intensity_mean,degrees F,1.6929
+Florida Keys National Marine Sanctuary,131,2020-08-29,2020-09-14,I Moderate,duration,days,17
+Florida Keys National Marine Sanctuary,131,2020-08-29,2020-09-14,I Moderate,intensity_mean,degrees F,1.5888
+Florida Keys National Marine Sanctuary,132,2020-09-19,2020-09-23,I Moderate,duration,days,5
+Florida Keys National Marine Sanctuary,132,2020-09-19,2020-09-23,I Moderate,intensity_mean,degrees F,1.6252
+Florida Keys National Marine Sanctuary,133,2020-09-30,2020-10-21,I Moderate,duration,days,22
+Florida Keys National Marine Sanctuary,133,2020-09-30,2020-10-21,I Moderate,intensity_mean,degrees F,1.8905
+Florida Keys National Marine Sanctuary,134,2020-10-28,2020-11-17,I Moderate,duration,days,21
+Florida Keys National Marine Sanctuary,134,2020-10-28,2020-11-17,I Moderate,intensity_mean,degrees F,1.9842
+Florida Keys National Marine Sanctuary,135,2021-02-13,2021-02-20,I Moderate,duration,days,8
+Florida Keys National Marine Sanctuary,135,2021-02-13,2021-02-20,I Moderate,intensity_mean,degrees F,2.9194
+Florida Keys National Marine Sanctuary,136,2021-02-27,2021-03-05,I Moderate,duration,days,7
+Florida Keys National Marine Sanctuary,136,2021-02-27,2021-03-05,I Moderate,intensity_mean,degrees F,2.7584
+Florida Keys National Marine Sanctuary,137,2021-05-01,2021-05-15,I Moderate,duration,days,15
+Florida Keys National Marine Sanctuary,137,2021-05-01,2021-05-15,I Moderate,intensity_mean,degrees F,2.7689
+Florida Keys National Marine Sanctuary,138,2021-07-27,2021-08-12,I Moderate,duration,days,17
+Florida Keys National Marine Sanctuary,138,2021-07-27,2021-08-12,I Moderate,intensity_mean,degrees F,1.8162
+Florida Keys National Marine Sanctuary,139,2021-09-24,2021-11-05,I Moderate,duration,days,43
+Florida Keys National Marine Sanctuary,139,2021-09-24,2021-11-05,I Moderate,intensity_mean,degrees F,2.0132
+Florida Keys National Marine Sanctuary,140,2021-12-09,2022-01-17,II Strong,duration,days,40
+Florida Keys National Marine Sanctuary,140,2021-12-09,2022-01-17,II Strong,intensity_mean,degrees F,2.5077
+Florida Keys National Marine Sanctuary,141,2022-02-25,2022-03-13,I Moderate,duration,days,17
+Florida Keys National Marine Sanctuary,141,2022-02-25,2022-03-13,I Moderate,intensity_mean,degrees F,2.9649
+Florida Keys National Marine Sanctuary,142,2022-03-18,2022-03-25,I Moderate,duration,days,8
+Florida Keys National Marine Sanctuary,142,2022-03-18,2022-03-25,I Moderate,intensity_mean,degrees F,2.8246000000000002
+Florida Keys National Marine Sanctuary,143,2022-04-02,2022-04-09,I Moderate,duration,days,8
+Florida Keys National Marine Sanctuary,143,2022-04-02,2022-04-09,I Moderate,intensity_mean,degrees F,2.874
+Florida Keys National Marine Sanctuary,144,2022-05-17,2022-05-21,I Moderate,duration,days,5
+Florida Keys National Marine Sanctuary,144,2022-05-17,2022-05-21,I Moderate,intensity_mean,degrees F,2.0666
+Florida Keys National Marine Sanctuary,145,2022-06-13,2022-07-25,II Strong,duration,days,43
+Florida Keys National Marine Sanctuary,145,2022-06-13,2022-07-25,II Strong,intensity_mean,degrees F,2.0264
+Florida Keys National Marine Sanctuary,146,2022-08-16,2022-09-27,I Moderate,duration,days,43
+Florida Keys National Marine Sanctuary,146,2022-08-16,2022-09-27,I Moderate,intensity_mean,degrees F,2.1114
+Florida Keys National Marine Sanctuary,147,2022-11-03,2022-12-25,II Strong,duration,days,53
+Florida Keys National Marine Sanctuary,147,2022-11-03,2022-12-25,II Strong,intensity_mean,degrees F,2.2614
+Florida Keys National Marine Sanctuary,148,2023-01-22,2023-01-27,I Moderate,duration,days,6
+Florida Keys National Marine Sanctuary,148,2023-01-22,2023-01-27,I Moderate,intensity_mean,degrees F,2.3698
+Florida Keys National Marine Sanctuary,149,2023-02-02,2023-02-13,I Moderate,duration,days,12
+Florida Keys National Marine Sanctuary,149,2023-02-02,2023-02-13,I Moderate,intensity_mean,degrees F,2.687
+Florida Keys National Marine Sanctuary,150,2023-02-17,2023-03-15,I Moderate,duration,days,27
+Florida Keys National Marine Sanctuary,150,2023-02-17,2023-03-15,I Moderate,intensity_mean,degrees F,3.1775
+Florida Keys National Marine Sanctuary,151,2023-03-26,2023-05-04,I Moderate,duration,days,40
+Florida Keys National Marine Sanctuary,151,2023-03-26,2023-05-04,I Moderate,intensity_mean,degrees F,2.8232
+Florida Keys National Marine Sanctuary,152,2023-05-16,2023-06-02,I Moderate,duration,days,18
+Florida Keys National Marine Sanctuary,152,2023-05-16,2023-06-02,I Moderate,intensity_mean,degrees F,2.3393
+Florida Keys National Marine Sanctuary,153,2023-06-13,2023-08-29,III Severe,duration,days,78
+Florida Keys National Marine Sanctuary,153,2023-06-13,2023-08-29,III Severe,intensity_mean,degrees F,3.1285
+Florida Keys National Marine Sanctuary,154,2023-09-09,2023-10-18,II Strong,duration,days,40
+Florida Keys National Marine Sanctuary,154,2023-09-09,2023-10-18,II Strong,intensity_mean,degrees F,2.5734
+Florida Keys National Marine Sanctuary,155,2023-11-09,2023-12-13,II Strong,duration,days,35
+Florida Keys National Marine Sanctuary,155,2023-11-09,2023-12-13,II Strong,intensity_mean,degrees F,2.3608
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,1,1984-05-01,1984-05-25,I Moderate,duration,days,25
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,1,1984-05-01,1984-05-25,I Moderate,intensity_mean,degrees F,2.187
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,2,1984-05-31,1984-06-15,I Moderate,duration,days,16
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,2,1984-05-31,1984-06-15,I Moderate,intensity_mean,degrees F,2.234
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,3,1984-07-01,1984-07-30,II Strong,duration,days,30
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,3,1984-07-01,1984-07-30,II Strong,intensity_mean,degrees F,2.0883
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,4,1984-11-19,1984-11-27,I Moderate,duration,days,9
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,4,1984-11-19,1984-11-27,I Moderate,intensity_mean,degrees F,1.4762
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,5,1987-08-20,1987-08-31,I Moderate,duration,days,12
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,5,1987-08-20,1987-08-31,I Moderate,intensity_mean,degrees F,1.6839
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,6,1988-06-13,1988-07-06,I Moderate,duration,days,24
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,6,1988-06-13,1988-07-06,I Moderate,intensity_mean,degrees F,1.9017
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,7,1988-09-27,1988-10-13,II Strong,duration,days,17
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,7,1988-09-27,1988-10-13,II Strong,intensity_mean,degrees F,1.2595
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,8,1988-12-28,1989-01-19,I Moderate,duration,days,23
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,8,1988-12-28,1989-01-19,I Moderate,intensity_mean,degrees F,1.8109
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,9,1990-10-26,1990-11-02,I Moderate,duration,days,8
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,9,1990-10-26,1990-11-02,I Moderate,intensity_mean,degrees F,1.2435
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,10,1995-09-30,1995-10-04,I Moderate,duration,days,5
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,10,1995-09-30,1995-10-04,I Moderate,intensity_mean,degrees F,1.0862
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,11,1996-04-21,1996-04-27,I Moderate,duration,days,7
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,11,1996-04-21,1996-04-27,I Moderate,intensity_mean,degrees F,2.1045
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,12,1996-06-26,1996-07-03,I Moderate,duration,days,8
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,12,1996-06-26,1996-07-03,I Moderate,intensity_mean,degrees F,1.6093
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,13,1996-09-16,1996-09-25,I Moderate,duration,days,10
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,13,1996-09-16,1996-09-25,I Moderate,intensity_mean,degrees F,1.0947
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,14,1997-08-02,1997-08-19,I Moderate,duration,days,18
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,14,1997-08-02,1997-08-19,I Moderate,intensity_mean,degrees F,1.7802
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,15,1997-08-28,1997-09-08,I Moderate,duration,days,12
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,15,1997-08-28,1997-09-08,I Moderate,intensity_mean,degrees F,1.5864
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,16,1997-10-09,1997-10-21,I Moderate,duration,days,13
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,16,1997-10-09,1997-10-21,I Moderate,intensity_mean,degrees F,1.1472
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,17,1998-11-04,1998-11-09,I Moderate,duration,days,6
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,17,1998-11-04,1998-11-09,I Moderate,intensity_mean,degrees F,1.326
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,18,1999-02-09,1999-02-19,I Moderate,duration,days,11
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,18,1999-02-09,1999-02-19,I Moderate,intensity_mean,degrees F,2.3984
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,19,1999-12-14,1999-12-18,I Moderate,duration,days,5
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,19,1999-12-14,1999-12-18,I Moderate,intensity_mean,degrees F,1.4982
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,20,2000-02-04,2000-03-31,I Moderate,duration,days,57
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,20,2000-02-04,2000-03-31,I Moderate,intensity_mean,degrees F,2.6058
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,21,2000-04-25,2000-05-09,I Moderate,duration,days,15
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,21,2000-04-25,2000-05-09,I Moderate,intensity_mean,degrees F,2.4208
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,22,2000-05-19,2000-05-25,I Moderate,duration,days,7
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,22,2000-05-19,2000-05-25,I Moderate,intensity_mean,degrees F,2.579
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,23,2000-06-11,2000-06-16,I Moderate,duration,days,6
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,23,2000-06-11,2000-06-16,I Moderate,intensity_mean,degrees F,1.9912
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,24,2000-11-29,2000-12-08,I Moderate,duration,days,10
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,24,2000-11-29,2000-12-08,I Moderate,intensity_mean,degrees F,1.252
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,25,2001-01-13,2001-02-03,I Moderate,duration,days,22
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,25,2001-01-13,2001-02-03,I Moderate,intensity_mean,degrees F,2.1304
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,26,2001-02-09,2001-02-20,I Moderate,duration,days,12
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,26,2001-02-09,2001-02-20,I Moderate,intensity_mean,degrees F,2.062
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,27,2001-03-08,2001-03-17,I Moderate,duration,days,10
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,27,2001-03-08,2001-03-17,I Moderate,intensity_mean,degrees F,2.2177
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,28,2001-04-02,2001-04-09,I Moderate,duration,days,8
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,28,2001-04-02,2001-04-09,I Moderate,intensity_mean,degrees F,1.9009
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,29,2001-05-04,2001-05-08,I Moderate,duration,days,5
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,29,2001-05-04,2001-05-08,I Moderate,intensity_mean,degrees F,2.1668
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,30,2001-09-18,2001-09-23,I Moderate,duration,days,6
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,30,2001-09-18,2001-09-23,I Moderate,intensity_mean,degrees F,1.0118
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,31,2001-11-03,2001-11-08,I Moderate,duration,days,6
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,31,2001-11-03,2001-11-08,I Moderate,intensity_mean,degrees F,1.2497
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,32,2001-12-10,2001-12-15,I Moderate,duration,days,6
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,32,2001-12-10,2001-12-15,I Moderate,intensity_mean,degrees F,1.3308
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,33,2004-08-22,2004-09-18,I Moderate,duration,days,28
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,33,2004-08-22,2004-09-18,I Moderate,intensity_mean,degrees F,1.5516
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,34,2004-10-29,2004-11-14,I Moderate,duration,days,17
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,34,2004-10-29,2004-11-14,I Moderate,intensity_mean,degrees F,1.3123
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,35,2005-05-11,2005-05-23,I Moderate,duration,days,13
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,35,2005-05-11,2005-05-23,I Moderate,intensity_mean,degrees F,2.3278
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,36,2005-06-26,2005-06-30,I Moderate,duration,days,5
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,36,2005-06-26,2005-06-30,I Moderate,intensity_mean,degrees F,1.631
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,37,2005-07-04,2005-07-08,I Moderate,duration,days,5
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,37,2005-07-04,2005-07-08,I Moderate,intensity_mean,degrees F,1.5013
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,38,2005-08-23,2005-09-06,II Strong,duration,days,15
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,38,2005-08-23,2005-09-06,II Strong,intensity_mean,degrees F,1.8592
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,39,2005-10-10,2005-10-14,I Moderate,duration,days,5
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,39,2005-10-10,2005-10-14,I Moderate,intensity_mean,degrees F,1.132
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,40,2006-01-08,2006-01-30,I Moderate,duration,days,23
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,40,2006-01-08,2006-01-30,I Moderate,intensity_mean,degrees F,2.0874
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,41,2006-02-04,2006-02-08,I Moderate,duration,days,5
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,41,2006-02-04,2006-02-08,I Moderate,intensity_mean,degrees F,2.0907
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,42,2006-02-26,2006-03-06,I Moderate,duration,days,9
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,42,2006-02-26,2006-03-06,I Moderate,intensity_mean,degrees F,2.0139
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,43,2006-04-05,2006-04-22,I Moderate,duration,days,18
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,43,2006-04-05,2006-04-22,I Moderate,intensity_mean,degrees F,1.714
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,44,2006-06-04,2006-06-08,I Moderate,duration,days,5
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,44,2006-06-04,2006-06-08,I Moderate,intensity_mean,degrees F,2.1093
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,45,2007-07-07,2007-07-12,I Moderate,duration,days,6
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,45,2007-07-07,2007-07-12,I Moderate,intensity_mean,degrees F,1.6846
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,46,2007-07-30,2007-08-21,I Moderate,duration,days,23
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,46,2007-07-30,2007-08-21,I Moderate,intensity_mean,degrees F,1.6275
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,47,2007-09-07,2007-09-19,I Moderate,duration,days,13
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,47,2007-09-07,2007-09-19,I Moderate,intensity_mean,degrees F,1.2722
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,48,2007-11-11,2007-11-18,I Moderate,duration,days,8
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,48,2007-11-11,2007-11-18,I Moderate,intensity_mean,degrees F,1.2402
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,49,2008-02-06,2008-02-11,I Moderate,duration,days,6
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,49,2008-02-06,2008-02-11,I Moderate,intensity_mean,degrees F,2.058
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,50,2008-03-03,2008-03-10,I Moderate,duration,days,8
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,50,2008-03-03,2008-03-10,I Moderate,intensity_mean,degrees F,2.0665
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,51,2008-03-23,2008-04-04,I Moderate,duration,days,13
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,51,2008-03-23,2008-04-04,I Moderate,intensity_mean,degrees F,2.4167
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,52,2008-04-30,2008-05-04,I Moderate,duration,days,5
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,52,2008-04-30,2008-05-04,I Moderate,intensity_mean,degrees F,1.9208
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,53,2008-05-08,2008-05-13,I Moderate,duration,days,6
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,53,2008-05-08,2008-05-13,I Moderate,intensity_mean,degrees F,2.2516
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,54,2008-05-17,2008-05-21,I Moderate,duration,days,5
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,54,2008-05-17,2008-05-21,I Moderate,intensity_mean,degrees F,2.4187
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,55,2008-06-01,2008-06-07,I Moderate,duration,days,7
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,55,2008-06-01,2008-06-07,I Moderate,intensity_mean,degrees F,2.229
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,56,2008-09-12,2008-09-29,I Moderate,duration,days,18
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,56,2008-09-12,2008-09-29,I Moderate,intensity_mean,degrees F,1.113
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,57,2008-10-04,2008-10-15,II Strong,duration,days,12
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,57,2008-10-04,2008-10-15,II Strong,intensity_mean,degrees F,1.5437
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,58,2009-04-15,2009-04-19,I Moderate,duration,days,5
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,58,2009-04-15,2009-04-19,I Moderate,intensity_mean,degrees F,1.9085
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,59,2009-07-02,2009-07-15,II Strong,duration,days,14
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,59,2009-07-02,2009-07-15,II Strong,intensity_mean,degrees F,1.8659
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,60,2009-07-26,2009-08-10,II Strong,duration,days,16
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,60,2009-07-26,2009-08-10,II Strong,intensity_mean,degrees F,1.7484
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,61,2009-09-15,2009-09-26,I Moderate,duration,days,12
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,61,2009-09-15,2009-09-26,I Moderate,intensity_mean,degrees F,1.2292
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,62,2010-10-18,2010-10-29,I Moderate,duration,days,12
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,62,2010-10-18,2010-10-29,I Moderate,intensity_mean,degrees F,1.1837
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,63,2010-12-10,2010-12-16,I Moderate,duration,days,7
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,63,2010-12-10,2010-12-16,I Moderate,intensity_mean,degrees F,1.296
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,64,2010-12-30,2011-01-06,I Moderate,duration,days,8
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,64,2010-12-30,2011-01-06,I Moderate,intensity_mean,degrees F,1.7693
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,65,2011-03-28,2011-04-04,I Moderate,duration,days,8
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,65,2011-03-28,2011-04-04,I Moderate,intensity_mean,degrees F,2.0457
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,66,2011-04-10,2011-04-19,I Moderate,duration,days,10
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,66,2011-04-10,2011-04-19,I Moderate,intensity_mean,degrees F,1.6437
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,67,2011-06-04,2011-06-20,I Moderate,duration,days,17
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,67,2011-06-04,2011-06-20,I Moderate,intensity_mean,degrees F,1.9441
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,68,2011-10-07,2011-10-12,I Moderate,duration,days,6
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,68,2011-10-07,2011-10-12,I Moderate,intensity_mean,degrees F,1.0314
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,69,2011-12-26,2012-01-02,I Moderate,duration,days,8
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,69,2011-12-26,2012-01-02,I Moderate,intensity_mean,degrees F,1.5113
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,70,2012-01-09,2012-01-14,I Moderate,duration,days,6
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,70,2012-01-09,2012-01-14,I Moderate,intensity_mean,degrees F,1.7523
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,71,2012-02-17,2012-02-22,I Moderate,duration,days,6
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,71,2012-02-17,2012-02-22,I Moderate,intensity_mean,degrees F,2.0864
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,72,2012-04-17,2012-04-21,I Moderate,duration,days,5
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,72,2012-04-17,2012-04-21,I Moderate,intensity_mean,degrees F,1.6997
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,73,2012-12-20,2012-12-31,I Moderate,duration,days,12
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,73,2012-12-20,2012-12-31,I Moderate,intensity_mean,degrees F,1.6112
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,74,2013-03-02,2013-03-07,I Moderate,duration,days,6
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,74,2013-03-02,2013-03-07,I Moderate,intensity_mean,degrees F,1.9787
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,75,2013-07-15,2013-07-20,I Moderate,duration,days,6
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,75,2013-07-15,2013-07-20,I Moderate,intensity_mean,degrees F,1.2734
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,76,2013-07-30,2013-08-06,I Moderate,duration,days,8
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,76,2013-07-30,2013-08-06,I Moderate,intensity_mean,degrees F,1.3409
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,77,2013-09-12,2013-09-29,I Moderate,duration,days,18
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,77,2013-09-12,2013-09-29,I Moderate,intensity_mean,degrees F,1.2021
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,78,2014-04-20,2014-04-29,I Moderate,duration,days,10
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,78,2014-04-20,2014-04-29,I Moderate,intensity_mean,degrees F,1.9446
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,79,2014-07-07,2014-07-11,I Moderate,duration,days,5
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,79,2014-07-07,2014-07-11,I Moderate,intensity_mean,degrees F,1.3037
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,80,2014-07-21,2014-11-25,III Severe,duration,days,128
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,80,2014-07-21,2014-11-25,III Severe,intensity_mean,degrees F,2.2807
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,81,2015-07-16,2015-10-01,II Strong,duration,days,78
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,81,2015-07-16,2015-10-01,II Strong,intensity_mean,degrees F,1.8027
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,82,2015-12-13,2015-12-25,I Moderate,duration,days,13
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,82,2015-12-13,2015-12-25,I Moderate,intensity_mean,degrees F,1.5597
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,83,2016-09-13,2017-02-09,I Moderate,duration,days,150
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,83,2016-09-13,2017-02-09,I Moderate,intensity_mean,degrees F,1.7309
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,84,2017-03-20,2017-04-28,II Strong,duration,days,40
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,84,2017-03-20,2017-04-28,II Strong,intensity_mean,degrees F,2.5152
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,85,2017-06-15,2017-10-06,II Strong,duration,days,114
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,85,2017-06-15,2017-10-06,II Strong,intensity_mean,degrees F,1.869
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,86,2017-11-10,2017-11-17,I Moderate,duration,days,8
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,86,2017-11-10,2017-11-17,I Moderate,intensity_mean,degrees F,1.3693
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,87,2018-01-24,2018-01-30,I Moderate,duration,days,7
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,87,2018-01-24,2018-01-30,I Moderate,intensity_mean,degrees F,1.9456
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,88,2019-01-08,2019-01-31,I Moderate,duration,days,24
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,88,2019-01-08,2019-01-31,I Moderate,intensity_mean,degrees F,1.9761
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,89,2019-04-20,2019-04-28,I Moderate,duration,days,9
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,89,2019-04-20,2019-04-28,I Moderate,intensity_mean,degrees F,1.724
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,90,2019-06-06,2019-06-10,I Moderate,duration,days,5
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,90,2019-06-06,2019-06-10,I Moderate,intensity_mean,degrees F,2.1108
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,91,2019-07-03,2019-08-02,I Moderate,duration,days,31
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,91,2019-07-03,2019-08-02,I Moderate,intensity_mean,degrees F,1.8396
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,92,2019-08-06,2019-11-18,III Severe,duration,days,105
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,92,2019-08-06,2019-11-18,III Severe,intensity_mean,degrees F,2.0926
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,93,2020-05-28,2020-07-30,II Strong,duration,days,64
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,93,2020-05-28,2020-07-30,II Strong,intensity_mean,degrees F,2.3973
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,94,2020-08-08,2020-08-14,I Moderate,duration,days,7
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,94,2020-08-08,2020-08-14,I Moderate,intensity_mean,degrees F,1.4162
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,95,2020-09-02,2020-10-26,II Strong,duration,days,55
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,95,2020-09-02,2020-10-26,II Strong,intensity_mean,degrees F,1.7942
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,96,2020-11-18,2021-02-13,I Moderate,duration,days,88
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,96,2020-11-18,2021-02-13,I Moderate,intensity_mean,degrees F,2.1807
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,97,2021-02-21,2021-03-03,I Moderate,duration,days,11
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,97,2021-02-21,2021-03-03,I Moderate,intensity_mean,degrees F,2.0397
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,98,2021-03-10,2021-03-14,I Moderate,duration,days,5
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,98,2021-03-10,2021-03-14,I Moderate,intensity_mean,degrees F,1.8164
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,99,2021-05-21,2021-06-01,I Moderate,duration,days,12
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,99,2021-05-21,2021-06-01,I Moderate,intensity_mean,degrees F,2.438
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,100,2021-06-19,2021-07-05,I Moderate,duration,days,17
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,100,2021-06-19,2021-07-05,I Moderate,intensity_mean,degrees F,1.9353
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,101,2021-09-20,2021-09-25,I Moderate,duration,days,6
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,101,2021-09-20,2021-09-25,I Moderate,intensity_mean,degrees F,1.0764
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,102,2021-10-27,2021-12-04,II Strong,duration,days,39
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,102,2021-10-27,2021-12-04,II Strong,intensity_mean,degrees F,1.7779
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,103,2022-02-23,2022-04-15,I Moderate,duration,days,52
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,103,2022-02-23,2022-04-15,I Moderate,intensity_mean,degrees F,2.1957
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,104,2022-04-21,2022-05-17,I Moderate,duration,days,27
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,104,2022-04-21,2022-05-17,I Moderate,intensity_mean,degrees F,2.2541
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,105,2022-05-26,2022-08-02,II Strong,duration,days,69
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,105,2022-05-26,2022-08-02,II Strong,intensity_mean,degrees F,2.4666
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,106,2022-08-15,2022-10-18,II Strong,duration,days,65
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,106,2022-08-15,2022-10-18,II Strong,intensity_mean,degrees F,1.6153
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,107,2022-11-01,2022-12-06,I Moderate,duration,days,36
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,107,2022-11-01,2022-12-06,I Moderate,intensity_mean,degrees F,1.4026
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,108,2023-01-04,2023-01-14,I Moderate,duration,days,11
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,108,2023-01-04,2023-01-14,I Moderate,intensity_mean,degrees F,1.7365
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,109,2023-08-23,2023-08-28,I Moderate,duration,days,6
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,109,2023-08-23,2023-08-28,I Moderate,intensity_mean,degrees F,1.2643
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,110,2023-09-30,2023-12-04,II Strong,duration,days,66
+Papahanaumokuakea Marine National Monument Particularly Sensitive Sea Area,110,2023-09-30,2023-12-04,II Strong,intensity_mean,degrees F,1.7485
+Kachemak Bay National Estuarine Research Reserve,1,1984-06-26,1984-06-30,I Moderate,duration,days,5
+Kachemak Bay National Estuarine Research Reserve,1,1984-06-26,1984-06-30,I Moderate,intensity_mean,degrees F,2.6669
+Kachemak Bay National Estuarine Research Reserve,2,1984-08-20,1984-08-24,I Moderate,duration,days,5
+Kachemak Bay National Estuarine Research Reserve,2,1984-08-20,1984-08-24,I Moderate,intensity_mean,degrees F,2.408
+Kachemak Bay National Estuarine Research Reserve,3,1984-09-24,1984-10-07,II Strong,duration,days,14
+Kachemak Bay National Estuarine Research Reserve,3,1984-09-24,1984-10-07,II Strong,intensity_mean,degrees F,2.5434
+Kachemak Bay National Estuarine Research Reserve,4,1985-02-03,1985-02-07,I Moderate,duration,days,5
+Kachemak Bay National Estuarine Research Reserve,4,1985-02-03,1985-02-07,I Moderate,intensity_mean,degrees F,2.7035
+Kachemak Bay National Estuarine Research Reserve,5,1986-02-12,1986-02-17,I Moderate,duration,days,6
+Kachemak Bay National Estuarine Research Reserve,5,1986-02-12,1986-02-17,I Moderate,intensity_mean,degrees F,2.6407
+Kachemak Bay National Estuarine Research Reserve,6,1986-11-14,1986-11-18,I Moderate,duration,days,5
+Kachemak Bay National Estuarine Research Reserve,6,1986-11-14,1986-11-18,I Moderate,intensity_mean,degrees F,1.8072
+Kachemak Bay National Estuarine Research Reserve,7,1987-02-12,1987-02-18,I Moderate,duration,days,7
+Kachemak Bay National Estuarine Research Reserve,7,1987-02-12,1987-02-18,I Moderate,intensity_mean,degrees F,3.2496
+Kachemak Bay National Estuarine Research Reserve,8,1987-04-23,1987-04-29,I Moderate,duration,days,7
+Kachemak Bay National Estuarine Research Reserve,8,1987-04-23,1987-04-29,I Moderate,intensity_mean,degrees F,2.7027
+Kachemak Bay National Estuarine Research Reserve,9,1987-05-03,1987-05-08,I Moderate,duration,days,6
+Kachemak Bay National Estuarine Research Reserve,9,1987-05-03,1987-05-08,I Moderate,intensity_mean,degrees F,3.2314
+Kachemak Bay National Estuarine Research Reserve,10,1987-12-10,1988-01-11,I Moderate,duration,days,33
+Kachemak Bay National Estuarine Research Reserve,10,1987-12-10,1988-01-11,I Moderate,intensity_mean,degrees F,2.6315
+Kachemak Bay National Estuarine Research Reserve,11,1988-04-02,1988-04-08,I Moderate,duration,days,7
+Kachemak Bay National Estuarine Research Reserve,11,1988-04-02,1988-04-08,I Moderate,intensity_mean,degrees F,2.3078
+Kachemak Bay National Estuarine Research Reserve,12,1992-01-18,1992-01-22,I Moderate,duration,days,5
+Kachemak Bay National Estuarine Research Reserve,12,1992-01-18,1992-01-22,I Moderate,intensity_mean,degrees F,2.2678
+Kachemak Bay National Estuarine Research Reserve,13,1995-07-04,1995-07-11,I Moderate,duration,days,8
+Kachemak Bay National Estuarine Research Reserve,13,1995-07-04,1995-07-11,I Moderate,intensity_mean,degrees F,2.6249
+Kachemak Bay National Estuarine Research Reserve,14,1997-07-02,1997-07-07,I Moderate,duration,days,6
+Kachemak Bay National Estuarine Research Reserve,14,1997-07-02,1997-07-07,I Moderate,intensity_mean,degrees F,3.6921
+Kachemak Bay National Estuarine Research Reserve,15,1997-08-12,1997-08-30,II Strong,duration,days,19
+Kachemak Bay National Estuarine Research Reserve,15,1997-08-12,1997-08-30,II Strong,intensity_mean,degrees F,3.5767
+Kachemak Bay National Estuarine Research Reserve,16,1997-09-09,1997-09-13,I Moderate,duration,days,5
+Kachemak Bay National Estuarine Research Reserve,16,1997-09-09,1997-09-13,I Moderate,intensity_mean,degrees F,2.4427
+Kachemak Bay National Estuarine Research Reserve,17,1997-09-23,1997-10-04,I Moderate,duration,days,12
+Kachemak Bay National Estuarine Research Reserve,17,1997-09-23,1997-10-04,I Moderate,intensity_mean,degrees F,1.8851
+Kachemak Bay National Estuarine Research Reserve,18,1997-11-03,1997-11-18,I Moderate,duration,days,16
+Kachemak Bay National Estuarine Research Reserve,18,1997-11-03,1997-11-18,I Moderate,intensity_mean,degrees F,1.9542
+Kachemak Bay National Estuarine Research Reserve,19,1997-11-24,1997-11-29,I Moderate,duration,days,6
+Kachemak Bay National Estuarine Research Reserve,19,1997-11-24,1997-11-29,I Moderate,intensity_mean,degrees F,2.2491
+Kachemak Bay National Estuarine Research Reserve,20,1997-12-23,1997-12-27,I Moderate,duration,days,5
+Kachemak Bay National Estuarine Research Reserve,20,1997-12-23,1997-12-27,I Moderate,intensity_mean,degrees F,2.4728
+Kachemak Bay National Estuarine Research Reserve,21,1998-02-07,1998-02-16,I Moderate,duration,days,10
+Kachemak Bay National Estuarine Research Reserve,21,1998-02-07,1998-02-16,I Moderate,intensity_mean,degrees F,3.1938
+Kachemak Bay National Estuarine Research Reserve,22,1998-02-21,1998-03-08,II Strong,duration,days,16
+Kachemak Bay National Estuarine Research Reserve,22,1998-02-21,1998-03-08,II Strong,intensity_mean,degrees F,3.5037
+Kachemak Bay National Estuarine Research Reserve,23,1998-03-21,1998-04-02,II Strong,duration,days,13
+Kachemak Bay National Estuarine Research Reserve,23,1998-03-21,1998-04-02,II Strong,intensity_mean,degrees F,3.2157
+Kachemak Bay National Estuarine Research Reserve,24,1998-04-06,1998-04-14,II Strong,duration,days,9
+Kachemak Bay National Estuarine Research Reserve,24,1998-04-06,1998-04-14,II Strong,intensity_mean,degrees F,2.9883
+Kachemak Bay National Estuarine Research Reserve,25,1998-04-19,1998-04-30,II Strong,duration,days,12
+Kachemak Bay National Estuarine Research Reserve,25,1998-04-19,1998-04-30,II Strong,intensity_mean,degrees F,3.3006
+Kachemak Bay National Estuarine Research Reserve,26,1998-11-06,1998-11-22,I Moderate,duration,days,17
+Kachemak Bay National Estuarine Research Reserve,26,1998-11-06,1998-11-22,I Moderate,intensity_mean,degrees F,1.8471
+Kachemak Bay National Estuarine Research Reserve,27,1999-01-14,1999-01-18,I Moderate,duration,days,5
+Kachemak Bay National Estuarine Research Reserve,27,1999-01-14,1999-01-18,I Moderate,intensity_mean,degrees F,2.4493
+Kachemak Bay National Estuarine Research Reserve,28,2001-02-22,2001-02-27,I Moderate,duration,days,6
+Kachemak Bay National Estuarine Research Reserve,28,2001-02-22,2001-02-27,I Moderate,intensity_mean,degrees F,3.0271
+Kachemak Bay National Estuarine Research Reserve,29,2001-06-17,2001-06-23,I Moderate,duration,days,7
+Kachemak Bay National Estuarine Research Reserve,29,2001-06-17,2001-06-23,I Moderate,intensity_mean,degrees F,3.0342
+Kachemak Bay National Estuarine Research Reserve,30,2001-09-29,2001-10-03,I Moderate,duration,days,5
+Kachemak Bay National Estuarine Research Reserve,30,2001-09-29,2001-10-03,I Moderate,intensity_mean,degrees F,1.4492
+Kachemak Bay National Estuarine Research Reserve,31,2002-08-03,2002-08-07,I Moderate,duration,days,5
+Kachemak Bay National Estuarine Research Reserve,31,2002-08-03,2002-08-07,I Moderate,intensity_mean,degrees F,2.5633
+Kachemak Bay National Estuarine Research Reserve,32,2002-10-24,2002-10-28,I Moderate,duration,days,5
+Kachemak Bay National Estuarine Research Reserve,32,2002-10-24,2002-10-28,I Moderate,intensity_mean,degrees F,1.7405
+Kachemak Bay National Estuarine Research Reserve,33,2002-11-08,2002-11-15,I Moderate,duration,days,8
+Kachemak Bay National Estuarine Research Reserve,33,2002-11-08,2002-11-15,I Moderate,intensity_mean,degrees F,1.9442
+Kachemak Bay National Estuarine Research Reserve,34,2002-11-20,2002-11-24,I Moderate,duration,days,5
+Kachemak Bay National Estuarine Research Reserve,34,2002-11-20,2002-11-24,I Moderate,intensity_mean,degrees F,2.2679
+Kachemak Bay National Estuarine Research Reserve,35,2003-02-15,2003-04-08,II Strong,duration,days,53
+Kachemak Bay National Estuarine Research Reserve,35,2003-02-15,2003-04-08,II Strong,intensity_mean,degrees F,2.872
+Kachemak Bay National Estuarine Research Reserve,36,2003-06-09,2003-06-14,I Moderate,duration,days,6
+Kachemak Bay National Estuarine Research Reserve,36,2003-06-09,2003-06-14,I Moderate,intensity_mean,degrees F,2.3058
+Kachemak Bay National Estuarine Research Reserve,37,2003-07-06,2003-07-10,I Moderate,duration,days,5
+Kachemak Bay National Estuarine Research Reserve,37,2003-07-06,2003-07-10,I Moderate,intensity_mean,degrees F,4.2093
+Kachemak Bay National Estuarine Research Reserve,38,2003-07-22,2003-07-28,I Moderate,duration,days,7
+Kachemak Bay National Estuarine Research Reserve,38,2003-07-22,2003-07-28,I Moderate,intensity_mean,degrees F,3.2733
+Kachemak Bay National Estuarine Research Reserve,39,2003-09-06,2003-09-13,I Moderate,duration,days,8
+Kachemak Bay National Estuarine Research Reserve,39,2003-09-06,2003-09-13,I Moderate,intensity_mean,degrees F,1.8756
+Kachemak Bay National Estuarine Research Reserve,40,2003-10-10,2003-10-30,I Moderate,duration,days,21
+Kachemak Bay National Estuarine Research Reserve,40,2003-10-10,2003-10-30,I Moderate,intensity_mean,degrees F,2.0879
+Kachemak Bay National Estuarine Research Reserve,41,2003-11-05,2003-11-15,I Moderate,duration,days,11
+Kachemak Bay National Estuarine Research Reserve,41,2003-11-05,2003-11-15,I Moderate,intensity_mean,degrees F,2.3823
+Kachemak Bay National Estuarine Research Reserve,42,2004-08-08,2004-08-15,I Moderate,duration,days,8
+Kachemak Bay National Estuarine Research Reserve,42,2004-08-08,2004-08-15,I Moderate,intensity_mean,degrees F,3.2349
+Kachemak Bay National Estuarine Research Reserve,43,2004-09-07,2004-09-12,I Moderate,duration,days,6
+Kachemak Bay National Estuarine Research Reserve,43,2004-09-07,2004-09-12,I Moderate,intensity_mean,degrees F,2.0165
+Kachemak Bay National Estuarine Research Reserve,44,2005-04-25,2005-05-22,I Moderate,duration,days,28
+Kachemak Bay National Estuarine Research Reserve,44,2005-04-25,2005-05-22,I Moderate,intensity_mean,degrees F,3.1186
+Kachemak Bay National Estuarine Research Reserve,45,2005-05-30,2005-06-07,I Moderate,duration,days,9
+Kachemak Bay National Estuarine Research Reserve,45,2005-05-30,2005-06-07,I Moderate,intensity_mean,degrees F,2.6265
+Kachemak Bay National Estuarine Research Reserve,46,2005-06-14,2005-07-24,II Strong,duration,days,41
+Kachemak Bay National Estuarine Research Reserve,46,2005-06-14,2005-07-24,II Strong,intensity_mean,degrees F,3.7611
+Kachemak Bay National Estuarine Research Reserve,47,2005-08-04,2005-10-03,II Strong,duration,days,61
+Kachemak Bay National Estuarine Research Reserve,47,2005-08-04,2005-10-03,II Strong,intensity_mean,degrees F,2.8964
+Kachemak Bay National Estuarine Research Reserve,48,2005-10-17,2005-11-01,I Moderate,duration,days,16
+Kachemak Bay National Estuarine Research Reserve,48,2005-10-17,2005-11-01,I Moderate,intensity_mean,degrees F,1.7755
+Kachemak Bay National Estuarine Research Reserve,49,2005-12-18,2005-12-25,I Moderate,duration,days,8
+Kachemak Bay National Estuarine Research Reserve,49,2005-12-18,2005-12-25,I Moderate,intensity_mean,degrees F,2.5895
+Kachemak Bay National Estuarine Research Reserve,50,2006-01-09,2006-01-13,I Moderate,duration,days,5
+Kachemak Bay National Estuarine Research Reserve,50,2006-01-09,2006-01-13,I Moderate,intensity_mean,degrees F,2.512
+Kachemak Bay National Estuarine Research Reserve,51,2006-09-20,2006-09-24,I Moderate,duration,days,5
+Kachemak Bay National Estuarine Research Reserve,51,2006-09-20,2006-09-24,I Moderate,intensity_mean,degrees F,2.2262
+Kachemak Bay National Estuarine Research Reserve,52,2009-07-16,2009-07-22,I Moderate,duration,days,7
+Kachemak Bay National Estuarine Research Reserve,52,2009-07-16,2009-07-22,I Moderate,intensity_mean,degrees F,2.7961
+Kachemak Bay National Estuarine Research Reserve,53,2009-12-07,2009-12-11,I Moderate,duration,days,5
+Kachemak Bay National Estuarine Research Reserve,53,2009-12-07,2009-12-11,I Moderate,intensity_mean,degrees F,2.3869
+Kachemak Bay National Estuarine Research Reserve,54,2010-01-09,2010-01-16,I Moderate,duration,days,8
+Kachemak Bay National Estuarine Research Reserve,54,2010-01-09,2010-01-16,I Moderate,intensity_mean,degrees F,2.5333
+Kachemak Bay National Estuarine Research Reserve,55,2010-01-29,2010-02-04,I Moderate,duration,days,7
+Kachemak Bay National Estuarine Research Reserve,55,2010-01-29,2010-02-04,I Moderate,intensity_mean,degrees F,2.3522
+Kachemak Bay National Estuarine Research Reserve,56,2013-10-31,2013-11-09,I Moderate,duration,days,10
+Kachemak Bay National Estuarine Research Reserve,56,2013-10-31,2013-11-09,I Moderate,intensity_mean,degrees F,1.7287
+Kachemak Bay National Estuarine Research Reserve,57,2014-01-24,2014-02-08,I Moderate,duration,days,16
+Kachemak Bay National Estuarine Research Reserve,57,2014-01-24,2014-02-08,I Moderate,intensity_mean,degrees F,2.7952
+Kachemak Bay National Estuarine Research Reserve,58,2014-03-25,2014-03-31,I Moderate,duration,days,7
+Kachemak Bay National Estuarine Research Reserve,58,2014-03-25,2014-03-31,I Moderate,intensity_mean,degrees F,2.0911
+Kachemak Bay National Estuarine Research Reserve,59,2014-05-08,2014-05-12,I Moderate,duration,days,5
+Kachemak Bay National Estuarine Research Reserve,59,2014-05-08,2014-05-12,I Moderate,intensity_mean,degrees F,2.962
+Kachemak Bay National Estuarine Research Reserve,60,2014-08-02,2014-08-11,I Moderate,duration,days,10
+Kachemak Bay National Estuarine Research Reserve,60,2014-08-02,2014-08-11,I Moderate,intensity_mean,degrees F,3.6206
+Kachemak Bay National Estuarine Research Reserve,61,2014-08-17,2014-10-27,II Strong,duration,days,72
+Kachemak Bay National Estuarine Research Reserve,61,2014-08-17,2014-10-27,II Strong,intensity_mean,degrees F,2.5352
+Kachemak Bay National Estuarine Research Reserve,62,2014-11-02,2015-06-07,III Severe,duration,days,218
+Kachemak Bay National Estuarine Research Reserve,62,2014-11-02,2015-06-07,III Severe,intensity_mean,degrees F,3.5486
+Kachemak Bay National Estuarine Research Reserve,63,2015-06-23,2015-07-05,III Severe,duration,days,13
+Kachemak Bay National Estuarine Research Reserve,63,2015-06-23,2015-07-05,III Severe,intensity_mean,degrees F,4.4771
+Kachemak Bay National Estuarine Research Reserve,64,2015-07-10,2015-07-15,I Moderate,duration,days,6
+Kachemak Bay National Estuarine Research Reserve,64,2015-07-10,2015-07-15,I Moderate,intensity_mean,degrees F,2.616
+Kachemak Bay National Estuarine Research Reserve,65,2015-07-31,2015-08-04,I Moderate,duration,days,5
+Kachemak Bay National Estuarine Research Reserve,65,2015-07-31,2015-08-04,I Moderate,intensity_mean,degrees F,2.8103
+Kachemak Bay National Estuarine Research Reserve,66,2015-10-26,2015-11-12,I Moderate,duration,days,18
+Kachemak Bay National Estuarine Research Reserve,66,2015-10-26,2015-11-12,I Moderate,intensity_mean,degrees F,2.0734
+Kachemak Bay National Estuarine Research Reserve,67,2015-12-03,2016-07-06,III Severe,duration,days,217
+Kachemak Bay National Estuarine Research Reserve,67,2015-12-03,2016-07-06,III Severe,intensity_mean,degrees F,4.0279
+Kachemak Bay National Estuarine Research Reserve,68,2016-07-11,2016-07-18,II Strong,duration,days,8
+Kachemak Bay National Estuarine Research Reserve,68,2016-07-11,2016-07-18,II Strong,intensity_mean,degrees F,4.9425
+Kachemak Bay National Estuarine Research Reserve,69,2016-07-27,2017-01-14,II Strong,duration,days,172
+Kachemak Bay National Estuarine Research Reserve,69,2016-07-27,2017-01-14,II Strong,intensity_mean,degrees F,2.8979
+Kachemak Bay National Estuarine Research Reserve,70,2017-02-02,2017-02-06,I Moderate,duration,days,5
+Kachemak Bay National Estuarine Research Reserve,70,2017-02-02,2017-02-06,I Moderate,intensity_mean,degrees F,2.7075
+Kachemak Bay National Estuarine Research Reserve,71,2017-04-13,2017-04-25,I Moderate,duration,days,13
+Kachemak Bay National Estuarine Research Reserve,71,2017-04-13,2017-04-25,I Moderate,intensity_mean,degrees F,2.249
+Kachemak Bay National Estuarine Research Reserve,72,2017-05-15,2017-05-21,I Moderate,duration,days,7
+Kachemak Bay National Estuarine Research Reserve,72,2017-05-15,2017-05-21,I Moderate,intensity_mean,degrees F,3.0744
+Kachemak Bay National Estuarine Research Reserve,73,2017-09-12,2017-10-16,I Moderate,duration,days,35
+Kachemak Bay National Estuarine Research Reserve,73,2017-09-12,2017-10-16,I Moderate,intensity_mean,degrees F,1.7965
+Kachemak Bay National Estuarine Research Reserve,74,2017-10-26,2017-11-09,I Moderate,duration,days,15
+Kachemak Bay National Estuarine Research Reserve,74,2017-10-26,2017-11-09,I Moderate,intensity_mean,degrees F,2.011
+Kachemak Bay National Estuarine Research Reserve,75,2017-12-06,2018-01-23,I Moderate,duration,days,49
+Kachemak Bay National Estuarine Research Reserve,75,2017-12-06,2018-01-23,I Moderate,intensity_mean,degrees F,2.5157
+Kachemak Bay National Estuarine Research Reserve,76,2018-02-21,2018-02-25,I Moderate,duration,days,5
+Kachemak Bay National Estuarine Research Reserve,76,2018-02-21,2018-02-25,I Moderate,intensity_mean,degrees F,2.9962
+Kachemak Bay National Estuarine Research Reserve,77,2018-10-17,2018-11-01,I Moderate,duration,days,16
+Kachemak Bay National Estuarine Research Reserve,77,2018-10-17,2018-11-01,I Moderate,intensity_mean,degrees F,1.9244
+Kachemak Bay National Estuarine Research Reserve,78,2018-11-15,2019-06-18,II Strong,duration,days,216
+Kachemak Bay National Estuarine Research Reserve,78,2018-11-15,2019-06-18,II Strong,intensity_mean,degrees F,3.372
+Kachemak Bay National Estuarine Research Reserve,79,2019-07-05,2019-08-01,II Strong,duration,days,28
+Kachemak Bay National Estuarine Research Reserve,79,2019-07-05,2019-08-01,II Strong,intensity_mean,degrees F,3.6161
+Kachemak Bay National Estuarine Research Reserve,80,2019-08-18,2019-08-29,I Moderate,duration,days,12
+Kachemak Bay National Estuarine Research Reserve,80,2019-08-18,2019-08-29,I Moderate,intensity_mean,degrees F,2.8606
+Kachemak Bay National Estuarine Research Reserve,81,2019-09-08,2019-09-20,I Moderate,duration,days,13
+Kachemak Bay National Estuarine Research Reserve,81,2019-09-08,2019-09-20,I Moderate,intensity_mean,degrees F,2.0262
+Kachemak Bay National Estuarine Research Reserve,82,2019-11-10,2019-12-30,II Strong,duration,days,51
+Kachemak Bay National Estuarine Research Reserve,82,2019-11-10,2019-12-30,II Strong,intensity_mean,degrees F,2.8997
+Kachemak Bay National Estuarine Research Reserve,83,2020-06-13,2020-06-20,I Moderate,duration,days,8
+Kachemak Bay National Estuarine Research Reserve,83,2020-06-13,2020-06-20,I Moderate,intensity_mean,degrees F,2.4439
+Kachemak Bay National Estuarine Research Reserve,84,2020-07-13,2020-07-21,I Moderate,duration,days,9
+Kachemak Bay National Estuarine Research Reserve,84,2020-07-13,2020-07-21,I Moderate,intensity_mean,degrees F,3.4056
+Kachemak Bay National Estuarine Research Reserve,85,2020-08-12,2020-09-04,II Strong,duration,days,24
+Kachemak Bay National Estuarine Research Reserve,85,2020-08-12,2020-09-04,II Strong,intensity_mean,degrees F,3.1388
+Kachemak Bay National Estuarine Research Reserve,86,2020-09-08,2020-10-29,II Strong,duration,days,52
+Kachemak Bay National Estuarine Research Reserve,86,2020-09-08,2020-10-29,II Strong,intensity_mean,degrees F,2.2235
+Kachemak Bay National Estuarine Research Reserve,87,2020-11-24,2020-11-29,I Moderate,duration,days,6
+Kachemak Bay National Estuarine Research Reserve,87,2020-11-24,2020-11-29,I Moderate,intensity_mean,degrees F,2.0641
+Kachemak Bay National Estuarine Research Reserve,88,2020-12-07,2020-12-18,I Moderate,duration,days,12
+Kachemak Bay National Estuarine Research Reserve,88,2020-12-07,2020-12-18,I Moderate,intensity_mean,degrees F,2.1664
+Kachemak Bay National Estuarine Research Reserve,89,2020-12-31,2021-02-03,I Moderate,duration,days,35
+Kachemak Bay National Estuarine Research Reserve,89,2020-12-31,2021-02-03,I Moderate,intensity_mean,degrees F,2.5485
+Kachemak Bay National Estuarine Research Reserve,90,2022-05-22,2022-06-17,II Strong,duration,days,27
+Kachemak Bay National Estuarine Research Reserve,90,2022-05-22,2022-06-17,II Strong,intensity_mean,degrees F,3.117
+Kachemak Bay National Estuarine Research Reserve,91,2022-08-28,2022-09-16,I Moderate,duration,days,20
+Kachemak Bay National Estuarine Research Reserve,91,2022-08-28,2022-09-16,I Moderate,intensity_mean,degrees F,1.9351
+Kachemak Bay National Estuarine Research Reserve,92,2022-11-23,2022-11-27,I Moderate,duration,days,5
+Kachemak Bay National Estuarine Research Reserve,92,2022-11-23,2022-11-27,I Moderate,intensity_mean,degrees F,1.9134
+Kachemak Bay National Estuarine Research Reserve,93,2023-01-06,2023-01-10,I Moderate,duration,days,5
+Kachemak Bay National Estuarine Research Reserve,93,2023-01-06,2023-01-10,I Moderate,intensity_mean,degrees F,2.2275
+Kachemak Bay National Estuarine Research Reserve,94,2023-01-21,2023-01-27,I Moderate,duration,days,7
+Kachemak Bay National Estuarine Research Reserve,94,2023-01-21,2023-01-27,I Moderate,intensity_mean,degrees F,2.248
+Kachemak Bay National Estuarine Research Reserve,95,2023-02-02,2023-02-10,I Moderate,duration,days,9
+Kachemak Bay National Estuarine Research Reserve,95,2023-02-02,2023-02-10,I Moderate,intensity_mean,degrees F,2.3696
+Kachemak Bay National Estuarine Research Reserve,96,2023-09-24,2023-09-28,I Moderate,duration,days,5
+Kachemak Bay National Estuarine Research Reserve,96,2023-09-24,2023-09-28,I Moderate,intensity_mean,degrees F,1.5735
+Kachemak Bay National Estuarine Research Reserve,97,2023-11-24,2023-12-18,I Moderate,duration,days,25
+Kachemak Bay National Estuarine Research Reserve,97,2023-11-24,2023-12-18,I Moderate,intensity_mean,degrees F,2.5339
